@@ -7,12 +7,12 @@
     },
     "_id": "ncpfA90wSPILJVaDqZNYM5zdw9bttK",
     "_init": true,
-    "_rev": "qtQ61mdplAbAmm5maQjKtAZqXLo3xn",
+    "_rev": "WHzaEYT7mq78NSCciq79qBJKRLjRRd",
     "_timestamp": {
-      "_nanoseconds": 912000000,
-      "_seconds": 1783843119
+      "_nanoseconds": 946000000,
+      "_seconds": 1782052621
     },
-    "_timestamp_ms": 1783843119912,
+    "_timestamp_ms": 1782052621946,
     "_type": "batch",
     "_version": "3.0.1",
     "batchFermentables": [
@@ -986,11 +986,9 @@
     "measuredAttenuation": 69.9,
     "measuredBatchSize": 12,
     "measuredBoilSize": 18,
-    "measuredBottlingSize": 10,
     "measuredConversionEfficiency": null,
     "measuredEfficiency": 57.94,
     "measuredFermenterTopUp": 0,
-    "measuredFg": 1.016,
     "measuredKettleEfficiency": 59.19,
     "measuredKettleSize": 15,
     "measuredMashEfficiency": 68.94,

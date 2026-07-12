@@ -1,4 +1,4 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-07-12 09:07
+# Brewfather Batches - Clean Readable Master - updated 2026-07-12 09:59
 
 Total batches: 40
 
@@ -17,7 +17,7 @@ Total batches: 40
 | Item | Target | Actual |
 |---|---:|---:|
 | OG | 1.057 | 1.055 |
-| FG | 1.016 |  |
+| FG | 1.016 | 1.016 |
 | ABV % | 5.38 | 5.1 |
 | IBU | 30.5 | 31 |
 | Colour EBC | 32.6 | 32.7 |
@@ -26,7 +26,7 @@ Total batches: 40
 | Mash pH | 5.35 | 5.55 |
 | Batch size L | 12 | 12 |
 | Boil size L | 18 | 18 |
-| Kegged / bottling volume L | 10 |  |
+| Kegged / bottling volume L | 10 | 10 |
 | Brewhouse efficiency % | 59.6 | 57.94 |
 | Mash efficiency % | 72 | 68.94 |
 | Measured attenuation % |  | 69.9 |
