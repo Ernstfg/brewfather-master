@@ -587,6 +587,7 @@ def fetch_brewfather_recipes(
 
     while True:
         params: Dict[str, Any] = {
+            "complete": True,
             "limit": MAX_LIMIT,
             "order_by": "_id",
             "order_by_direction": "asc",
