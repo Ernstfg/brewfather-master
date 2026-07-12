@@ -1,0 +1,4625 @@
+Brewfather Batches - Clean Readable Master - updated 2026-07-12 09:07
+======================================================================
+
+Total batches: 40
+
+==========================================================================================
+Batch #45 - Stout
+==========================================================================================
+
+Overview
+--------------------
+Status: Conditioning
+Style: Oatmeal Stout
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2026-06-13
+Fermentation start: 2026-06-13
+Kegging / bottling date: 2026-06-21
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.057          1.055
+FG                                      1.016               
+ABV %                                    5.38            5.1
+IBU                                      30.5             31
+Colour EBC                               32.6           32.7
+Pre-boil gravity                        1.047          1.045
+Post-boil gravity                       1.057               
+Mash pH                                  5.35           5.55
+Batch size L                               12             12
+Boil size L                                18             18
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   59.6          57.94
+Mash efficiency %                          72          68.94
+Measured attenuation %                                  69.9
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup (clear transfer)
+Sparge formula: 0
+Boil-off per hour L: 2.9
+Fermenter loss L: 2
+Trub/chiller loss L: 2.5
+
+Fermentables
+--------------------
+  - 1 kg Swaen Pilsner (26.25%, The Swaen, 1.9 EBC)
+  - 0.6 kg Swaen Munich Light (15.75%, The Swaen, 6.6 EBC)
+  - 0.6 kg Swaen Vienna (15.75%, The Swaen, 5.1 EBC)
+  - 0.48 kg Flaked Torrefied Oats (12.6%, Crisp, 2.538 EBC)
+  - 0.4 kg Swaen Ale (10.5%, The Swaen, 3.6 EBC)
+  - 0.35 kg BlackSwaen Coffee (9.19%, The Swaen, 329.949 EBC)
+  - 0.28 kg GoldSwaen Classic (7.35%, The Swaen, 61 EBC)
+  - 0.1 kg Carafa Special II (2.62%, Weyermann, 558.376 EBC)
+  - 0.1 kg Malteurop Pilsen (0%, Malteurop Malting Co., 1.8 EBC)
+
+Hops
+--------------------
+  - 30 g Hallertau Perle - Boil, 60 min, 6.3% AA, 30.5 IBU
+
+Yeast
+--------------------
+  - 1 pkg WHC Lab British Pub Ale (Bond) - 16–21 °C; 80% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 3 g Baking Soda (NaHCO3) - Mash, Water Agent
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 1.8 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Biofine Clear - Boil, Fining, 10 days
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 66 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 21 °C for 3 days
+  - Primary: 21 °C for 4 days at 12 PSI
+  - Primary: 2 °C for 3 days at 12 PSI
+
+Water profile
+--------------------
+  Profile: pnp centre h20 bar
+  Ca 63.43, Mg 0, Na 42.11, Cl 74.2, SO4 51.48, HCO3 109.31
+  SO4/Cl ratio: 0.69
+  Target mash pH: 5.35
+
+Recipe notes
+--------------------
+Didn't have maris otter or ale. So mixed up what I had at hand. 
+
+First time using swaen coffee malt. 
+
+Spund after 3rd day fermentation. Run at 12psi. O
+
+Future notes:
+
+Needs 5 weeks in keg.
+
+Taste
+--------------------
+Rating: 0
+
+Batch log / status notes
+--------------------
+  - 2026-06-13 10:33 Brewing (statusChanged)
+  - 2026-06-13 19:01 Fermenting (statusChanged)
+  - 2026-06-21 16:35 Conditioning (statusChanged)
+
+
+==========================================================================================
+Batch #44 - APA
+==========================================================================================
+
+Overview
+--------------------
+Status: Conditioning
+Style: American Pale Ale
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2026-05-17
+Fermentation start: 2026-05-17
+Kegging / bottling date: 2026-06-01
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.047          1.049
+FG                                      1.010          1.010
+ABV %                                    4.86            5.1
+IBU                                      33.7             35
+Colour EBC                                6.7            6.9
+Pre-boil gravity                        1.040          1.041
+Post-boil gravity                       1.047          1.049
+Mash pH                                  5.36            5.4
+Batch size L                               12             12
+Boil size L                                18             18
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   59.6          61.87
+Mash efficiency %                          72           73.8
+Measured attenuation %                                  78.9
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup (clear transfer)
+Sparge formula: 0
+Boil-off per hour L: 2.9
+Fermenter loss L: 2
+Trub/chiller loss L: 2.5
+
+Fermentables
+--------------------
+  - 2.7 kg Swaen Ale (90.3%, The Swaen, 3.6 EBC)
+  - 0.13 kg Carahell (4.35%, Weyermann, 13 EBC)
+  - 0.1 kg Dextrin Malt (3.34%, Crisp, 1.523 EBC)
+  - 0.06 kg GoldSwaen Classic (2.01%, The Swaen, 61 EBC)
+  - 0.1 kg Swaen Pilsner (0%, The Swaen, 1.9 EBC)
+
+Hops
+--------------------
+  - 10 g Centennial - Boil, 60 min, 10% AA, 17.3 IBU
+  - 15 g Cascade - Boil, 10 min, 5.5% AA, 6.1 IBU
+  - 10 g Centennial - Boil, 5 min, 10% AA, 4.8 IBU
+  - 20 g Cascade - Boil, 0 min, 5.5% AA, 1.8 IBU
+  - 15 g Cascade - Aroma, 20 min, 76 °C, 5.5% AA, 1.3 IBU
+  - 15 g Centennial - Aroma, 20 min, 76 °C, 10% AA, 2.4 IBU
+
+Yeast
+--------------------
+  - 1 pkg Fermentis SafAle German Ale (K-97) - 15–20 °C; 81% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1.5 ml Lactic Acid - Mash, Water Agent
+  - 5 g Irish Moss - Boil, Fining, 10 min
+  - 1 g Yeast Nutrient (WLN1000) - Boil, Other, 10 min
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 65 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 18 °C for 10 days
+  - Primary: 2 °C for 3 days
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 63.62, Mg 0.2, Na 0.3, Cl 55.34, SO4 86.36, HCO3 0
+  SO4/Cl ratio: 1.56
+  Target mash pH: 5.36
+
+Batch notes
+--------------------
+Mash temp start at 65 after hit water was 68. 
+Mash ph 5.85. Added 2ml lactic acid. 
+
+PH actual is an estimate. 
+
+Boil volume: 17.5. Half liter less than estimate. Need adjustment in app for the future. Added half.liter water. The suggested 880ml extra water to hit 1.040. I added 500ml and ended on 1.041. 
+
+Trub and wort left in kettle after transfer : 2.5 liter 
+
+Ground water was cold. Quickly chilled to 22 deg C.
+
+ Successful K-97 APA trial. No dry hop. Hop aroma present from hot-side additions only. Mash pH unreliable due to failed meter; estimated actual 5.4. Recipe/process repeatable, with equipment profile adjustment needed for boil-off and kettle loss.
+
+Taste
+--------------------
+Rating: 0
+
+Batch log / status notes
+--------------------
+  - 2026-05-17 07:53 Brewing (statusChanged)
+  - 2026-05-17 12:48 Fermenting (statusChanged)
+  - 2026-05-17 12:48 Fermenting: Pitched yeast at 19.5
+  - 2026-05-18 07:11 Fermenting: Krausen noted after 18 hours. Ferm temp settled at 18.5.
+  - 2026-05-26 15:46 Fermenting: Started to cool down to cold crash temp
+  - 2026-06-01 09:32 Conditioning (statusChanged)
+
+
+==========================================================================================
+Batch #43 - Stout
+==========================================================================================
+
+Overview
+--------------------
+Status: Conditioning
+Style: Oatmeal Stout
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2026-04-25
+Fermentation start: 2026-04-25
+Kegging / bottling date: 2026-05-08
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.056          1.058
+FG                                      1.015          1.019
+ABV %                                    5.38            5.1
+IBU                                      25.9             27
+Colour EBC                               39.5           40.4
+Pre-boil gravity                        1.047          1.047
+Post-boil gravity                       1.056          1.058
+Mash pH                                   5.3            5.8
+Batch size L                               12               
+Boil size L                                18           17.5
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   59.6          62.25
+Mash efficiency %                          72             70
+Measured attenuation %                                  66.2
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup (clear transfer)
+Sparge formula: 0
+Boil-off per hour L: 2.9
+Fermenter loss L: 2
+Trub/chiller loss L: 2.5
+
+Fermentables
+--------------------
+  - 1.2 kg Finest Maris Otter® Ale Malt (32.79%, Crisp, 3.299 EBC)
+  - 0.9 kg Swaen Ale (24.59%, The Swaen, 3.6 EBC)
+  - 0.46 kg Flaked Torrefied Oats (12.57%, Crisp, 2.538 EBC)
+  - 0.46 kg Swaen Munich Light (12.57%, The Swaen, 6.6 EBC)
+  - 0.28 kg Caramunich II (7.65%, Weyermann, 63 EBC)
+  - 0.24 kg Chocolate Malt (6.56%, Crisp, 529.442 EBC)
+  - 0.12 kg Carafa Special II (3.28%, Weyermann, 558.376 EBC)
+  - 0.1 kg Swaen Pilsner (0%, The Swaen, 1.9 EBC)
+
+Hops
+--------------------
+  - 33 g East Kent Goldings (EKG) - Boil, 60 min, 4.1% AA, 21.8 IBU
+  - 17 g East Kent Goldings (EKG) - Boil, 10 min, 4.1% AA, 4.1 IBU
+
+Yeast
+--------------------
+  - 250 ml WHC Lab British Pub Ale (Bond) - 16–21 °C; 80% attenuation; Notes: Repitch g01
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2.5 g Baking Soda (NaHCO3) - Mash, Water Agent
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Biofine Clear - Boil, Fining, 10 days
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 68 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 20 °C for 7 days at 12 PSI
+  - Primary: 2 °C for 3 days
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 66.22, Mg 0.2, Na 28.37, Cl 80.5, SO4 58.5, HCO3 72.87
+  SO4/Cl ratio: 0.73
+  Target mash pH: 5.3
+
+Recipe notes
+--------------------
+Spund after 1 day fermentation. Run at 12psi. 
+
+Will be first batch on adjsted 12 liter profile. 
+
+Future notes:
+
+Needs 5 weeks in keg.
+
+Batch notes
+--------------------
+first gen whc pub ale. minor adjustments to malt bill to make up for maris otter.
+
+Taste
+--------------------
+Rating: 0
+
+Batch log / status notes
+--------------------
+  - 2026-04-25 11:11 Brewing (statusChanged)
+  - 2026-04-25 11:54 Brewing: Mash ph was 6.6. Added 1 ml lactic acid.
+  - 2026-04-25 21:55 Fermenting (statusChanged)
+  - 2026-05-04 16:10 Fermenting: Started cold crash
+  - 2026-05-08 08:14 Conditioning (statusChanged)
+
+
+==========================================================================================
+Batch #42 - Stout
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Oatmeal Stout
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2026-04-10
+Fermentation start: 2026-04-10
+Kegging / bottling date: 2026-04-23
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.056          1.050
+FG                                      1.015          1.015
+ABV %                                    5.38            4.6
+IBU                                      26.4             27
+Colour EBC                                 36             36
+Pre-boil gravity                        1.044          1.044
+Post-boil gravity                       1.056          1.050
+Mash pH                                  5.32            5.5
+Batch size L                               12           12.4
+Boil size L                             18.58             18
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   68.6          63.79
+Mash efficiency %                          80           77.5
+Measured attenuation %                                  69.1
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 1.8 kg Finest Maris Otter® Ale Malt (55.05%, Crisp, 3.299 EBC)
+  - 0.4 kg Flaked Torrefied Oats (12.23%, Crisp, 2.538 EBC)
+  - 0.4 kg Swaen Munich Light (12.23%, The Swaen, 6.6 EBC)
+  - 0.27 kg Caramunich II (8.26%, Weyermann, 63 EBC)
+  - 0.2 kg Chocolate Malt (6.12%, Crisp, 529.442 EBC)
+  - 0.1 kg Carafa II (3.06%, Weyermann, 415 EBC)
+  - 0.1 kg Swaen Pilsner (3.06%, The Swaen, 1.9 EBC)
+
+Hops
+--------------------
+  - 10 g African Queen - Boil, 60 min, 10.8% AA, 20.8 IBU
+  - 6 g Saaz - Boil, 60 min, 2.6% AA, 3 IBU
+  - 10 g Saaz - Boil, 15 min, 2.6% AA, 2.6 IBU
+
+Yeast
+--------------------
+  - 1 pkg WHC Lab British Pub Ale (Bond) - 16–21 °C; 80% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2.5 g Baking Soda (NaHCO3) - Mash, Water Agent
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Biofine Clear - Boil, Fining, 10 days
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 68 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 20 °C for 7 days at 12 PSI
+  - Primary: 2 °C for 3 days
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 66.22, Mg 0.2, Na 35.39, Cl 80.5, SO4 58.5, HCO3 91.09
+  SO4/Cl ratio: 0.73
+  Target mash pH: 5.32
+
+Recipe notes
+--------------------
+Spund after 1 day fermentation 
+
+Future notes:
+
+Needs 5 weeks in keg. 
+
+Less ekg. Say 30 grams. With a touch of perle or hallertau m. 
+
+2026 batches made with whc pub ale. Ferment lower. 
+2025 used so4.
+
+Batch notes
+--------------------
+Added 200 grams table sugar to hit gravity.
+
+Taste
+--------------------
+Rating: 0
+
+Batch log / status notes
+--------------------
+  - 2026-04-10 10:50 Brewing (statusChanged)
+  - 2026-04-10 18:50 Fermenting (statusChanged)
+  - 2026-04-10 18:51 Brewing: Pitched yeast at 20dC.
+  - 2026-04-17 06:54 Fermenting: Started cold crash. Fg stable after 48 hours.
+  - 2026-04-23 17:59 Conditioning (statusChanged)
+  - 2026-06-03 16:40 Completed (statusChanged)
+  - 2026-06-09 15:39 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #41 - Swart bier 2026
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Schwarzbier
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2026-03-15
+Fermentation start: 2026-03-15
+Kegging / bottling date: 2026-03-29
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.053          1.055
+FG                                      1.014          1.012
+ABV %                                    5.12            5.6
+IBU                                      28.7             30
+Colour EBC                               25.6           26.3
+Pre-boil gravity                        1.044          1.044
+Post-boil gravity                       1.053          1.055
+Mash pH                                  5.33           5.29
+Batch size L                               12             12
+Boil size L                              17.5             17
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   61.7          63.84
+Mash efficiency %                          72          69.94
+Measured attenuation %                                  77.4
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 2.9
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 2 kg Swaen Pilsner (58.65%, The Swaen, 1.9 EBC)
+  - 0.63 kg Swaen Munich Light (18.48%, The Swaen, 6.6 EBC)
+  - 0.55 kg Swaen Vienna (16.13%, The Swaen, 5.1 EBC)
+  - 0.21 kg Carafa Special II (6.16%, Weyermann, 558.376 EBC)
+  - 0.02 kg Carafa II (0.59%, Weyermann, 415 EBC)
+
+Hops
+--------------------
+  - 18 g Perle - Boil, 60 min, 5% AA, 15.4 IBU
+  - 10 g Hallertauer Mittelfrueh - Boil, 60 min, 3.2% AA, 5.5 IBU
+  - 22.2 g Hallertauer Mittelfrueh - Boil, 15 min, 3.2% AA, 6 IBU
+  - 16.7 g Hallertauer Mittelfrueh - Boil, 5 min, 3.2% AA, 1.8 IBU
+
+Yeast
+--------------------
+  - 1 pkg WHC Lab Fast Lager (Blitz Lager) - 16–20 °C; 77% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2.5 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1.5 ml Lactic Acid - Mash, Water Agent
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 0.1 g Zync tablet  - Boil, Other, 15 min
+  - 3 ml Biofine Clear - Secondary, Fining
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 65 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 17 °C for 6 days
+  - Crasj: 2 °C for 4 days
+
+Water profile
+--------------------
+  Profile: spar spring
+  Ca 60.77, Mg 0.2, Na 3.3, Cl 69.76, SO4 62.1, HCO3 3.4
+  SO4/Cl ratio: 0.89
+  Target mash pH: 5.33
+
+Recipe notes
+--------------------
+Decided on whc blitz lager.
+
+Taste
+--------------------
+Rating: 63
+Blitz lager give zero yeast  character. 
+The overboil did concentrate the darker malts. 
+Beer turned out rather a dryer stout. Boring. No off flavors
+
+Batch log / status notes
+--------------------
+  - 2026-03-15 09:57 Brewing (statusChanged)
+  - 2026-03-15 11:52 Planning (statusChanged)
+  - 2026-03-15 11:52 Brewing (statusChanged)
+  - 2026-03-15 13:13 Brewing: Probably boiled 5 - 10 minutes too long. Added 1.2 liter boiled water.
+  - 2026-03-15 19:49 Brewing: Pitched yeast at 17dc. Going to collect co2 and do pressure fermentation once all sanitiser has been displaced.
+  - 2026-03-15 19:50 Fermenting (statusChanged)
+  - 2026-03-16 06:14 Fermenting: 11 hours lag time still sign of fermentation
+  - 2026-03-16 18:38 Fermenting: Seems like fermentation stalled.
+  - 2026-03-17 05:46 Fermenting: Fermenter started again. Think issue was with gas caps on pressure lid.
+  - 2026-03-22 07:56 Fermenting: Cold crashing
+  - 2026-03-29 15:18 Conditioning (statusChanged)
+  - 2026-05-19 18:51 Completed (statusChanged)
+  - 2026-05-21 07:34 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #40 - Helles bock
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Helles Bock
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2026-02-23
+Fermentation start: 2026-02-24
+Kegging / bottling date: 2026-03-14
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.069          1.064
+FG                                      1.013          1.010
+ABV %                                    7.35            7.1
+IBU                                      31.3             34
+Colour EBC                                6.2            6.2
+Pre-boil gravity                        1.057          1.050
+Post-boil gravity                       1.069          1.064
+Mash pH                                   5.4               
+Batch size L                               12             13
+Boil size L                              17.5               
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   61.7          62.02
+Mash efficiency %                          72          63.16
+Measured attenuation %                                  83.6
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 2.5
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 3 kg Swaen Pilsner (68.18%, The Swaen, 1.9 EBC)
+  - 1 kg Swaen Vienna (22.73%, The Swaen, 5.1 EBC)
+  - 0.4 kg Swaen Munich Light (9.09%, The Swaen, 6.6 EBC)
+
+Hops
+--------------------
+  - 15 g Hallertau Perle - Boil, 60 min, 6.5% AA, 14.9 IBU
+  - 10 g Southern Aroma - Boil, 60 min, 5.6% AA, 8.5 IBU
+  - 15 g Hallertauer Mittelfrueh - Boil, 10 min, 4% AA, 3.3 IBU
+  - 15 g Southern Aroma - Boil, 10 min, 5.6% AA, 4.6 IBU
+
+Yeast
+--------------------
+  - 1 pkg Lallemand (LalBrew) Diamond Lager - 10–15 °C; 80% attenuation; Notes: 300ml slurry
+
+Miscellaneous / water agents / finings
+--------------------
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 1.5 g Epsom Salt (MgSO4) - Mash, Water Agent
+  - 1 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2.5 ml Lactic Acid - Mash, Water Agent
+  - 1 g Irish Moss - Boil, Fining, 10 min
+  - 1 g Yeast Nutrients - Boil, Other, 10 min
+  - 1 ml Gelatin - Primary, Fining
+
+Mash profile
+--------------------
+  Profile: Traditional grain with max fermentability
+  - Temperature: 63 °C for 30 min
+  - Temperature: 70 °C for 30 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 17 °C for 1 days
+  - Primary: 12 °C for 3 days
+  - Primary: 17 °C for 4 days; ramp 4
+  - crash: 2 °C for 5 days
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 52.1, Mg 7.48, Na 0.3, Cl 77.51, SO4 57.51, HCO3 0
+  SO4/Cl ratio: 0.74
+  Target mash pH: 5.4
+
+Taste
+--------------------
+Rating: 80
+Happy with first bock. 
+
+Perhaps too alcohol-ly for my taste. 
+
+Great recipe to scale down for a lager.
+
+Batch log / status notes
+--------------------
+  - 2026-02-23 18:23 Brewing (statusChanged)
+  - 2026-02-24 07:46 Fermenting (statusChanged)
+  - 2026-02-24 07:46 Fermenting: Not sure if repitch was strong enough 😩
+  - 2026-02-24 22:00 Fermenting: Dropped temp to 12 (thick bubbly krausen)
+  - 2026-03-05 06:43 Fermenting: Fg constant for 48 hours
+Added 15pdi to fermenter
+Start cold crash
+  - 2026-03-05 07:00 Conditioning (statusChanged)
+  - 2026-03-14 11:02 Completed (statusChanged)
+  - 2026-03-14 11:02 Fermenting (statusChanged)
+  - 2026-03-14 11:02 Conditioning (statusChanged)
+  - 2026-04-26 11:38 Completed (statusChanged)
+  - 2026-04-26 11:38 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #39 - Third lager
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: International Pale Lager
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2026-02-02
+Fermentation start: 2026-02-02
+Kegging / bottling date: 2026-02-23
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.049          1.051
+FG                                      1.007          1.009
+ABV %                                    5.51            5.5
+IBU                                      26.5             27
+Colour EBC                                4.5            4.5
+Pre-boil gravity                        1.041          1.041
+Post-boil gravity                       1.049          1.051
+Mash pH                                  5.46               
+Batch size L                               12             13
+Boil size L                              17.5           17.5
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   61.7          69.54
+Mash efficiency %                          72             72
+Measured attenuation %                                  81.7
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 2.9
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 3 kg Swaen Pilsner (96.99%, The Swaen, 1.9 EBC)
+  - 0.093 kg Melanoidin (3.01%, Weyermann, 30 EBC)
+
+Hops
+--------------------
+  - 17 g Hallertau Perle - Boil, 60 min, 6.5% AA, 19.5 IBU
+  - 20 g Hallertauer Mittelfrueh - Boil, 15 min, 4% AA, 7 IBU
+  - 20 g Saaz - Boil, 0 min, 4.5% AA, 0 IBU
+
+Yeast
+--------------------
+  - 2 pkg Lallemand (LalBrew) Diamond Lager - 10–15 °C; 80% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1 ml Lactic Acid - Mash, Water Agent
+  - 1 ml Gelatin - Secondary, Fining
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 66 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Quick Method)
+  - Primary: 17 °C for 1 days
+  - Primary: 12 °C for 4 days
+  - Primary: 16 °C for 4 days
+  - Primary: 5 °C for 2 days
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 67, Mg 0.2, Na 0.3, Cl 81.39, SO4 59.18, HCO3 0
+  SO4/Cl ratio: 0.73
+  Target mash pH: 5.46
+
+Taste
+--------------------
+Rating: 61
+Musty taste
+
+Batch log / status notes
+--------------------
+  - 2026-02-02 22:16 Fermenting (statusChanged)
+  - 2026-02-02 22:16 Fermenting: Pitched 2 packs of yeast at 17dc (then decrease to 12 after 8 hours).
+  - 2026-02-03 07:30 Fermenting: Dropped temp to 12.
+  - 2026-02-06 18:54 Fermenting: Set STC at 17 for free rise as sg is 1.018
+  - 2026-02-11 10:59 Fermenting: Started cold crash
+  - 2026-02-13 10:59 Fermenting: Added gelatine. Added 15 psi gas.
+  - 2026-02-23 17:52 Conditioning (statusChanged)
+  - 2026-03-23 15:32 Completed (statusChanged)
+  - 2026-03-23 15:32 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #38 - Lager pseudo idea ii
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: International Pale Lager
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2026-01-18
+Fermentation start: 2026-01-18
+Kegging / bottling date: 2026-02-02
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.049          1.051
+FG                                      1.010          1.008
+ABV %                                    5.12            5.6
+IBU                                        25             25
+Colour EBC                                5.2            5.2
+Pre-boil gravity                        1.041          1.041
+Post-boil gravity                       1.049               
+Mash pH                                  5.46            5.4
+Batch size L                               12               
+Boil size L                              17.5           17.5
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   61.7          64.25
+Mash efficiency %                          72             72
+Measured attenuation %                                  83.7
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 2.9
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 3 kg Pale Malt 2-Row (92.59%, SAB, 2 EBC)
+  - 0.14 kg Melanoidin (4.32%, Weyermann, 30 EBC)
+  - 0.1 kg Oats, Flaked (3.09%, 1 EBC)
+
+Hops
+--------------------
+  - 17 g Southern Aroma - Boil, 60 min, 5.6% AA, 16.8 IBU
+  - 23 g Southern Aroma - Boil, 10 min, 5.6% AA, 8.2 IBU
+  - 30 g Southern Aroma - Boil, 0 min, 5.6% AA, 0 IBU
+
+Yeast
+--------------------
+  - 1 pkg WHC Lab Electrifyingly Clean Thermotolerant (High Voltage) - 31–35 °C; 80% attenuation; Notes: Calculate, probably 7/8 grams needed
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1 ml Lactic Acid - Mash, Water Agent
+  - 1 g Irish Moss - Boil, Fining, 15 min
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 1 ml Gelatin - Primary, Fining
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 66 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 28 °C for 7 days at 12 PSI
+  - Crash: 2 °C for 4 days at 12 PSI
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 71.46, Mg 0.2, Na 0.3, Cl 61.42, SO4 96.91, HCO3 0
+  SO4/Cl ratio: 1.58
+  Target mash pH: 5.46
+
+Recipe notes
+--------------------
+Second gen --> southern aroma
+Third gen --> 34/70 in stock
+Eventually wanna do diamond lager
+
+Batch notes
+--------------------
+PH pre boil: 5.27
+
+Batch log / status notes
+--------------------
+  - 2026-01-18 18:32 Fermenting (statusChanged): Pitched yeast at 28
+  - 2026-01-22 20:30 Fermenting: Started cold crash.
+  - 2026-01-26 15:44 Fermenting: 1 tsp gelatine in morning
+  - 2026-02-02 14:08 Completed (statusChanged)
+  - 2026-02-27 04:43 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #37 - Lager Idea 1 pseudo 
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: International Pale Lager
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2026-01-04
+Fermentation start: 2026-01-04
+Kegging / bottling date: 2026-01-17
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.048          1.050
+FG                                      1.010               
+ABV %                                    4.99            5.3
+IBU                                      24.5             27
+Colour EBC                                5.2            5.6
+Pre-boil gravity                        1.038          1.040
+Post-boil gravity                       1.048          1.050
+Mash pH                                  5.46           5.12
+Batch size L                               12             12
+Boil size L                             18.58             17
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   61.7          64.51
+Mash efficiency %                          72          69.34
+Measured attenuation %                                  79.3
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 3 kg Pale Malt 2-Row (94.64%, SAB, 2 EBC)
+  - 0.12 kg Melanoidin (3.79%, Weyermann, 30 EBC)
+  - 0.05 kg Carahell (1.58%, Weyermann, 13 EBC)
+
+Hops
+--------------------
+  - 15 g Saaz - Boil, 60 min, 2.6% AA, 7.8 IBU
+  - 4 g African Queen - Boil, 60 min, 13% AA, 10.5 IBU
+  - 35 g Saaz - Boil, 10 min, 2.6% AA, 6.2 IBU
+  - 30 g Saaz - Boil, 0 min, 2.6% AA, 0 IBU
+
+Yeast
+--------------------
+  - 1 pkg WHC Lab Electrifyingly Clean Thermotolerant (High Voltage) - 31–35 °C; 80% attenuation; Notes: Calculate, probably 7/8 grams needed
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1 ml Lactic Acid - Mash, Water Agent
+  - 1 g Irish Moss - Boil, Fining, 15 min
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 1 ml Gelatin - Primary, Fining
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 66 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 28 °C for 7 days at 12 PSI
+  - Crash: 2 °C for 4 days at 12 PSI
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 61.45, Mg 0.2, Na 0.3, Cl 53.65, SO4 83.44, HCO3 0
+  SO4/Cl ratio: 1.56
+  Target mash pH: 5.46
+
+Recipe notes
+--------------------
+Second gen --> southern aroma
+Third gen --> 34/70 in stock
+Eventually wanna do diamond lager
+
+Batch notes
+--------------------
+Ph pre yeast : 5.38
+
+Batch log / status notes
+--------------------
+  - 2026-01-04 14:14 Brewing (statusChanged)
+  - 2026-01-04 18:59 Fermenting (statusChanged): Pitcher 11g yeast at 28 dC.
+  - 2026-01-05 06:52 Fermenting: Pitched yeast at 28 but forgot the stc at 30.
+  - 2026-01-08 21:09 Fermenting: Started cold crash
+  - 2026-01-12 07:06 Fermenting: Added gelatine. 
+Added pressure back to 15psi.
+  - 2026-01-17 12:15 Conditioning (statusChanged)
+  - 2026-02-27 04:43 Completed (statusChanged)
+  - 2026-02-27 04:43 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #36 - London Pub gen 2 Weskus
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Specialty IPA
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2025-12-01
+Fermentation start: 2025-12-02
+Kegging / bottling date: 2025-12-11
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.050          1.044
+FG                                      1.010               
+ABV %                                    5.25            4.5
+IBU                                      46.8             48
+Colour EBC                                  5              5
+Pre-boil gravity                        1.037          1.039
+Post-boil gravity                       1.050          1.044
+Mash pH                                   5.4            5.1
+Batch size L                               12             13
+Boil size L                             18.58          18.58
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   61.7          58.99
+Mash efficiency %                          72          75.89
+Measured attenuation %                                  76.6
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 3 kg Pale Malt 2-Row (92.59%, SAB, 2 EBC)
+  - 0.1 kg Melanoidin (3.09%, Weyermann, 30 EBC)
+  - 0.08 kg Sugar, Table (Sucrose) (2.47%, 1 EBC)
+  - 0.06 kg Carahell (1.85%, Weyermann, 13 EBC)
+
+Hops
+--------------------
+  - 10 g African Queen - Boil, 60 min, 13% AA, 23.8 IBU
+  - 15 g Southern Dawn - Boil, 10 min, 11.7% AA, 10.7 IBU
+  - 15 g African Queen - Boil, 5 min, 13% AA, 6.5 IBU
+  - 15 g Southern Dawn - Boil, 5 min, 11.7% AA, 5.8 IBU
+  - 25 g Southern Dawn - Dry Hop, 4 min, 11.7% AA, 0 IBU
+  - 15 g African Queen - Dry Hop, 4 min, 13% AA, 0 IBU
+
+Yeast
+--------------------
+  - 300 ml WHC Lab British Pub Ale (Bond) - 18–22 °C; 79.5% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 1.9 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 4 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1.5 ml Lactic Acid - Mash, Water Agent
+  - 1 ml Gelatin - Boil, Fining, 10 days
+  - 1 g Irish Moss - Boil, Fining, 10 min
+  - 1 g Yeast Nutrients - Boil, Other, 10 min
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 64 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 18 °C for 6 days
+  - Primary: 20 °C for 2 days
+  - Crash: 2 °C for 3 days
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 71.58, Mg 0.2, Na 0.3, Cl 51.31, SO4 110.87, HCO3 0
+  SO4/Cl ratio: 2.16
+  Target mash pH: 5.4
+
+Batch log / status notes
+--------------------
+  - 2025-12-01 11:15 Brewing (statusChanged)
+  - 2025-12-01 14:13 Brewing: No idea why OG was missed.
+  - 2025-12-02 03:13 Fermenting (statusChanged)
+  - 2025-12-04 07:32 Fermenting: Added dry hops.
+  - 2025-12-07 06:19 Fermenting: Cold crash to 4dc
+  - 2025-12-11 18:43 Conditioning (statusChanged)
+  - 2026-01-22 06:36 Completed (statusChanged)
+  - 2026-01-22 06:36 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #35 - London Pub Gen 2 Amber Ale
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: American Amber Ale
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2025-11-15
+Fermentation start: 2025-11-15
+Kegging / bottling date: 2025-11-23
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.052          1.050
+FG                                      1.012          1.011
+ABV %                                    5.25            5.1
+IBU                                      35.2             37
+Colour EBC                               11.6           11.7
+Pre-boil gravity                        1.041          1.040
+Post-boil gravity                       1.052          1.050
+Mash pH                                  5.35            5.3
+Batch size L                               12             12
+Boil size L                             18.58           18.5
+Kegged / bottling volume L                 10             10
+Brewhouse efficiency %                   61.7          59.45
+Mash efficiency %                          72          69.94
+Measured attenuation %                                  77.3
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 2.5 kg Pale Malt 2-Row (74.85%, SAB, 2 EBC)
+  - 0.5 kg Munich I (14.97%, Weyermann, 7.614 EBC)
+  - 0.2 kg Carahell (5.99%, Weyermann, 13 EBC)
+  - 0.1 kg Caramunich II (2.99%, Weyermann, 63 EBC)
+  - 0.04 kg Carafa Special II (1.2%, Weyermann, 558.376 EBC)
+
+Hops
+--------------------
+  - 8 g Southern Dawn - Boil, 60 min, 11.7% AA, 18.3 IBU
+  - 22 g Southern Dawn - Boil, 10 min, 11.7% AA, 16.9 IBU
+  - 20 g African Queen - Boil, 0 min, 13% AA, 0 IBU
+
+Yeast
+--------------------
+  - 1 pkg WHC Lab British Pub Ale (Bond) - 16–21 °C; 80% attenuation; Notes: 250ml slurry repitch
+
+Miscellaneous / water agents / finings
+--------------------
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1.5 ml Lactic Acid - Mash, Water Agent
+  - 1 g Irish Moss - Boil, Fining, 10 min
+  - 5 ml Gelatin - Primary, Fining
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 64 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 19 °C for 8 days at 12 PSI
+  - Primary: 2 °C for 4 days at 12 PSI
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 62.97, Mg 0.2, Na 0.3, Cl 76.85, SO4 55.68, HCO3 0
+  SO4/Cl ratio: 0.72
+  Target mash pH: 5.35
+
+Recipe notes
+--------------------
+Apply pressure after high krausen when fermentation slows down
+
+Taste
+--------------------
+Rating: 3
+Very bland taste
+Hops were too fruity for the malt. 
+
+Got infection or was just fucking bad. Dumped.
+
+Batch log / status notes
+--------------------
+  - 2025-11-15 13:49 Brewing (statusChanged)
+  - 2025-11-15 20:31 Fermenting (statusChanged)
+  - 2025-11-15 20:31 Fermenting: Pitched 300 ml slurry at 19.8. Will ferment at 19.
+  - 2025-11-20 13:18 Fermenting: Started cold crash. Slow decrease in temp.
+  - 2025-11-23 07:17 Conditioning (statusChanged)
+  - 2025-12-14 18:27 Completed (statusChanged)
+  - 2026-01-05 06:59 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #34 - London Pub Gen 1 Stout saved by Bond
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: English Porter
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2025-11-02
+Fermentation start: 2025-11-02
+Kegging / bottling date: 2025-11-14
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.049          1.045
+FG                                      1.012          1.013
+ABV %                                    4.86            4.2
+IBU                                      35.1             36
+Colour EBC                               30.3           29.8
+Pre-boil gravity                        1.039          1.034
+Post-boil gravity                       1.049          1.045
+Mash pH                                  5.49            5.5
+Batch size L                               12             13
+Boil size L                             18.58               
+Kegged / bottling volume L                 10             10
+Brewhouse efficiency %                   61.7          61.32
+Mash efficiency %                          72          62.77
+Measured attenuation %                                  70.3
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 2 kg Finest Maris Otter® Ale Malt (65.57%, Crisp, 3.299 EBC)
+  - 0.5 kg Pilsner (16.39%, Weyermann, 1.7 EBC)
+  - 0.22 kg Carafa Special II (7.21%, Weyermann, 558.376 EBC)
+  - 0.1 kg Caramunich II (3.28%, Weyermann, 63 EBC)
+  - 0.1 kg Oats, Flaked (3.28%, Briess, 1.4 EBC)
+  - 0.07 kg Carafa II (2.3%, Weyermann, 415 EBC)
+  - 0.06 kg Melanoidin (1.97%, Weyermann, 30 EBC)
+
+Hops
+--------------------
+  - 16 g Southern Promise - Boil, 60 min, 11% AA, 35.1 IBU
+
+Yeast
+--------------------
+  - 1 pkg WHC Lab British Pub Ale - 16–21 °C; 80% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2 g Baking Soda (NaHCO3) - Mash, Water Agent
+  - 0.5 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2.5 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 2 ml Biofine Clear - Boil, Fining, 15 days
+  - 2 g Yeast Nutrients - Boil, Other, 15 min
+
+Mash profile
+--------------------
+  Profile: Max fermentability with highest yield
+  - Temperature: 65 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Ale
+  - Primary: 20 °C for 8 days
+  - crash : 2 °C for 4 days
+
+Water profile
+--------------------
+  Profile: sunday 2 novstout
+  Ca 53.02, Mg 8.8, Na 50.79, Cl 59.19, SO4 77.15, HCO3 121.07
+  SO4/Cl ratio: 1.3
+  Target mash pH: 5.49
+
+Recipe notes
+--------------------
+Added 2ml lactic acid to get 5.5 mash ph
+
+Batch notes
+--------------------
+Efficiency off but didn't recirculate. Add 150 grams extra base in future. 
+
+Fermentation made a sudden stop at 1.016. Swirled, added a drop of enzymes and increased temp to 21. Very slow fermentation noted.
+
+Batch log / status notes
+--------------------
+  - 2025-11-02 09:24 Brewing (statusChanged)
+  - 2025-11-02 18:28 Fermenting (statusChanged)
+  - 2025-11-03 06:57 Fermenting: 12 hour lag time noted
+  - 2025-11-04 05:50 Fermenting: Fermenting strong. Added spunding valve
+  - 2025-11-06 05:00 Fermenting: Very weird start stop fermentation at the end.
+  - 2025-11-11 09:02 Fermenting: Starter crashing to 3 dc.
+  - 2025-11-14 12:52 Conditioning (statusChanged)
+  - 2026-01-22 06:36 Completed (statusChanged)
+  - 2026-01-22 06:36 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #33 - US 05 Gen 2 SmaSh
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Blonde Ale
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2025-10-18
+Fermentation start: 2025-10-18
+Kegging / bottling date: 2025-10-28
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.048          1.047
+FG                                      1.008          1.011
+ABV %                                    5.25            4.7
+IBU                                      35.7             36
+Colour EBC                                  5              5
+Pre-boil gravity                        1.038               
+Post-boil gravity                       1.048               
+Mash pH                                   5.4               
+Batch size L                               12             12
+Boil size L                             18.58               
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   61.7          59.87
+Mash efficiency %                          72             72
+Measured attenuation %                                  75.9
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 3 kg Finest Maris Otter® Ale Malt (100%, Crisp, 3.299 EBC)
+
+Hops
+--------------------
+  - 10 g Southern promise - Boil, 60 min, 11% AA, 22.4 IBU
+  - 8 g Southern Promise - Boil, 10 min, 11% AA, 7.4 IBU
+  - 10 g Southern Promise - Boil, 0 min, 11% AA, 2.7 IBU
+  - 12 g Southern Promise - Aroma, 15 min, 82 °C, 11% AA, 3.2 IBU
+
+Yeast
+--------------------
+  - 1 pkg Fermentis Safale American (US-05) - 12–25 °C; 79% attenuation; Notes: Repitch from blonde
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2.5 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1.5 ml Lactic Acid - Mash, Water Agent
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 1 g Irish Moss - Boil, Fining, 10 min
+  - 1 ml Gelatin - Primary, Fining
+  - 0.1 g Amylase Enzyme - Primary, Other
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 64 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: us05
+  - Primary: 20 °C for 8 days
+  - crash: 2 °C for 4 days
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 59.69, Mg 1, Na 12, Cl 49.66, SO4 74.89, HCO3 3
+  SO4/Cl ratio: 1.51
+  Target mash pH: 5.4
+
+Recipe notes
+--------------------
+Repitch us05 300ml fresh slurry
+
+Taste
+--------------------
+Rating: 2
+Hot side oxygenated. Dump batch and yeast.
+
+Batch log / status notes
+--------------------
+  - 2025-10-18 11:14 Brewing (statusChanged)
+  - 2025-10-18 16:42 Fermenting: Pitched 400 ml slurry at 20 dc. Fermentation going about 6 hours later.
+  - 2025-10-19 13:42 Fermenting (statusChanged)
+  - 2025-10-28 07:37 Completed (statusChanged)
+  - 2025-10-28 07:37 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #32 - US 05 Gen 1 Blonde
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Blonde Ale
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2025-10-05
+Fermentation start: 2025-10-05
+Kegging / bottling date: 2025-10-19
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.049          1.047
+FG                                      1.010          1.010
+ABV %                                    5.12            4.9
+IBU                                      28.3             30
+Colour EBC                                4.6            4.6
+Pre-boil gravity                        1.039          1.038
+Post-boil gravity                       1.049          1.047
+Mash pH                                  5.34           5.26
+Batch size L                               12             13
+Boil size L                             18.58               
+Kegged / bottling volume L                 10             10
+Brewhouse efficiency %                   64.3          66.16
+Mash efficiency %                          75          73.08
+Measured attenuation %                                    78
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 2 kg Malteurop Pale Ale (67.8%, Malteurop Malting Co., 3.3 EBC)
+  - 0.6 kg Pilsner (20.34%, Weyermann, 1.7 EBC)
+  - 0.25 kg Vienna Malt (8.47%, Weyermann, 3 EBC)
+  - 0.1 kg Carapils/Carafoam (3.39%, Weyermann, 2 EBC)
+
+Hops
+--------------------
+  - 8 g Southern Promise - Boil, 60 min, 11% AA, 17.5 IBU
+  - 15 g Southern Promise - Boil, 5 min, 11% AA, 6 IBU
+  - 12 g Southern Promise - Boil, 5 min, 11% AA, 4.8 IBU
+
+Yeast
+--------------------
+  - 1 pkg Fermentis Safale American (US-05) - 12–25 °C; 79% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 3.5 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1.5 ml Lactic Acid - Mash, Water Agent
+  - 1 g Irish Moss - Boil, Fining, 15 min
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Gelatin - Primary, Fining
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 64 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: ale
+  - Primary: 22 °C for 1 days at 0 PSI
+  - Primary: 22 °C for 6 days at 12 PSI
+  - Primary: 20 °C for 1 days
+  - Primary: 2 °C for 4 days
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 67.73, Mg 0.2, Na 0.3, Cl 54.05, SO4 97.93, HCO3 0
+  SO4/Cl ratio: 1.81
+  Target mash pH: 5.34
+
+Recipe notes
+--------------------
+Spund after 1 day. 
+
+Collect CO2 for kegging.
+
+Batch notes
+--------------------
+This one got bad But I like the recipe.
+
+Taste
+--------------------
+Rating: 3
+Didnt properly screw the liquid post so half the beer pushed out when co2 added. 
+
+Hot side oxygenated. Dumped batch.
+
+Batch log / status notes
+--------------------
+  - 2025-10-05 19:11 Planning: Pitched 1 packet US 05 at 22 dC.
+  - 2025-10-05 19:11 Fermenting (statusChanged)
+  - 2025-10-07 06:41 Fermenting: Been running at 12 psi from around 30 hours from pitching.
+  - 2025-10-14 06:27 Fermenting: Started cold crash
+  - 2025-10-15 06:42 Fermenting: Added gelatine. Pressure back to 15psi.
+  - 2025-10-19 13:44 Completed (statusChanged)
+  - 2025-10-22 07:45 Completed: Bumped temp to 21 dc.
+  - 2025-10-25 04:24 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #31 - SA Pils
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: German Pils
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2025-08-27
+Fermentation start: 2025-08-28
+Kegging / bottling date: 2025-09-10
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.047               
+FG                                      1.009               
+ABV %                                    4.99              5
+IBU                                      31.6             33
+Colour EBC                                3.8            3.8
+Pre-boil gravity                        1.037          1.036
+Post-boil gravity                       1.047          1.046
+Mash pH                                  5.29           5.35
+Batch size L                               12             12
+Boil size L                             18.58           18.6
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   68.6           68.6
+Mash efficiency %                          80          77.92
+Measured attenuation %                                  80.2
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 2 kg Pale Malt 2-Row (74.07%, SAB, 2 EBC)
+  - 0.3 kg Vienna Malt (11.11%, Weyermann, 3 EBC)
+  - 0.2 kg Munich I (7.41%, Weyermann, 7.614 EBC)
+  - 0.1 kg Carapils/Carafoam (3.7%, Weyermann, 2 EBC)
+  - 0.1 kg Pilsner (3.7%, Weyermann, 1.7 EBC)
+
+Hops
+--------------------
+  - 10 g Hallertau Perle - Boil, 60 min, 6.5% AA, 13.4 IBU
+  - 10 g Hallertau Perle - Boil, 40 min, 6.5% AA, 11.6 IBU
+  - 5 g Hallertauer Mittelfrueh - Boil, 15 min, 4% AA, 2.2 IBU
+  - 15 g Hallertauer Mittelfrueh - Boil, 0 min, 4% AA, 1.5 IBU
+  - 10 g Southern Dawn - Aroma, 15 min, 11.7% AA, 2.9 IBU
+
+Yeast
+--------------------
+  - 1 pkg Lallemand (LalBrew) NovaLager - 10–20 °C; 84% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2.5 ml Lactic Acid - Mash, Water Agent
+  - 1 ml Biofine Clear - Boil, Fining, 15 days
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Gelatin - Primary, Fining
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 65 °C for 40 min
+  - Temperature: 72 °C for 20 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 17 °C for 6 days
+  - Primary: 2 °C for 5 days
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 62.58, Mg 0.2, Na 0.3, Cl 54.53, SO4 84.95, HCO3 0
+  SO4/Cl ratio: 1.56
+  Target mash pH: 5.29
+
+Recipe notes
+--------------------
+Pressure ferment novalager from day 2. 12-13 psi
+
+Batch log / status notes
+--------------------
+  - 2025-08-27 19:44 Brewing (statusChanged)
+  - 2025-08-28 09:16 Fermenting (statusChanged)
+  - 2025-08-28 09:16 Fermenting: Pitched 1 pack novalager at 17
+  - 2025-09-02 19:14 Fermenting: Started cold crash
+  - 2025-09-10 02:19 Conditioning (statusChanged)
+  - 2025-09-25 11:57 Completed (statusChanged)
+  - 2025-09-25 11:57 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #30 - Pils straat
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: German Pils
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2025-08-04
+Fermentation start: 2025-08-05
+Kegging / bottling date: 2025-08-17
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.048          1.044
+FG                                      1.010          1.010
+ABV %                                    4.99            4.5
+IBU                                      30.5             33
+Colour EBC                                3.4            3.4
+Pre-boil gravity                        1.038          1.034
+Post-boil gravity                       1.048          1.044
+Mash pH                                  5.36           4.99
+Batch size L                               12             12
+Boil size L                             18.58          18.58
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   68.6          62.91
+Mash efficiency %                          80          71.58
+Measured attenuation %                                  76.6
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 2 kg Pilsner (75.47%, Weyermann, 1.7 EBC)
+  - 0.5 kg Vienna Malt (18.87%, Weyermann, 3 EBC)
+  - 0.1 kg Munich I (3.77%, Weyermann, 7.614 EBC)
+  - 0.05 kg Carapils/Carafoam (1.89%, Weyermann, 2 EBC)
+
+Hops
+--------------------
+  - 10 g Hallertau Perle - Boil, 60 min, 6.3% AA, 12.8 IBU
+  - 5 g Hallertau Perle - Boil, 40 min, 6.5% AA, 5.8 IBU
+  - 28 g Hallertauer Mittelfrueh - Boil, 15 min, 3.2% AA, 9.6 IBU
+  - 10 g Hallertauer Mittelfrueh - Boil, 5 min, 4% AA, 2.3 IBU
+
+Yeast
+--------------------
+  - 1 pkg Fermentis Saflager Lager (W-34/70) - 12–18 °C; 84% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 0.5 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 1 g Gypsum (CaSO4) - Mash, Water Agent
+  - 3 ml Lactic Acid - Mash, Water Agent
+  - 1 ml Biofine Clear - Boil, Fining, 15 days
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Gelatin - Primary, Fining
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 65 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 13.5 °C for 5 days
+  - Primary: 16 °C for 3 days
+  - Crash: 2 °C for 4 days
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 18.89, Mg 0.2, Na 0.3, Cl 18.38, SO4 29.24, HCO3 0
+  SO4/Cl ratio: 1.59
+  Target mash pH: 5.36
+
+Recipe notes
+--------------------
+Spund when active fermentation is visible.
+
+Batch log / status notes
+--------------------
+  - 2025-08-04 16:04 Brewing (statusChanged)
+  - 2025-08-04 23:52 Brewing: Pitched yeast at 13.5 dc.
+  - 2025-08-05 09:36 Fermenting (statusChanged)
+  - 2025-08-09 08:59 Fermenting: Started d-rest at 16 dc
+  - 2025-08-12 06:40 Fermenting: Started cold crash.
+  - 2025-08-17 03:47 Completed (statusChanged)
+  - 2025-08-17 14:13 Fermenting (statusChanged)
+  - 2025-08-17 14:13 Conditioning (statusChanged)
+  - 2025-09-25 11:57 Completed (statusChanged)
+  - 2025-09-25 11:57 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #29 - Kolserig
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Kölsch
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2025-07-19
+Fermentation start: 2025-07-19
+Kegging / bottling date: 2025-08-03
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.046          1.046
+FG                                      1.008          1.010
+ABV %                                    4.99            4.7
+IBU                                      28.6             29
+Colour EBC                                  4              4
+Pre-boil gravity                        1.036          1.037
+Post-boil gravity                       1.046          1.046
+Mash pH                                  5.33           5.35
+Batch size L                               12               
+Boil size L                             18.58           18.5
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                     66          65.48
+Mash efficiency %                          77           78.8
+Measured attenuation %                                  77.6
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: BoilVolumeColdL - MashWaterL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 2.2 kg Swaen Pilsner (80%, The Swaen, 1.9 EBC)
+  - 0.5 kg Swaen Vienna (18.18%, The Swaen, 5.1 EBC)
+  - 0.05 kg Swaen Munich Light (1.82%, The Swaen, 6.6 EBC)
+
+Hops
+--------------------
+  - 10 g Hallertau Perle - Boil, 60 min, 5.5% AA, 11.3 IBU
+  - 2 g Southern Dawn - Boil, 60 min, 11.7% AA, 4.8 IBU
+  - 10 g Southern Dawn - Boil, 15 min, 11.7% AA, 11.2 IBU
+  - 10 g Saaz - Boil, 5 min, 3.5% AA, 1.3 IBU
+
+Yeast
+--------------------
+  - 1 pkg Fermentis SafAle German Ale (K-97) - 15–20 °C; 81% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 1.5 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2.5 ml Lactic Acid - Mash, Water Agent
+  - 2 ml Biofine Clear - Boil, Fining, 15 days
+  - 2 g Yeast Nutrients - Boil, Other, 15 min
+  - 2 ml Gelatin - Primary, Fining
+
+Mash profile
+--------------------
+  Profile: 63 - 70 plus mash out
+  - Temperature: 64 °C for 40 min
+  - Raise: 70 °C for 20 min
+  - Mash out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 19.5 °C for 7 days at 10 PSI
+  - Primary: 22 °C for 3 days at 13 PSI
+  - Primary: 2 °C for 4 days at 15 PSI
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 53.41, Mg 0.2, Na 0.3, Cl 56.73, SO4 60.01, HCO3 0
+  SO4/Cl ratio: 1.06
+  Target mash pH: 5.33
+
+Recipe notes
+--------------------
+Start spunding after 3 days.
+
+Batch log / status notes
+--------------------
+  - 2025-07-19 20:23 Fermenting (statusChanged)
+  - 2025-07-21 06:58 Fermenting: Started spunding
+  - 2025-07-21 10:07 Fermenting: Set spunding at 10psi. Rest collected in spare keg.
+  - 2025-07-23 20:06 Fermenting: Bumped temp.5. Spunding got to 13 psi.
+  - 2025-07-26 07:30 Fermenting: Temp to 22.
+  - 2025-07-30 07:02 Fermenting: Start cold crash - gravity stable
+  - 2025-07-31 07:30 Fermenting: Added gelatine at 2 dc.
+  - 2025-08-03 12:02 Conditioning (statusChanged)
+  - 2025-08-03 12:02 Conditioning: Kegged 9.5 liter with collected co2. 
+
+Sit 18 psi op.
+  - 2025-08-27 21:35 Completed (statusChanged)
+  - 2025-08-27 21:35 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #28 - Stout
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Oatmeal Stout
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2025-06-29
+Fermentation start: 2025-06-29
+Kegging / bottling date: 2025-07-14
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.058               
+FG                                      1.022          1.021
+ABV %                                    4.73            4.9
+IBU                                      29.3             30
+Colour EBC                                 40             40
+Pre-boil gravity                        1.046          1.046
+Post-boil gravity                       1.058          1.055
+Mash pH                                  5.33           5.55
+Batch size L                               12             12
+Boil size L                             18.58          18.58
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   68.6           68.6
+Mash efficiency %                          80             80
+Measured attenuation %                                  62.7
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 2 kg Finest Maris Otter® Ale Malt (58.48%, Crisp, 3.299 EBC)
+  - 0.4 kg Flaked Torrefied Oats (11.7%, Crisp, 2.538 EBC)
+  - 0.35 kg Swaen Munich Light (10.23%, The Swaen, 6.6 EBC)
+  - 0.27 kg Caramunich II (7.89%, Weyermann, 63 EBC)
+  - 0.2 kg Chocolate Malt (5.85%, Crisp, 529.442 EBC)
+  - 0.1 kg Roast Barley (2.92%, Crisp, 697.97 EBC)
+  - 0.1 kg Swaen Pilsner (2.92%, The Swaen, 1.9 EBC)
+
+Hops
+--------------------
+  - 22 g East Kent Goldings (EKG) - Boil, 60 min, 5% AA, 20.8 IBU
+  - 15 g East Kent Goldings (EKG) - Boil, 15 min, 5% AA, 7.4 IBU
+  - 10 g East Kent Goldings (EKG) - Boil, 0 min, 5% AA, 1.1 IBU
+
+Yeast
+--------------------
+  - 1 pkg Fermentis SafAle English Ale (S-04) - 15–20 °C; 69% attenuation; Notes: Repitched yeast 250ml slurry
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2.5 g Baking Soda (NaHCO3) - Mash, Water Agent
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Biofine Clear - Boil, Fining, 10 days
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 69 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 20 °C for 7 days at 12 PSI
+  - Primary: 4 °C for 3 days
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 62.79, Mg 0.2, Na 33.56, Cl 76.64, SO4 55.52, HCO3 86.35
+  SO4/Cl ratio: 0.72
+  Target mash pH: 5.33
+
+Recipe notes
+--------------------
+Spund after 2 days
+
+Batch notes
+--------------------
+This is the heavier outmeal stout.
+
+Taste
+--------------------
+Rating: 70
+Next time:
+
+Some pilsner malt can be in
+German hop
+Lower ibus
+Cut a bit down on the dark malts. 
+The SO4 taste was too much. Perhaps ferment colder.
+
+Batch log / status notes
+--------------------
+  - 2025-06-29 11:32 Brewing (statusChanged)
+  - 2025-06-29 20:04 Brewing: Pitched yeast at 20 dc
+  - 2025-06-30 06:24 Brewing: Noted proper fermentation.
+  - 2025-07-01 23:05 Fermenting (statusChanged)
+  - 2025-07-07 07:37 Fermenting: Cold crash at 3.5
+  - 2025-07-17 20:22 Conditioning (statusChanged)
+  - 2025-08-03 13:06 Completed (statusChanged)
+  - 2025-08-04 05:57 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #27 - Stout
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Oatmeal Stout
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2025-06-16
+Fermentation start: 2025-06-16
+Kegging / bottling date: 2025-06-28
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.055          1.050
+FG                                      1.016               
+ABV %                                    5.12            4.5
+IBU                                      28.2             29
+Colour EBC                               34.4           34.4
+Pre-boil gravity                        1.043          1.040
+Post-boil gravity                       1.055          1.050
+Mash pH                                  5.39           5.55
+Batch size L                               12               
+Boil size L                             18.58          18.58
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   68.6          62.61
+Mash efficiency %                          80          74.42
+Measured attenuation %                                  67.1
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 2 kg Finest Maris Otter® Ale Malt (64%, Crisp, 3.299 EBC)
+  - 0.25 kg Flaked Torrefied Oats (8%, Crisp, 2.538 EBC)
+  - 0.25 kg Swaen Munich Light (8%, The Swaen, 6.6 EBC)
+  - 0.2 kg Swaen Pilsner (6.4%, The Swaen, 1.9 EBC)
+  - 0.15 kg Caramunich II (4.8%, Weyermann, 63 EBC)
+  - 0.14 kg Chocolate Malt (4.48%, Crisp, 529.442 EBC)
+  - 0.085 kg Carafa Special II (2.72%, Weyermann, 558.376 EBC)
+  - 0.05 kg Roast Barley (1.6%, Crisp, 697.97 EBC)
+
+Hops
+--------------------
+  - 22 g Hallertau Perle - Boil, 60 min, 5% AA, 21.4 IBU
+  - 10 g Saaz - Boil, 60 min, 3.5% AA, 6.8 IBU
+
+Yeast
+--------------------
+  - 1 pkg Fermentis SafAle English Ale (S-04) - 15–20 °C; 75% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2.5 g Baking Soda (NaHCO3) - Mash, Water Agent
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 5 ml Biofine Clear - Boil, Fining, 15 days
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 68 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 19 °C for 7 days at 12 PSI
+  - Primary: 4 °C for 3 days
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 50.09, Mg 0.2, Na 33.94, Cl 53.72, SO4 56.14, HCO3 87.33
+  SO4/Cl ratio: 1.04
+  Target mash pH: 5.39
+
+Recipe notes
+--------------------
+Spund after 2 days
+
+Batch notes
+--------------------
+Yeast per calculator : 8.5 grams
+First outmeal stout with noble hops, was also good, needed a week more in the keg.
+
+Taste
+--------------------
+Rating: 91
+At 4 days in keg it tasted good.
+
+Batch log / status notes
+--------------------
+  - 2025-06-16 10:55 Brewing (statusChanged)
+  - 2025-06-16 11:17 Brewing: Mash ph 5.55
+  - 2025-06-16 11:18 Brewing: Forgot to take sparge water so doing 20l full volume mash.
+  - 2025-06-20 11:50 Brewing: SG 1.016
+  - 2025-06-23 18:41 Brewing: Started cold crash
+  - 2025-06-26 07:34 Brewing: Added 1 tsp gelati e
+  - 2025-06-27 05:59 Fermenting (statusChanged)
+  - 2025-06-28 12:05 Conditioning (statusChanged)
+  - 2025-06-28 12:05 Completed (statusChanged)
+  - 2025-07-17 20:20 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #26 - Black Bit II
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Schwarzbier
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2025-05-13
+Fermentation start: 2025-05-13
+Kegging / bottling date: 2025-05-25
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.051               
+FG                                      1.010               
+ABV %                                    5.38            5.5
+IBU                                      30.3             30
+Colour EBC                                 24           23.6
+Pre-boil gravity                        1.040          1.040
+Post-boil gravity                       1.051          1.049
+Mash pH                                  5.35           5.35
+Batch size L                               12             13
+Boil size L                             18.58           18.4
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                     66           71.5
+Mash efficiency %                          77          76.25
+Measured attenuation %                                  81.7
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 1.4 kg Swaen Pilsner (45.75%, The Swaen, 1.9 EBC)
+  - 1 kg Vienna Malt (32.68%, Crisp, 3.959 EBC)
+  - 0.35 kg Swaen Munich Light (11.44%, The Swaen, 6.6 EBC)
+  - 0.2 kg Carafa Special II (6.54%, Weyermann, 558.376 EBC)
+  - 0.05 kg Oats, Flaked (1.63%, Briess, 1.4 EBC)
+  - 0.05 kg Wheat Torrified (1.63%, 1.7 EBC)
+  - 0.01 kg Roasted Barley (0.33%, Weyermann, 660 EBC)
+
+Hops
+--------------------
+  - 17 g Perle - Boil, 60 min, 5% AA, 16.8 IBU
+  - 15 g Saaz - Boil, 15 min, 3.5% AA, 4.8 IBU
+  - 12 g Perle - Boil, 15 min, 5% AA, 5.5 IBU
+  - 25 g Saaz - Boil, 5 min, 3.5% AA, 3.2 IBU
+
+Yeast
+--------------------
+  - 1 pkg Lallemand (LalBrew) Diamond Lager - 10–15 °C; 80% attenuation; Notes: Yeast cake from prior batch. Not more than half. 
+
+300ml slurry. Added 250 boiled cooled wort to make a vitality starter.
+
+Miscellaneous / water agents / finings
+--------------------
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1 ml Lactic Acid - Mash, Water Agent
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 0.1 g Zync tablet  - Boil, Other, 15 min
+  - 3 ml Biofine Clear - Secondary, Fining
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 65 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 17 °C for 0.5 days
+  - Primary: 12 °C for 1.5 days
+  - Primary: 17 °C for 4 days; ramp 1
+  - Crash : 2 °C for 3 days
+
+Water profile
+--------------------
+  Profile: spar spring
+  Ca 67.95, Mg 0.2, Na 3.3, Cl 82.45, SO4 62.1, HCO3 3.4
+  SO4/Cl ratio: 0.75
+  Target mash pH: 5.35
+
+Recipe notes
+--------------------
+Lalemand fast lager fermentation profile to be followed.
+1 cup yeast slurry repitched from last batch. 
+Zinc added as above for fast lager method.
+
+Batch notes
+--------------------
+Favourite black lager. Will tone down a little on the roasted malts, and not use novalager.
+
+Taste
+--------------------
+Was good. Perhaps 1% less roast and a touch more munich.
+
+Batch log / status notes
+--------------------
+  - 2025-05-13 15:50 Brewing (statusChanged)
+  - 2025-05-13 22:24 Fermenting (statusChanged): Pitched at 16.6
+  - 2025-05-14 07:36 Fermenting: Noted fermentation. Dropped temp to 12.
+  - 2025-05-15 17:03 Fermenting: Set temp at 17 for free rise
+  - 2025-05-16 06:39 Fermenting: Temp at 17. Bubbling strong. Good krausen.
+  - 2025-05-18 15:39 Fermenting: Gravity 1.14
+  - 2025-05-20 06:44 Fermenting: SG 1.010
+  - 2025-05-21 12:03 Fermenting: Reduce temp to 15 then 13
+  - 2025-05-22 12:03 Fermenting: Cold crash to 2 degrees.
+  - 2025-05-23 08:21 Fermenting: Addedd gelatine at 2 dc.
+  - 2025-05-24 12:50 Fermenting: Poured a taster. Its a cracker!
+  - 2025-05-25 21:06 Conditioning (statusChanged)
+  - 2025-06-15 17:04 Completed (statusChanged)
+  - 2025-06-15 17:05 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #25 - Stellenlager
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: International Pale Lager
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2025-04-20
+Fermentation start: 2025-04-20
+Kegging / bottling date: 2025-05-13
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.041               
+FG                                      1.007          1.010
+ABV %                                    4.46            4.1
+IBU                                      26.1             27
+Colour EBC                                5.8            5.8
+Pre-boil gravity                        1.034          1.034
+Post-boil gravity                       1.041          1.043
+Mash pH                                  5.31            5.1
+Batch size L                               12             12
+Boil size L                             17.58          17.58
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                     60             60
+Mash efficiency %                          70             70
+Measured attenuation %                                    75
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: BoilVolumeColdL - MashWaterL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL
+Boil-off per hour L: 3
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 2 kg Pale Malt (75.76%, Weyermann, 3.3 EBC)
+  - 0.45 kg Pale Malt 2-Row (17.05%, SAB, 2 EBC)
+  - 0.11 kg Wheat Torrified (4.17%, 1.7 EBC)
+  - 0.07 kg Flaked Torrefied Oats (2.65%, Crisp, 2.538 EBC)
+  - 0.01 kg Carafa Special II (0.38%, Weyermann, 558.376 EBC)
+
+Hops
+--------------------
+  - 10 g Perle - Boil, 60 min, 8% AA, 16.7 IBU
+  - 10 g Saaz - Boil, 15 min, 4.5% AA, 4.5 IBU
+  - 10 g Perle - Boil, 5 min, 8% AA, 3.1 IBU
+  - 10 g Saaz - Boil, 5 min, 4.5% AA, 1.8 IBU
+
+Yeast
+--------------------
+  - 2 pkg Lallemand (LalBrew) Diamond Lager - 10–15 °C; 80% attenuation; Notes: Pitch 18 grams yeast
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2.3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 1.2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 3 ml Lactic Acid - Mash, Water Agent
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Biofine Clear - Secondary, Fining
+  - 5 ml Gelatin - Secondary, Fining
+
+Mash profile
+--------------------
+  Profile: Medium fermentability
+  - Temperature: 66 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 12 °C for 7 days at 12 PSI
+  - d rest: 17 °C for 3 days at 12 PSI; ramp 2
+  - crash: 2 °C for 4 days at 12 PSI
+
+Water profile
+--------------------
+  Profile: Reverse Osmosis Water
+  Ca 48.7, Mg 0, Na 8, Cl 62.38, SO4 36.22, HCO3 16
+  SO4/Cl ratio: 0.58
+  Target mash pH: 5.31
+
+Recipe notes
+--------------------
+Add spunding valve after 3 days. 
+Spunding - just to collect co2 in keg and to allow cold crash
+
+Taste
+--------------------
+Rating: 60
+The malt was very flat. The hops combination wasnt magic.
+
+Batch log / status notes
+--------------------
+  - 2025-04-20 08:42 Fermenting (statusChanged)
+  - 2025-04-20 13:02 Brewing (statusChanged)
+  - 2025-04-21 00:40 Brewing: Pitched 18 grams yeast at 12dc.
+  - 2025-04-24 06:45 Fermenting: Added spunding valve at 12psi. 
+Bumped temp +.5 dc
+  - 2025-04-27 07:28 Fermenting: Set temp on 15 for free rise to start d/rest.
+  - 2025-04-28 18:33 Fermenting: Bumped temp to 17 free rise during the day.
+  - 2025-05-01 21:37 Fermenting: Started cold crash
+  - 2025-05-02 12:12 Fermenting: Added 1 tsp gelatine
+  - 2025-05-13 10:12 Completed (statusChanged)
+  - 2025-06-03 07:18 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #24 - Stout v2 dry
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Irish Stout
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2025-04-06
+Fermentation start: 2025-04-06
+Kegging / bottling date: 2025-04-16
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.045          1.042
+FG                                      1.011          1.011
+ABV %                                    4.46            4.1
+IBU                                      30.8             33
+Colour EBC                               34.5           34.5
+Pre-boil gravity                        1.039          1.034
+Post-boil gravity                       1.045          1.042
+Mash pH                                   5.5           5.53
+Batch size L                               12             12
+Boil size L                             16.83           16.8
+Kegged / bottling volume L                 10             10
+Brewhouse efficiency %                   62.4          58.75
+Mash efficiency %                        72.8          63.35
+Measured attenuation %                                  73.1
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: BoilVolumeColdL - MashWaterL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL
+Boil-off per hour L: 3
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 2 kg Pale Malt (72.73%, Weyermann, 3.3 EBC)
+  - 0.25 kg Flaked Torrefied Oats (9.09%, Crisp, 2.538 EBC)
+  - 0.2 kg Carafa Special II (7.27%, Weyermann, 558.376 EBC)
+  - 0.15 kg Roasted Barley (5.45%, Weyermann, 660 EBC)
+  - 0.1 kg Torrefied Wheat (3.64%, Crisp, 2.538 EBC)
+  - 0.05 kg Pale Malt 2-Row (1.82%, SAB, 2 EBC)
+
+Hops
+--------------------
+  - 18 g Southern Promise - Boil, 20 min, 10% AA, 21.2 IBU
+  - 10 g Southern Promise - Boil, 15 min, 10% AA, 9.6 IBU
+
+Yeast
+--------------------
+  - 1 pkg WHC Lab Electrifyingly Clean Thermotolerant (High Voltage) - 31–35 °C; 80% attenuation; Notes: Leftover yest cake
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2.5 g Baking Soda (NaHCO3) - Mash, Water Agent
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 0.7 ml Lactic Acid - Mash, Water Agent
+  - 2 ml Clearfine - Boil, Fining, 15 days
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+
+Mash profile
+--------------------
+  Profile: High fermentability
+  - first : 67 °C for 50 min
+  - mash out: 75 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 32 °C for 3 days
+  - Primary: 20 °C for 2 days
+  - Primary: 4 °C for 5 days
+
+Water profile
+--------------------
+  Profile: spar spring
+  Ca 67.95, Mg 0.2, Na 39.31, Cl 82.45, SO4 62.1, HCO3 96.89
+  SO4/Cl ratio: 0.75
+  Target mash pH: 5.5
+
+Taste
+--------------------
+Rating: 2
+Tasted like water. 
+Too much yeast, fermented too fast. 
+Dumped batch.
+
+Batch log / status notes
+--------------------
+  - 2025-04-06 13:24 Brewing (statusChanged)
+  - 2025-04-06 17:08 Fermenting (statusChanged)
+  - 2025-04-06 17:08 Fermenting: Pitched yeast at 33. Set temp at 32.
+
+Used about 75% of the yeast cake.
+  - 2025-04-10 19:16 Fermenting: Start dropping temp to 20.
+  - 2025-04-11 07:25 Fermenting: Dropped temp to 20.
+  - 2025-04-12 07:35 Fermenting: Set temp to 5.
+  - 2025-04-14 18:45 Fermenting: Set temp to 3
+  - 2025-04-16 16:23 Conditioning (statusChanged)
+  - 2025-04-16 16:23 Conditioning: Kegged
+  - 2025-04-20 06:41 Completed (statusChanged)
+  - 2025-04-20 06:41 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #23 - South African Pale Ale
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: American Pale Ale
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2025-03-23
+Fermentation start: 2025-03-23
+Kegging / bottling date: 2025-04-03
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.046          1.042
+FG                                      1.007               
+ABV %                                    5.12            4.6
+IBU                                      31.2             32
+Colour EBC                                3.8            3.9
+Pre-boil gravity                        1.036          1.034
+Post-boil gravity                       1.046          1.042
+Mash pH                                  5.38           5.34
+Batch size L                               12             12
+Boil size L                             18.58          18.58
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   68.6          62.06
+Mash efficiency %                          80          75.56
+Measured attenuation %                                  82.8
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 1.5 kg Pale Malt 2-Row (56.6%, SAB, 2 EBC)
+  - 1 kg Finest Maris Otter® Ale Malt (37.74%, Crisp, 3.299 EBC)
+  - 0.15 kg Torrefied Wheat (5.66%, Crisp, 2.538 EBC)
+
+Hops
+--------------------
+  - 7 g Southern Promise - Boil, 60 min, 10% AA, 14.5 IBU
+  - 7 g Southern Promise - Boil, 15 min, 10% AA, 7.7 IBU
+  - 36 g Southern Promise - Aroma, 15 min, 82 °C, 10% AA, 9 IBU
+
+Yeast
+--------------------
+  - 1 pkg WHC Lab Electrifyingly Clean Thermotolerant (High Voltage) - 31–35 °C; 78% attenuation; Notes: Pitch.6 grams per liter + 10%. 
+= 8 grams
+Baked bread with leftover yeast
+
+Miscellaneous / water agents / finings
+--------------------
+  - 1 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 1 g Canning Salt (NaCl) - Mash, Water Agent
+  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 1.3 ml Biofine Clear - Boil, Fining, 15 days
+  - 2 g Yeast Nutrients - Boil, Other, 15 min
+  - 1 tsp Gelatin - Primary, Fining
+
+Mash profile
+--------------------
+  Profile: Imported
+  - Temperature: 66 °C for 50 min
+  - mash out: 75 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 30 °C for 3 days at 12.5 PSI
+  - Primary: 20 °C for 3 days at 15 PSI
+  - Primary: 2 °C for 2 days at 15 PSI
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 56.16, Mg 0.2, Na 21, Cl 71.85, SO4 89.36, HCO3 0
+  SO4/Cl ratio: 1.24
+  Target mash pH: 5.38
+
+Batch log / status notes
+--------------------
+  - 2025-03-23 13:03 Brewing (statusChanged)
+  - 2025-03-23 17:01 Brewing: Pitch yeast at 33. Temp set at 31. 
+13 psi. 
+Keg with sanitizer daisy chained to bottle for collection.
+  - 2025-03-23 17:09 Fermenting (statusChanged)
+  - 2025-03-23 19:39 Fermenting: Spunding valve lifting. Yeast is making a thicker white layer.
+  - 2025-03-24 10:57 Fermenting: Temp raised to 32.5
+  - 2025-03-25 16:12 Fermenting: SG 1.009
+  - 2025-03-27 15:28 Fermenting: SG stable 
+Tempt to 20
+Dry hoppe Aqueen 40, S promise 20 grams
+Added pressure back.
+  - 2025-03-29 15:26 Fermenting: Started cold crash at 2.5 dc. 
+Took heatpads off.
+  - 2025-03-31 07:29 Fermenting: Added gelatine 1 tsp.
+  - 2025-03-31 18:09 Fermenting: Took a sample. Good beer. Still hazy. Need at least 2 more days before kegging.
+  - 2025-04-03 18:20 Conditioning (statusChanged)
+  - 2025-04-03 18:21 Conditioning: Kegged
+Kept yeast for next batch.
+  - 2025-04-13 15:10 Completed (statusChanged)
+  - 2025-04-13 15:10 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #22 - First Lager v3
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Munich Helles
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2025-03-08
+Fermentation start: 2025-03-08
+Kegging / bottling date: 2025-04-13
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.045          1.046
+FG                                      1.009          1.009
+ABV %                                    4.73            4.9
+IBU                                      18.8             19
+Colour EBC                                3.6            3.6
+Pre-boil gravity                        1.035          1.038
+Post-boil gravity                       1.045               
+Mash pH                                  5.35               
+Batch size L                               12           12.5
+Boil size L                             18.58               
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   65.1          69.85
+Mash efficiency %                          76          82.51
+Measured attenuation %                                  79.8
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: BoilVolumeColdL - MashWaterL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 2 kg Bohemian Pilsner (71.94%, Weyermann, 1.9 EBC)
+  - 0.5 kg Vienna Malt (17.99%, Weyermann, 3 EBC)
+  - 0.28 kg Carapils/Carafoam (10.07%, Weyermann, 2 EBC)
+
+Hops
+--------------------
+  - 20 g Hallertauer Mittelfrueh - Boil, 60 min, 3.2% AA, 13.2 IBU
+  - 25 g Hallertauer Mittelfrueh - Boil, 10 min, 3.2% AA, 5.6 IBU
+
+Yeast
+--------------------
+  - 1 pkg Fermentis Saflager Lager (W-34/70) - 12–18 °C; 84% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2.3 g Canning Salt (NaCl) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 3 ml Lactic Acid - Mash, Water Agent
+  - 5 ml Biofine Clear - Boil, Fining, 15 days
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Gelatin - Secondary, Fining
+
+Mash profile
+--------------------
+  Profile: single infusion 
+  - Temperature: 65 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 14 °C for 6 days
+  - Primary: 16 °C for 6 days at 12.5 PSI
+  - Primary: 2 °C for 2 days at 15 PSI
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 24.91, Mg 0.2, Na 47.92, Cl 79.73, SO4 60.01, HCO3 0
+  SO4/Cl ratio: 0.75
+  Target mash pH: 5.35
+
+Recipe notes
+--------------------
+Spund after 2 days of fermentation. Increase temp +1 on that day.  
+
+Use ispindel.
+
+Batch notes
+--------------------
+Kept mash temp fairly constant : temp on digiboil set at 69 (after mash was heated to 65 per manual thermometer). With 500w element on. Did less circulation than in the past. 
+
+Forgot to keep sparge water separate. So used 2liter of the bottled water at room temp to do the sparge. 
+
+This lager was a hit.
+
+Batch log / status notes
+--------------------
+  - 2025-03-08 09:29 Brewing (statusChanged)
+  - 2025-03-08 11:38 Brewing: Ph pre boil 5.3
+  - 2025-03-08 17:58 Fermenting (statusChanged)
+  - 2025-03-08 17:58 Fermenting: Pitched yeast at 14dc
+  - 2025-03-11 16:22 Fermenting: Added spunding valve at 15psi. 
+Increased temp to 14.3. 
+Daisy chained a keg with sanitiser to harvest co2.
+  - 2025-03-14 17:09 Fermenting: Sg 1.01
+Raised temp to 16
+  - 2025-03-18 07:09 Fermenting: Sg 1.009
+  - 2025-03-20 06:28 Fermenting: Sg 1.009
+Surprisingly clear.
+  - 2025-03-20 18:45 Fermenting: Start cold crash to 4dc.
+  - 2025-03-21 08:58 Fermenting: Added gelatine (half spilled on floor 😳).
+  - 2025-03-23 10:50 Conditioning (statusChanged)
+  - 2025-04-13 05:09 Fermenting (statusChanged)
+  - 2025-04-13 05:09 Completed (statusChanged)
+  - 2025-04-13 05:09 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #21 - Kolserig
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Kölsch
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2025-02-15
+Fermentation start: 2025-02-15
+Kegging / bottling date: 2025-03-03
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.045               
+FG                                      1.006               
+ABV %                                    5.12            5.1
+IBU                                        24             24
+Colour EBC                                3.5            3.5
+Pre-boil gravity                        1.035          1.038
+Post-boil gravity                       1.045          1.042
+Mash pH                                  5.32            5.1
+Batch size L                               12           12.2
+Boil size L                             18.58           18.7
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                     66           67.1
+Mash efficiency %                          77          84.14
+Measured attenuation %                                  86.2
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: BoilVolumeColdL - MashWaterL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 2 kg Bohemian Pilsner (72.73%, Weyermann, 1.9 EBC)
+  - 0.5 kg Vienna Malt (18.18%, Weyermann, 3 EBC)
+  - 0.25 kg Carapils/Carafoam (9.09%, Weyermann, 2 EBC)
+
+Hops
+--------------------
+  - 20 g Hallertauer Mittelfrueh - Boil, 60 min, 3.2% AA, 13.2 IBU
+  - 35 g Hallertauer Mittelfrueh - Boil, 15 min, 3.2% AA, 10.8 IBU
+
+Yeast
+--------------------
+  - 1 pkg Fermentis SafAle German Ale (K-97) - 15–20 °C; 81% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2 g Canning Salt (NaCl) - Mash, Water Agent
+  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 3 ml Lactic Acid - Mash, Water Agent
+  - 2 ml Biofine Clear - Boil, Fining, 15 days
+  - 2 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Gelatin - Primary, Fining
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 63 °C for 40 min
+  - Raise: 70 °C for 20 min
+  - Mash out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 17 °C for 7 days
+  - Primary: 18 °C for 3 days
+  - Primary: 2 °C for 3 days
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 37.16, Mg 0.2, Na 41.71, Cl 70.15, SO4 89.36, HCO3 0
+  SO4/Cl ratio: 1.27
+  Target mash pH: 5.32
+
+Recipe notes
+--------------------
+Collect own CO2
+Spund at 1.012
+Transfer to keg with co2
+Leave 1 week at 4 degrees before serving
+
+Batch notes
+--------------------
+Mash ph was 5.1. Added some bicarb.
+
+Taste
+--------------------
+Rating: 100
+
+Batch log / status notes
+--------------------
+  - 2025-02-15 12:29 Brewing (statusChanged)
+  - 2025-02-15 21:29 Fermenting (statusChanged)
+  - 2025-02-15 21:29 Fermenting: Pitch yeast at 17.5, set at 17.
+  - 2025-02-19 06:49 Fermenting: Set temp to 18.2
+  - 2025-02-19 16:24 Fermenting: Sg 1.013. Added spunding valve at 12.5 psi
+  - 2025-02-23 18:44 Fermenting: SG = 1.009
+  - 2025-02-26 06:52 Fermenting: Decreased to 10 the prior days (3 dC per 12 hours). No crashed to 2. Added gas to 15psi.
+  - 2025-02-27 07:38 Fermenting: Degassed
+Added 3/4 tsp gelatine. 
+Added pressure to about 15psi for rest of cold crash
+  - 2025-03-01 11:51 Fermenting: Initial sample very dry. A bit bitter. Will consider less 60 min hops. Otherwise good to work from. 
+
+Yeast slow to drop. Will def keep for more days before crashing.
+  - 2025-03-03 16:42 Conditioning (statusChanged)
+  - 2025-03-03 17:50 Conditioning: A tad too bitter. Should deduct some IBUs. Perhaps a bit too dry as well. Mash higher. Keep a couple of days longer on the yeast before crashing.
+  - 2025-03-22 14:01 Completed (statusChanged)
+  - 2025-03-22 14:02 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #20 - Leftover ale BRY 97
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: American Pale Ale
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2025-01-01
+Fermentation start: 2025-01-14
+Kegging / bottling date: 2025-01-14
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.043          1.046
+FG                                      1.009          1.014
+ABV %                                    4.46            4.2
+IBU                                      33.6             31
+Colour EBC                                5.5            5.4
+Pre-boil gravity                        1.024          1.034
+Post-boil gravity                       1.043          1.046
+Mash pH                                  5.39           5.41
+Batch size L                               12             13
+Boil size L                             18.58               
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                     66          76.42
+Mash efficiency %                          77         109.08
+Measured attenuation %                                  68.7
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: BoilVolumeColdL - MashWaterL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 1.04 kg Pale Malt 2-Row (45.73%, SAB, 2 EBC)
+  - 0.605 kg Pilsner (26.61%, Weyermann, 1.7 EBC)
+  - 0.5 kg Extra Light Dry Extract (21.99%, 3 EBC)
+  - 0.064 kg Munich I (2.81%, Weyermann, 7.614 EBC)
+  - 0.05 kg Vienna Malt (2.2%, Weyermann, 3 EBC)
+  - 0.015 kg Carafa Special II (0.66%, Weyermann, 558.376 EBC)
+
+Hops
+--------------------
+  - 10 g Southern Dawn - Boil, 10 min, 11.7% AA, 9.3 IBU
+  - 25 g African Queen - Boil, 5 min, 13% AA, 14.1 IBU
+  - 20 g Southern Dawn - Boil, 5 min, 11.7% AA, 10.2 IBU
+  - 28 g Southern Dawn - Boil, 0 min, 11.7% AA, 0 IBU
+
+Yeast
+--------------------
+  - 1 pkg Lallemand (LalBrew) American West Coast Ale (BRY-97) - 15–22 °C; 80% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2 g Canning Salt (NaCl) - Mash, Water Agent
+  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 1 ml Biofine Clear - Boil, Fining, 15 days
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 69 °C for 50 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 19 °C for 6 days
+  - Primary: 22 °C for 5 days
+
+Water profile
+--------------------
+  Profile: aqua vida
+  Ca 40.76, Mg 4, Na 47.41, Cl 73.85, SO4 100.06, HCO3 35
+  SO4/Cl ratio: 1.35
+  Target mash pH: 5.39
+
+Recipe notes
+--------------------
+Kitchen sync
+
+Batch notes
+--------------------
+“
+
+Taste
+--------------------
+Rating: 68
+Happy with beer
+Yeastbwas great, nutral and dropped out well. 
+Late hopsnaroma faded very quick. 
+Beer was too sweet.
+
+Batch log / status notes
+--------------------
+  - 2025-01-01 11:36 Planning: Pre mash ph = 6.7
+Ph 15 min mash = 5.41
+  - 2025-01-01 19:21 Planning: Pitched yeast at 19.6
+  - 2025-01-02 05:17 Fermenting (statusChanged)
+  - 2025-01-02 06:48 Fermenting: Temp kept dropping. Set heat pad at 18 degrees and will ferment at 18.
+  - 2025-01-14 15:48 Fermenting: CARBONATION 
+
+56.7 g table sugar in 8.8 L fermented at max 20 °C
+to reach 2.5 vol of CO2
+or use 62.3 g corn sugar, or 83.4 g DME
+Current vol of CO2: 0.9
+  - 2025-01-14 17:22 Fermenting: 20 bottles in black oxygen thief caps
+  - 2025-01-14 17:22 Completed (statusChanged): Yeast dropped very clear in the fermenter.
+  - 2025-01-14 17:24 Fermenting (statusChanged)
+  - 2025-01-14 17:25 Conditioning (statusChanged)
+  - 2025-02-04 05:13 Completed (statusChanged)
+  - 2025-02-04 05:14 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #19 - First Lager v3
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Munich Helles
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2024-11-24
+Fermentation start: 2024-11-24
+Kegging / bottling date: 2024-12-07
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.039               
+FG                                      1.007          1.010
+ABV %                                     4.2            3.8
+IBU                                      15.9             16
+Colour EBC                                3.7            3.7
+Pre-boil gravity                        1.030          1.034
+Post-boil gravity                       1.039          1.041
+Mash pH                                  5.31            5.5
+Batch size L                               12             13
+Boil size L                             18.58          18.58
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   65.1          70.52
+Mash efficiency %                          76          86.13
+Measured attenuation %                                  73.7
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: BoilVolumeColdL - MashWaterL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 1.5 kg Bohemian Pilsner (62.5%, Weyermann, 1.9 EBC)
+  - 0.45 kg Vienna Malt (18.75%, Weyermann, 3 EBC)
+  - 0.25 kg Munich I (10.42%, Weyermann, 7.614 EBC)
+  - 0.15 kg Dextrin Malt (6.25%, Crisp, 1.523 EBC)
+  - 0.05 kg Acid Malt (2.08%, 3 EBC)
+
+Hops
+--------------------
+  - 9 g Tettnang - Boil, 60 min, 4.5% AA, 8.8 IBU
+  - 24 g tettnang  - Boil, 10 min, 4% AA, 7.1 IBU
+  - 16 g tettnang  - Aroma, 0 min, 99 °C, 4% AA, 0 IBU
+
+Yeast
+--------------------
+  - 1 pkg Lallemand (LalBrew) NovaLager - 10–20 °C; 84% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 3 g Canning Salt (NaCl) - Mash, Water Agent
+  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Biofine Clear - Secondary, Fining
+
+Mash profile
+--------------------
+  Profile: Medium fermentability
+  - Temperature: 69 °C for 60 min
+  - Mash Out: 78 °C for 15 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 15 °C for 5 days
+  - Primary: 19 °C for 7 days
+
+Water profile
+--------------------
+  Profile: aqua vida
+  Ca 40.76, Mg 4, Na 68.12, Cl 105.78, SO4 100.06, HCO3 35
+  SO4/Cl ratio: 0.95
+  Target mash pH: 5.31
+
+Recipe notes
+--------------------
+mash temp 69 will give effective heat of 67 due to the digiboil's thermostat not being very accurate. 
+
+All previous beers weer to thin. Hence 67 mash.
+
+Taste
+--------------------
+Rating: 90
+Make again just with Hallertau or with Hallertau added.
+
+Batch log / status notes
+--------------------
+  - 2024-11-24 12:15 Brewing (statusChanged)
+  - 2024-11-24 15:03 Brewing: Did a little decoction, 15 min boil on about 3l of the mash and added before mashout.
+  - 2024-11-24 16:21 Brewing: Final ph 5.45 added .5 ml acid to wort before fermentation
+  - 2024-11-24 21:48 Fermenting (statusChanged)
+  - 2024-11-24 21:48 Fermenting: Pitched 10 grams Novalager at 15.4.
+  - 2024-11-28 16:40 Fermenting: Bumped temp to 16
+  - 2024-11-29 06:45 Fermenting: Bump to 17
+  - 2024-11-30 05:57 Fermenting: Bump to 18
+  - 2024-12-07 10:26 Conditioning (statusChanged)
+  - 2025-01-14 17:24 Completed (statusChanged)
+  - 2025-01-14 17:24 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #18 - Black bit
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Schwarzbier
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2024-11-09
+Fermentation start: 2024-11-09
+Kegging / bottling date: 2024-11-22
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.042          1.044
+FG                                      1.008          1.012
+ABV %                                    4.46            4.2
+IBU                                        20             22
+Colour EBC                               27.4           28.9
+Pre-boil gravity                        1.034          1.036
+Post-boil gravity                       1.042          1.044
+Mash pH                                  5.39               
+Batch size L                               12           12.5
+Boil size L                             17.58           17.6
+Kegged / bottling volume L                 10               
+Brewhouse efficiency %                   62.4          68.87
+Mash efficiency %                        72.8          77.17
+Measured attenuation %                                    72
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 3
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 1 kg Barke Pilsner (36.9%, Weyermann, 1.777 EBC)
+  - 1 kg Barke Vienna Malt (36.9%, Weyermann, 3.807 EBC)
+  - 0.25 kg Carafa Special II (9.23%, Weyermann, 558.376 EBC)
+  - 0.25 kg Carapils/Carafoam (9.23%, Weyermann, 2 EBC)
+  - 0.2 kg Munich I (7.38%, Weyermann, 7.614 EBC)
+  - 0.005 kg Black Malt (0.18%, Crisp, 697.97 EBC)
+  - 0.005 kg Roast Barley (0.18%, Crisp, 697.97 EBC)
+
+Hops
+--------------------
+  - 11 g Tettnang - Boil, 60 min, 4.5% AA, 10.3 IBU
+  - 30 g Tettnang - Boil, 10 min, 4.5% AA, 9.7 IBU
+  - 10 g Tettnang - Boil, 0 min, 4.5% AA, 0 IBU
+
+Yeast
+--------------------
+  - 1 pkg Lallemand (LalBrew) NovaLager - 10–20 °C; 80% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 3 g Canning Salt (NaCl) - Mash, Water Agent
+  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 3 ml Biofine Clear - Secondary, Fining
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 68 °C for 60 min
+  - Mash Out: 75 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 12 °C for 3 days
+  - Primary: 14 °C for 2 days
+  - Primary: 16 °C for 2 days
+  - Primary: 18 °C for 4 days
+
+Water profile
+--------------------
+  Profile: aqua vida
+  Ca 40.76, Mg 4, Na 68.12, Cl 105.78, SO4 100.06, HCO3 35
+  SO4/Cl ratio: 0.95
+  Target mash pH: 5.39
+
+Recipe notes
+--------------------
+Potential Adjustments to Consider:
+1. Fermentation:
+- Could extend the cold conditioning (3°C) period to 7-14 days for better clarity and refinement
+- Consider starting at 12-13°C and letting it free rise to 15°C
+
+2. Hopping:
+- The mix of Southern Dawn and Tettnang is interesting
+- Consider moving some Tettnang to 30 minutes for more solid bitterness
+- 20 IBU is on the low end for style (BJCP suggests 20-35)
+
+3. Mash:
+- 68°C might be a bit high for style
+- Consider dropping to 65-66°C for more fermentability and crispness
+
+68 on the digiboil will be 66 effectively
+
+Batch notes
+--------------------
+Mash ph 5.9. Added .5 ml lactic
+
+Taste
+--------------------
+Rating: 81
+Next batch : 50 grams less carafa, 50 grams more munich. 
+
+A bit more flavor and aroma, perhaps with Hallertau.
+
+Batch log / status notes
+--------------------
+  - 2024-11-09 09:42 Brewing (statusChanged)
+  - 2024-11-09 19:13 Fermenting (statusChanged)
+  - 2024-11-12 15:50 Fermenting: Set for freerise to 14 degrees
+  - 2024-11-22 14:12 Fermenting: Bottled in golden ox thief
+  - 2024-11-22 14:12 Conditioning (statusChanged)
+  - 2025-01-14 17:24 Completed (statusChanged)
+  - 2025-01-14 17:24 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #17 - MO af queen 12 liter
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Blonde Ale
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2024-10-26
+Fermentation start: 2024-10-26
+Kegging / bottling date: 2024-11-05
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.038          1.042
+FG                                      1.005          1.008
+ABV %                                    4.73            4.9
+IBU                                        21             21
+Colour EBC                                  4            3.9
+Pre-boil gravity                        1.032          1.032
+Post-boil gravity                       1.038          1.042
+Mash pH                                  5.45               
+Batch size L                               12             12
+Boil size L                             17.58           17.6
+Kegged / bottling volume L                 10            9.5
+Brewhouse efficiency %                     60          66.05
+Mash efficiency %                          70          70.08
+Measured attenuation %                                  81.7
+
+Equipment / volumes
+--------------------
+Equipment profile: 12 liter setup
+Sparge formula: 0
+Boil-off per hour L: 3
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 1.7 kg Finest Maris Otter® Ale Malt (68%, Crisp, 3.299 EBC)
+  - 0.6 kg Pale Malt 2-Row (24%, SAB, 2 EBC)
+  - 0.15 kg Dextrin Malt (6%, Crisp, 1.523 EBC)
+  - 0.05 kg Acidulated (2%, Weyerman, 1.8 EBC)
+  - 0.084 kg Corn Sugar (Dextrose) (0 EBC)
+
+Hops
+--------------------
+  - 5 g African Queen - Boil, 30 min, 11.6% AA, 9.2 IBU
+  - 10 g African Queen - Boil, 15 min, 11.6% AA, 11.8 IBU
+  - 15 g African Queen - Boil, 0 min, 11.6% AA, 0 IBU
+
+Yeast
+--------------------
+  - 1 pkg Lallemand (LalBrew) American West Coast Ale (BRY-97) - 15–22 °C; 80% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2 g Canning Salt (NaCl) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1 ml Lactic Acid - Mash, Water Agent
+  - 3 ml Clearfine - Boil, Fining, 15 days
+  - 4 g Yeast Nutrients - Boil, Other, 15 min
+  - 3 g gelatine  - Primary, Other
+
+Mash profile
+--------------------
+  Profile: More dextrinous
+  - Temperature: 68 °C for 60 min
+  - mash out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Ale
+  - Primary: 20 °C for 5 days
+  - Primary: 2 °C for 4 days
+
+Water profile
+--------------------
+  Profile: aqua vida
+  Ca 30.48, Mg 4, Na 50.76, Cl 79.01, SO4 75.45, HCO3 35
+  SO4/Cl ratio: 0.95
+  Target mash pH: 5.45
+
+Recipe notes
+--------------------
+PAY ATTENTION TO VOLUMES
+
+Batch notes
+--------------------
+Pre boil gravity 1.032
+
+Taste
+--------------------
+Rating: 61
+Tasteless. Boring. Too dry
+Weak malt taste
+African queen hops okay. Move more ibu to 15 mins. 
+Use different malt for next brew
+
+Batch log / status notes
+--------------------
+  - 2024-10-26 14:29 Brewing (statusChanged)
+  - 2024-10-26 20:00 Brewing: Pitch yeast at 19.4 dC
+  - 2024-10-26 20:01 Fermenting (statusChanged)
+  - 2024-10-26 22:27 Fermenting: Notice bubbles
+  - 2024-10-29 06:44 Fermenting: Activity low. Increased temp 0.5 dC
+  - 2024-10-29 16:36 Fermenting: Activity low. Increased temp 0.5 dC
+
+Still some bubbles
+  - 2024-11-05 18:58 Conditioning (statusChanged)
+  - 2024-12-01 16:54 Completed (statusChanged)
+  - 2024-12-01 16:54 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #16 - Voss Ale
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: American Pale Ale
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2024-10-12
+Fermentation start: 2024-10-12
+Kegging / bottling date: 2024-10-24
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.038          1.040
+FG                                      1.008          1.006
+ABV %                                    3.94            4.5
+IBU                                      38.5             38
+Colour EBC                                3.6            3.6
+Pre-boil gravity                        1.034          1.038
+Post-boil gravity                       1.038               
+Mash pH                                  5.36               
+Batch size L                               23               
+Boil size L                             29.54               
+Kegged / bottling volume L                 21               
+Brewhouse efficiency %                   67.2          70.63
+Mash efficiency %                          73          81.59
+Measured attenuation %                                  84.6
+
+Equipment / volumes
+--------------------
+Equipment profile: BrewZilla / RoboBrew 35L
+Sparge formula: 0
+Boil-off per hour L: 3
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 3.5 kg Pale Malt 2-Row (81.4%, SAB, 2 EBC)
+  - 0.5 kg Munich I (11.63%, Weyermann, 7.614 EBC)
+  - 0.3 kg Carapils/Carafoam (6.98%, Weyermann, 2 EBC)
+
+Hops
+--------------------
+  - 15 g Southern Dawn - Boil, 60 min, 11.7% AA, 20.5 IBU
+  - 40 g Smaragd (Emerald) - Boil, 15 min, 5% AA, 11.3 IBU
+  - 60 g Smaragd (Emerald) - Boil, 5 min, 5% AA, 6.7 IBU
+
+Yeast
+--------------------
+  - 1 pkg Lallemand (LalBrew) Voss Kveik - 25–40 °C; 80% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2 g Canning Salt (NaCl) - Mash, Water Agent
+  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 5 ml Lactic Acid - Mash, Water Agent
+  - 5 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Biofine Clear - Secondary, Fining
+  - 5 ml Gelatin - Secondary, Fining
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 66 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Ale
+  - Primary: 29.5 °C for 5 days
+  - crash: 2 °C for 3 days
+
+Water profile
+--------------------
+  Profile: aqua vida
+  Ca 25.96, Mg 4, Na 30.74, Cl 48.15, SO4 64.61, HCO3 35
+  SO4/Cl ratio: 1.34
+  Target mash pH: 5.36
+
+Batch notes
+--------------------
+Very pleased with first samples. 
+Mash higher. 
+Less bitterness. 
+Add some southern dawn on aroma. 
+
+Keep the grainbill malty. Half the ibus. Add more hops towards flavor and aroma
+
+*******************************
+Future hop schedule
+
+5 g (7 IBU) — Southern Dawn 11.7% —  — 60 min
+30 g (7 IBU) — Smaragd (Emerald) 5% — Boil — 15 min
+60 g (7 IBU) — Smaragd (Emerald) 5% — Boil — 5 min
+
+Lower carbonation.
+
+Taste
+--------------------
+Rating: 81
+Too bitter 
+At 39 days still drinkable.
+
+Batch log / status notes
+--------------------
+  - 2024-10-12 10:05 Planning: Water ph pre mash : 5.27
+  - 2024-10-12 10:10 Brewing (statusChanged)
+  - 2024-10-12 21:17 Brewing: Pitched yeast at 29.5 dC
+  - 2024-10-12 21:17 Fermenting (statusChanged)
+  - 2024-10-13 06:31 Fermenting: Bubbling at 27.5.
+  - 2024-10-15 06:32 Fermenting: Switched off heating pad. Temp was at 30.3 dC
+  - 2024-10-18 07:41 Fermenting: Start cold crash to 4 dC.
+  - 2024-10-23 17:43 Fermenting: Add teaspoon gelatine
+  - 2024-10-24 20:56 Fermenting: Bottled in black caps
+  - 2024-10-24 20:56 Conditioning (statusChanged)
+  - 2024-11-12 18:52 Completed (statusChanged)
+  - 2024-12-01 16:54 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #15 - Mexican Lager
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: International Pale Lager
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2024-09-23
+Fermentation start: 2024-09-23
+Kegging / bottling date: 2024-10-07
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.041          1.042
+FG                                      1.007          1.006
+ABV %                                    4.46            4.7
+IBU                                        25             28
+Colour EBC                                  3            3.3
+Pre-boil gravity                        1.038               
+Post-boil gravity                       1.041          1.042
+Mash pH                                  5.31            5.3
+Batch size L                               23             21
+Boil size L                             28.04               
+Kegged / bottling volume L                 21               
+Brewhouse efficiency %                   67.2          63.58
+Mash efficiency %                          73             73
+Measured attenuation %                                  85.3
+
+Equipment / volumes
+--------------------
+Equipment profile: BrewZilla / RoboBrew 35L
+Sparge formula: 0
+Boil-off per hour L: 2
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 2 kg Europils Malt (45.45%, Crisp, 1.726 EBC)
+  - 1 kg Flaked Torrefied Maize (22.73%, Crisp, 0.254 EBC)
+  - 1 kg Vienna Malt (22.73%, Crisp, 3.959 EBC)
+  - 0.3 kg Dextrin Malt (6.82%, Crisp, 1.523 EBC)
+  - 0.1 kg Acidulated (2.27%, Weyermann, 1.8 EBC)
+
+Hops
+--------------------
+  - 17 g Southern Dawn - Boil, 60 min, 10% AA, 19.2 IBU
+  - 15 g Saaz - Boil, 15 min, 3.6% AA, 3 IBU
+  - 35 g - Boil, 5 min, 3.6% AA, 2.8 IBU
+
+Yeast
+--------------------
+  - 2 pkg Lallemand (LalBrew) NovaLager - 10–20 °C; 80% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2 g Canning Salt (NaCl) - Mash, Water Agent
+  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 4 ml Lactic Acid - Mash, Water Agent
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 3 g Lemon Peel - Boil, Flavor, 5 min
+  - 1 ml Clearfine - Secondary, Fining
+  - 5 ml Gelatin - Secondary, Fining
+
+Mash profile
+--------------------
+  Profile: Max fermentability with highest yield
+  - Temperature: 60 °C for 70 min
+  - mash out : 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 15 °C for 7 days
+  - Primary: 18 °C for 2 days
+  - Cold Crash: 3 °C for 5 days
+
+Water profile
+--------------------
+  Profile: aqua vida
+  Ca 26.94, Mg 4, Na 31.85, Cl 49.85, SO4 66.96, HCO3 35
+  SO4/Cl ratio: 1.34
+  Target mash pH: 5.31
+
+Batch notes
+--------------------
+Strike water ph 5.6
+
+Batch log / status notes
+--------------------
+  - 2024-09-23 11:11 Brewing (statusChanged)
+  - 2024-09-23 22:00 Fermenting (statusChanged)
+  - 2024-09-24 06:28 Fermenting: Temp dropped till 13.1 overnight. Set temp to 13.5. Will increase.5 per day.
+  - 2024-10-03 07:06 Fermenting: Started crash to 5 dC.
+  - 2024-10-05 06:40 Fermenting: Added gelatine
+  - 2024-10-07 20:41 Fermenting: Bottled 36 bottles. Yellow and red caps. 
+
+Added too much sugar I guess
+
+FG - 1.006
+  - 2024-10-07 20:43 Conditioning (statusChanged)
+  - 2024-11-02 20:48 Completed (statusChanged)
+  - 2024-11-02 20:49 Archived (statusChanged)
+  - 2024-11-28 20:48 Conditioning: Oxidised probably.
+
+
+==========================================================================================
+Batch #14 - First lager retake
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Munich Helles
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2024-08-18
+Fermentation start: 2024-08-18
+Kegging / bottling date: 2024-09-09
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.045               
+FG                                      1.007               
+ABV %                                    5.25            5.3
+IBU                                      19.6             20
+Colour EBC                                3.9            3.9
+Pre-boil gravity                        1.042               
+Post-boil gravity                       1.045               
+Mash pH                                  5.34               
+Batch size L                               23               
+Boil size L                             28.04               
+Kegged / bottling volume L                 21               
+Brewhouse efficiency %                   67.2           67.2
+Mash efficiency %                          73             73
+Measured attenuation %                                  84.6
+
+Equipment / volumes
+--------------------
+Equipment profile: BrewZilla / RoboBrew 35L
+Sparge formula: 0
+Boil-off per hour L: 2
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 3 kg Europils Malt (60%, Crisp, 1.726 EBC)
+  - 1.5 kg Vienna Malt (30%, Crisp, 3.959 EBC)
+  - 0.4 kg Dextrin Malt (8%, Crisp, 1.523 EBC)
+  - 0.1 kg Acidulated (2%, Weyermann, 1.8 EBC)
+  - 0.1 kg Sugar, Table (Sucrose) (0%, 1 EBC)
+
+Hops
+--------------------
+  - 40 g Hallertauer Mittelfrueh - Boil, 60 min, 4% AA, 17.4 IBU
+  - 10 g Hallertauer Mittelfrueh - Boil, 15 min, 4% AA, 2.2 IBU
+
+Yeast
+--------------------
+  - 3 pkg Lallemand (LalBrew) Diamond Lager - 10–15 °C; 80% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2 g Canning Salt (NaCl) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 4 ml Lactic Acid - Mash, Water Agent
+  - 4 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Gelatin - Secondary, Fining
+
+Mash profile
+--------------------
+  Profile: Medium fermentability
+  - Temperature: 63 °C for 60 min
+  - Mash Out: 78 °C for 15 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 12 °C for 18 days
+  - Primary: 2 °C for 3 days
+
+Water profile
+--------------------
+  Profile: aqua vida
+  Ca 19.7, Mg 4, Na 32.54, Cl 50.92, SO4 49.62, HCO3 35
+  SO4/Cl ratio: 0.97
+  Target mash pH: 5.34
+
+Batch log / status notes
+--------------------
+  - 2024-08-18 12:06 Brewing (statusChanged)
+  - 2024-08-18 15:23 Planning (statusChanged)
+  - 2024-08-18 15:23 Brewing (statusChanged)
+  - 2024-08-18 22:45 Fermenting (statusChanged)
+  - 2024-08-18 22:45 Fermenting: Pitch yeast at 14.5. Stc set to 13.5, heating pad switched off. 
+
+Idea is to ferment at 12.
+  - 2024-08-19 16:19 Fermenting: Temp dropped to 10.3 in the morning. Then increased to 11 in the evening.
+  - 2024-08-20 07:03 Fermenting: Temp at 11.4 in morning.
+  - 2024-08-20 16:28 Fermenting: Ferment around 12 during day. Noted bubles
+  - 2024-09-03 04:45 Fermenting: Started cold crash
+  - 2024-09-09 18:42 Fermenting: Bottled in black caps. Oxygen thieves.
+  - 2024-09-09 18:42 Conditioning (statusChanged)
+  - 2024-09-09 19:46 Conditioning: FG 1.007
+  - 2024-09-26 19:11 Conditioning: Terrible clove taste in beer 🤮
+  - 2024-10-02 18:23 Completed (statusChanged)
+  - 2024-10-02 18:24 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #13 - Blond Ale
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Belgian Blond Ale
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2024-06-30
+Fermentation start: 2024-07-01
+Kegging / bottling date: 2024-07-18
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.062               
+FG                                      1.006               
+ABV %                                    7.35            7.4
+IBU                                      23.4             23
+Colour EBC                                4.5            4.5
+Pre-boil gravity                        1.048               
+Post-boil gravity                       1.062               
+Mash pH                                  5.57               
+Batch size L                               20               
+Boil size L                             25.25               
+Kegged / bottling volume L                 18               
+Brewhouse efficiency %                   67.2           67.2
+Mash efficiency %                        73.9           73.9
+Measured attenuation %                                  89.8
+
+Equipment / volumes
+--------------------
+Equipment profile: BrewZilla / RoboBrew 35L
+Sparge formula: 0
+Boil-off per hour L: 2
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 4 kg Europils Malt (72.67%, Crisp, 1.726 EBC)
+  - 0.5 kg Base Malt Super Extract (9.08%, Proximity Malt, 2 EBC)
+  - 0.5 kg Sugar, Table (Sucrose) (9.08%, 1 EBC)
+  - 0.5 kg Vienna Malt (9.08%, Crisp, 3.959 EBC)
+  - 0.004 kg Black Malt (0.07%, Crisp, 697.97 EBC)
+
+Hops
+--------------------
+  - 30 g Southern Aroma - Boil, 60 min, 5% AA, 17.6 IBU
+  - 20 g Southern Aroma - Boil, 15 min, 5% AA, 5.8 IBU
+
+Yeast
+--------------------
+  - 2 pkg Lallemand (LalBrew) Abbaye - 17–25 °C; 83% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 1 g Baking Soda (NaHCO3) - Mash, Water Agent
+  - 1 g Canning Salt (NaCl) - Mash, Water Agent
+  - 1 g Gypsum (CaSO4) - Mash, Water Agent
+  - 4 ml Lactic Acid - Mash, Water Agent
+  - 5 ml Gelatin - Secondary, Fining
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 65 °C for 60 min
+  - Mash Out: 75 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Ale
+  - Freerise: 19 °C for 10 days
+  - Cold Crash: 4 °C for 4 days
+
+Water profile
+--------------------
+  Profile: aqua vida
+  Ca 12.24, Mg 4, Na 29.62, Cl 31.48, SO4 31.75, HCO3 60.16
+  SO4/Cl ratio: 1.01
+  Target mash pH: 5.57
+
+Batch log / status notes
+--------------------
+  - 2024-06-30 13:19 Planning: Water ph before mash 6.67
+  - 2024-06-30 15:02 Planning: Mash ph 5.74
+  - 2024-06-30 15:52 Brewing (statusChanged)
+  - 2024-06-30 17:03 Brewing: Pre boil gravity 1048
+  - 2024-06-30 17:22 Brewing: OG 1064
+  - 2024-07-01 07:41 Brewing: Pitch yeast at 16.5
+  - 2024-07-01 07:42 Fermenting (statusChanged)
+  - 2024-07-03 06:55 Fermenting: Freerise at 21.8
+  - 2024-07-04 07:05 Fermenting: Max temp noted 22.4 C
+  - 2024-07-09 16:21 Fermenting: Fg - 1.006
+Start to decrease temp to ambient before cold crash
+  - 2024-07-12 16:16 Fermenting: Cold crash to 3 C
+  - 2024-07-13 10:15 Fermenting: Added 1 tsp gelatine
+  - 2024-07-18 19:43 Fermenting: Bottled, red caps
+Cap with cross: shaken with oxygen to test oxydisation
+Fg - 1.006
+  - 2024-07-18 19:44 Conditioning (statusChanged)
+  - 2024-08-19 16:21 Conditioning: Cold conditioned at 3deg for about 2 weeks. Beer dropped clear and tasted good.
+  - 2024-08-19 16:22 Completed (statusChanged)
+  - 2024-09-12 17:54 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #8 - Kitchen lager
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: International Pale Lager
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2024-05-25
+Fermentation start: 2024-05-26
+Kegging / bottling date: 2024-06-24
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.047          1.048
+FG                                      1.008               
+ABV %                                    5.12            5.3
+IBU                                      33.2             33
+Colour EBC                                4.4            4.4
+Pre-boil gravity                        1.042          1.042
+Post-boil gravity                       1.047          1.048
+Mash pH                                  5.22               
+Batch size L                               21             20
+Boil size L                             26.46               
+Kegged / bottling volume L                 19               
+Brewhouse efficiency %                   67.2          65.71
+Mash efficiency %                        73.6           73.6
+Measured attenuation %                                  82.8
+
+Equipment / volumes
+--------------------
+Equipment profile: BrewZilla / RoboBrew 35L
+Sparge formula: 0
+Boil-off per hour L: 2
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 2 kg Barke Pilsner (40.77%, Weyermann, 1.777 EBC)
+  - 2 kg Pale Malt 2-Row (40.77%, SAB, 2 EBC)
+  - 0.4 kg Flaked Torrefied Barley (8.15%, Crisp, 2.03 EBC)
+  - 0.3 kg Finest Maris Otter® Ale Malt (6.12%, Crisp, 3.299 EBC)
+  - 0.2 kg Acidulated (4.08%, Weyermann, 1.8 EBC)
+  - 0.005 kg Roast Barley (0.1%, Crisp, 697.97 EBC)
+
+Hops
+--------------------
+  - 15 g Southern Dawn - First Wort, 75 min, 11.7% AA, 23.9 IBU
+  - 10 g - Boil, 15 min, 11.7% AA, 7.7 IBU
+  - 10 g Southern Dawn - Aroma, 15 min, 11.7% AA, 1.6 IBU
+
+Yeast
+--------------------
+  - 3 pkg Lallemand (LalBrew) Diamond Lager - 10–15 °C; 80% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 4 g Canning Salt (NaCl) - Mash, Water Agent
+  - 4 g Gypsum (CaSO4) - Mash, Water Agent
+  - 3 ml Lactic Acid - Mash, Water Agent
+  - 5 ml Biofine Clear - Boil, Fining
+  - 5 ml Gelatin - Primary, Fining
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 67 °C for 40 min
+  - 72: 72 °C for 20 min
+  - Mash Out: 77 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Diamond lager
+  - 10: 10 °C for 1 days
+  - 11: 11 °C for 1 days
+  - 12: 12 °C for 4 days
+  - 15: 15 °C for 6 days
+  - 16: 16 °C for 2 days
+  - 2: 2 °C for 7 days
+
+Water profile
+--------------------
+  Profile: aqua vida
+  Ca 35.75, Mg 4, Na 59.65, Cl 92.73, SO4 88.06, HCO3 35
+  SO4/Cl ratio: 0.95
+  Target mash pH: 5.22
+
+Recipe notes
+--------------------
+Repitched slurry from prior lager batch 300ml
+
+Taste
+--------------------
+Tasted good after longer conditioning in the bottle.
+
+Batch log / status notes
+--------------------
+  - 2024-05-25 13:15 Brewing (statusChanged)
+  - 2024-05-25 13:39 Brewing: Mash happened closer to 68
+  - 2024-05-26 07:41 Fermenting (statusChanged)
+  - 2024-05-26 07:41 Fermenting: Pitched 400ml slurry (1 week old) at 9.5C
+  - 2024-05-26 07:41 Fermenting: Set temp to 11C to free rise
+  - 2024-05-26 18:10 Fermenting: Temp fell to 7.1C during the day for whatever reason. Added heating pad to start raising. Will add 1 day to fermentation schedule.
+  - 2024-06-08 11:56 Fermenting: Sg : 1.011. 
+Bumped temp from 15.5 to 17.
+  - 2024-06-24 19:23 Conditioning (statusChanged)
+  - 2024-07-21 09:29 Conditioning: Got bottle infected
+  - 2024-07-21 09:29 Completed (statusChanged)
+  - 2024-09-12 17:55 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #7 - First lager
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Munich Helles
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2024-04-27
+Fermentation start: 2024-04-28
+Kegging / bottling date: 2024-05-18
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.044               
+FG                                      1.006          1.010
+ABV %                                    4.99            4.5
+IBU                                      21.6             22
+Colour EBC                                3.7            3.7
+Pre-boil gravity                        1.040               
+Post-boil gravity                       1.044               
+Mash pH                                   5.3               
+Batch size L                               21             22
+Boil size L                             26.29               
+Kegged / bottling volume L                 19               
+Brewhouse efficiency %                   67.2           70.4
+Mash efficiency %                        73.6           73.6
+Measured attenuation %                                  76.6
+
+Equipment / volumes
+--------------------
+Equipment profile: BrewZilla / RoboBrew 35L
+Sparge formula: 0
+Boil-off per hour L: 2
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 3 kg Clear Choice Malt ® Extra Pale (68.18%, Crisp, 1.853 EBC)
+  - 1 kg Vienna Malt (22.73%, Crisp, 3.959 EBC)
+  - 0.3 kg Pale Malt 2-Row (6.82%, SAB, 2 EBC)
+  - 0.1 kg Acidulated (2.27%, Weyermann, 1.8 EBC)
+
+Hops
+--------------------
+  - 40 g Hallertauer Mittelfrueh - Boil, 60 min, 4% AA, 19.2 IBU
+  - 10 g Hallertauer Mittelfrueh - Boil, 15 min, 4% AA, 2.4 IBU
+
+Yeast
+--------------------
+  - 3 pkg Lallemand (LalBrew) Diamond Lager - 10–15 °C; 80% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 3 g Canning Salt (NaCl) - Mash, Water Agent
+  - 6 g Gypsum (CaSO4) - Mash, Water Agent
+  - 3 ml Lactic Acid - Mash, Water Agent
+  - 5 ml Biofine Clear - Boil, Fining, 15 days
+  - 4 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Gelatin - Secondary, Fining
+
+Mash profile
+--------------------
+  Profile: Medium fermentability
+  - Temperature: 67 °C for 60 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 12 °C for 18 days
+  - Primary: 2 °C for 3 days
+
+Water profile
+--------------------
+  Profile: aqua vida
+  Ca 50.48, Mg 4, Na 45.27, Cl 70.56, SO4 123.35, HCO3 35
+  SO4/Cl ratio: 1.75
+  Target mash pH: 5.3
+
+Batch notes
+--------------------
+ferment:
+12 C - 5 days
+18 C - 2 days
+Crash
+
+Take gravity reading at day 3 to monitor for diacetyl rest 
+
+Switch the heating pads of. Just using the cooler to keep down and free rise if a bit too low. 
+
+Added 2 x 5l water bottles for extra thermal mass in the freezer.
+
+Taste
+--------------------
+Rating: 90
+
+Batch log / status notes
+--------------------
+  - 2024-04-27 13:08 Brewing (statusChanged)
+  - 2024-04-27 14:04 Brewing: Mash ph 5.3
+  - 2024-04-27 14:47 Brewing: Add mashout at 78 for 10 mins
+  - 2024-04-27 15:30 Brewing: Hop spider mini boil over. Scoops some hop back.
+  - 2024-04-27 15:35 Brewing: Pre boil gravity = 1.04
+  - 2024-04-27 16:55 Brewing: Gravity before yeast 1.044
+  - 2024-04-28 04:59 Fermenting (statusChanged)
+  - 2024-04-29 12:05 Fermenting: First signs of bubble activity
+  - 2024-04-30 06:54 Fermenting: Noted a good krausen
+  - 2024-05-02 09:06 Fermenting: Gravity = 1.02
+  - 2024-05-03 06:43 Fermenting: Set temp to 15 C to free rise
+  - 2024-05-05 17:09 Fermenting: Raised to 16 for free rise
+  - 2024-05-07 06:54 Fermenting: Bubbler stopped
+  - 2024-05-10 08:39 Fermenting: Fg 1.006
+  - 2024-05-11 10:10 Fermenting: Moved probe out of thermowell to open space. Set temp to 4 dC to fall per ambient in freezer.
+  - 2024-05-16 13:22 Fermenting: Gelatine added
+Temp to 2.5
+  - 2024-05-18 19:40 Fermenting: Bottled in yellow caps
+  - 2024-05-18 19:40 Conditioning (statusChanged)
+  - 2024-07-01 07:43 Completed (statusChanged)
+  - 2024-07-24 07:40 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #6 - Dry Stout 
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Irish Stout
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2024-04-05
+Fermentation start: 2024-04-05
+Kegging / bottling date: 2024-04-20
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.044               
+FG                                      1.008          1.011
+ABV %                                    4.73            4.3
+IBU                                        31             31
+Colour EBC                               37.5           37.5
+Pre-boil gravity                        1.037               
+Post-boil gravity                       1.044               
+Mash pH                                  5.29               
+Batch size L                               21             22
+Boil size L                             27.58               
+Kegged / bottling volume L                 19             20
+Brewhouse efficiency %                   70.3          73.65
+Mash efficiency %                        73.6           73.6
+Measured attenuation %                                  74.3
+
+Equipment / volumes
+--------------------
+Equipment profile: BrewZilla / RoboBrew 35L
+Sparge formula: 0
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 1
+
+Fermentables
+--------------------
+  - 2.3 kg Finest Maris Otter® Ale Malt (48.94%, Crisp, 3.299 EBC)
+  - 1.5 kg Malteurop Pilsen (31.91%, Malteurop Malting Co., 1.8 EBC)
+  - 0.4 kg Flaked Torrefied Barley (8.51%, Crisp, 2.03 EBC)
+  - 0.3 kg Roast Barley (6.38%, Crisp, 697.97 EBC)
+  - 0.1 kg Acidulated (2.13%, Weyermann, 1.8 EBC)
+  - 0.1 kg Black Malt (2.13%, Crisp, 697.97 EBC)
+
+Hops
+--------------------
+  - 15 g African Queen - Boil, 30 min, 15% AA, 22.3 IBU
+  - 30 g Fuggle - Boil, 15 min, 4.5% AA, 8.7 IBU
+
+Yeast
+--------------------
+  - 1 pkg Omega Lutra Kveik (OYL-071) - 20–35 °C; 82% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2 g Baking Soda (NaHCO3) - Mash, Water Agent
+  - 3 g Canning Salt (NaCl) - Mash, Water Agent
+  - 6 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Clearfine - Boil, Fining, 15 days
+  - 6 g Yeast Nutrients - Boil, Other, 15 min
+  - 3 ml Gelatin - Secondary, Fining
+
+Mash profile
+--------------------
+  Profile: High fermentability
+  - Temperature: 67 °C for 70 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 27 °C for 10 days
+  - Primary: 2 °C for 3 days
+
+Water profile
+--------------------
+  Profile: aqua vida
+  Ca 50.19, Mg 4, Na 63.13, Cl 70.18, SO4 122.66, HCO3 81.99
+  SO4/Cl ratio: 1.75
+  Target mash pH: 5.29
+
+Taste
+--------------------
+Rating: 71
+Aged well after 130 days. 
+Will use different yeast. 
+Consider oats, dextrin malt and no flaked barley.
+
+Batch log / status notes
+--------------------
+  - 2024-04-05 12:57 Planning: Ph strike water 7.1
+  - 2024-04-05 14:08 Planning: Lost 2 liter or mash wayer due to cracks in lid / remove piece of glass
+  - 2024-04-05 14:08 Planning: Changed mash time to 60 mins due to less water. Circulated constantly the first 15 mins.
+  - 2024-04-05 14:21 Planning: 15 min mash ph
+5.56
+
+Added 1 drop acid
+  - 2024-04-05 15:05 Planning: Pre boil volume 26.5
+  - 2024-04-05 15:29 Planning: Pre boil ph
+5.3
+  - 2024-04-05 15:33 Planning: Pre boil gravity
+1.04
+  - 2024-04-05 17:45 Planning: Pitched at 30
+  - 2024-04-05 17:45 Planning: Forgot to take sg
+  - 2024-04-05 17:45 Fermenting (statusChanged)
+  - 2024-04-15 07:24 Fermenting: Gravity - 1.011
+  - 2024-04-15 07:33 Fermenting: Tasted sample: lutra fuity taste noted but not overwhelming. Got a light roast malt flavor. Not overwhelming.
+  - 2024-04-16 14:56 Fermenting: Started to decrease temp for cold crash.
+  - 2024-04-17 14:56 Fermenting: Temp at 2C for cold crash
+  - 2024-04-20 18:56 Fermenting: Fg 1.011
+  - 2024-04-20 18:57 Conditioning (statusChanged)
+  - 2024-04-20 18:57 Conditioning: Bottled 42 red caps.
+  - 2024-04-29 06:35 Conditioning: Took sample on day 8. Lutra taste overwhelms as expected at this stage.
+  - 2024-05-05 19:50 Conditioning: Recipe idea - higher for balanced / malty cl- ratio. 
+
+Less attenuating yeast
+  - 2024-07-14 07:50 Completed (statusChanged)
+  - 2024-09-01 12:56 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #5 - Lutra Pseudo
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Kölsch
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2024-03-01
+Fermentation start: 2024-03-01
+Kegging / bottling date: 2024-03-14
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.044          1.040
+FG                                      1.004          1.005
+ABV %                                    5.25            4.6
+IBU                                      29.1             31
+Colour EBC                                  3            3.1
+Pre-boil gravity                        1.035          1.032
+Post-boil gravity                       1.044          1.040
+Mash pH                                   5.6               
+Batch size L                               21               
+Boil size L                             28.92               
+Kegged / bottling volume L                 19           18.7
+Brewhouse efficiency %                   70.3          63.91
+Mash efficiency %                        73.6          67.29
+Measured attenuation %                                  87.1
+
+Equipment / volumes
+--------------------
+Equipment profile: BrewZilla / RoboBrew 35L
+Sparge formula: 0
+Boil-off per hour L: 4
+Fermenter loss L: 2
+Trub/chiller loss L: 1
+
+Fermentables
+--------------------
+  - 3.2 kg Pilsner (76.19%, Weyermann, 1.7 EBC)
+  - 1 kg Pale Malt 2-Row (23.81%, SAB, 2 EBC)
+
+Hops
+--------------------
+  - 5 g Southern Dawn - Boil, 60 min, 11.7% AA, 7.7 IBU
+  - 10 g Southern Dawn - Boil, 15 min, 11.7% AA, 7.6 IBU
+  - 45 g Southern Dawn - Boil, 5 min, 11.7% AA, 13.8 IBU
+
+Yeast
+--------------------
+  - 1 pkg Omega Lutra Kveik (OYL-071) - 20–35 °C; 82% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 3 g Canning Salt (NaCl) - Mash, Water Agent
+  - 6 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1 ml Lactic Acid - Mash, Water Agent
+  - 5 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Gelatin - Primary, Fining
+
+Mash profile
+--------------------
+  Profile: Traditional grain with max fermentability
+  - Temperature: 60 °C for 30 min
+  - Temperature: 70 °C for 30 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 25 °C for 7 days
+  - Primary: 2 °C for 3 days
+
+Water profile
+--------------------
+  Profile: aqua vida
+  Ca 48.88, Mg 4, Na 43.92, Cl 68.48, SO4 119.53, HCO3 35
+  SO4/Cl ratio: 1.75
+  Target mash pH: 5.6
+
+Batch notes
+--------------------
+Water ph from bottle: 7.72
+After adjust : 5.74
+
+Taste
+--------------------
+Rating: 81
+
+Batch log / status notes
+--------------------
+  - 2024-03-01 09:48 Brewing (statusChanged)
+  - 2024-03-01 10:25 Brewing: Mash ph: 5.84. Added drops of lactic acid
+  - 2024-03-01 12:02 Brewing: Pre boil gravity: 1.034
+  - 2024-03-01 14:54 Brewing: Og: 1.04
+  - 2024-03-01 16:20 Fermenting (statusChanged)
+  - 2024-03-01 21:45 Fermenting: Fermenting with a thick krausen after 4/5 hours after pitching starter
+  - 2024-03-04 07:12 Fermenting: Bubbler activity very low. Bumped the temp +.5 C.
+  - 2024-03-04 17:54 Fermenting: Bump temp + .5 C
+  - 2024-03-08 09:32 Fermenting: Gravity - 1.005
+  - 2024-03-11 07:14 Fermenting: Start cold crashing to 2 C
+  - 2024-03-12 07:14 Fermenting: Reached 2C
+  - 2024-03-13 08:36 Fermenting: Added teaspoon gelatine
+  - 2024-03-14 18:25 Conditioning (statusChanged): 3 gram table sugar per bottle at 21 C
+  - 2024-03-28 03:47 Conditioning: Tasted beer. Very thin. Yeast is too sweet. Probably needs another week in the bottle.
+  - 2024-04-03 07:06 Conditioning: Sweet fruity taste. Not sure if its hops or the Lutra. 
+
+It settles as the beer ages. 
+
+Can up the bitterness and make it a bit more malty.
+  - 2024-04-03 07:07 Completed (statusChanged)
+  - 2024-04-26 05:08 Archived (statusChanged)
+  - 2024-04-26 05:08 Archived: Lutra taste was overwhelming the malt and hops.
+
+
+==========================================================================================
+Batch #4 - MO African queen 20l batch
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: American Pale Ale
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2024-01-28
+Fermentation start: 2024-01-28
+Kegging / bottling date: 2024-02-07
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.048          1.050
+FG                                      1.007               
+ABV %                                    5.38            5.6
+IBU                                      68.5             69
+Colour EBC                                4.1            4.1
+Pre-boil gravity                        1.041               
+Post-boil gravity                       1.048               
+Mash pH                                  5.34               
+Batch size L                               21           21.5
+Boil size L                                27               
+Kegged / bottling volume L                 19             17
+Brewhouse efficiency %                   70.3          75.32
+Mash efficiency %                        73.6           73.6
+Measured attenuation %                                  85.5
+
+Equipment / volumes
+--------------------
+Equipment profile: BrewZilla / RoboBrew 35L
+Sparge formula: 0
+Boil-off per hour L: 2.7
+Fermenter loss L: 2
+Trub/chiller loss L: 1
+
+Fermentables
+--------------------
+  - 2.29 kg Finest Maris Otter® Ale Malt (49.14%, Crisp, 3.299 EBC)
+  - 2.29 kg Pale Malt 2-Row (49.14%, SAB, 1.523 EBC)
+  - 0.08 kg Acidulated (1.72%, Weyermann, 1.8 EBC)
+  - 0.003 kg Sugar, Table (Sucrose) (1 EBC)
+
+Hops
+--------------------
+  - 10 g African Queen - Boil, 60 min, 15% AA, 19.3 IBU
+  - 5 g African Queen - Boil, 15 min, 15% AA, 6.4 IBU
+  - 5 g African Queen - Boil, 5 min, 15% AA, 4.5 IBU
+  - 60 g African Queen - Aroma, 10 min, 99 °C, 15% AA, 38.3 IBU
+
+Yeast
+--------------------
+  - 1 pkg Lallemand (LalBrew) Voss Kveik - 25–40 °C; 80% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 1 g Baking Soda (NaHCO3) - Mash, Water Agent
+  - 2 g Canning Salt (NaCl) - Mash, Water Agent
+  - 6 g Gypsum (CaSO4) - Mash, Water Agent
+  - 4 ml Lactic Acid - Mash, Water Agent
+  - 3 ml Clearfine - Boil, Fining, 15 days
+  - 5 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 g gelatine  - Primary, Other
+
+Mash profile
+--------------------
+  Profile: High fermentability
+  - Temperature: 67 °C for 70 min
+
+Fermentation profile
+--------------------
+  Profile: lutra
+  - primary : 25 °C for 7 days
+  - cold crash: 2 °C for 2 days
+
+Water profile
+--------------------
+  Profile: aqua vida
+  Ca 50.75, Mg 4, Na 41.49, Cl 50.6, SO4 123.99, HCO3 58.78
+  SO4/Cl ratio: 2.45
+  Target mash pH: 5.34
+
+Recipe notes
+--------------------
+Wash and sanitise 
+Rinse equipment after wash
+Test ph 10mins in mash
+Start using glass bottles. 
+
+Wash brew bag during boil and add hopstand hops in bag. Add 5 minutes to sanitise. 
+
+Add last hops at flame out and leave for 10 mins. Then start to chill. Remove hops 10 mins later. 
+
+Pitch at 27 degrees and decrease to 25. 
+
+Make yeast starter 36 hours before. Cold crash for 24 hours. 
+
+Adjust ph before mash with 80% of lactic acid.
+
+Batch notes
+--------------------
+Yeast starter made Thursday 25 Jan as per app. Fermented at 25 C for 2 days. 24 hours cold crashed at 4. Gradually decreased the temp from Sat morning. 
+
+Water ph voor mash: 5.78 
+Ph 15 min mash: 5.32
+
+Volume preboil, before topup: 3 l while still dripping
+
+Add 1 liter more boiler top up 
+
+Pre boil gravity: 
+1.042
+
+OG:
+1.05
+
+Pitcher started at 26.5
+
+Taste
+--------------------
+Rating: 91
+Best beer so far
+Well carbed
+Perhaps a tad sour
+Bitterness and hops comes through well
+Can still use less Maris Otter imo
+
+Batch log / status notes
+--------------------
+  - 2024-01-28 11:30 Brewing (statusChanged)
+  - 2024-01-28 19:43 Fermenting (statusChanged)
+  - 2024-01-29 06:54 Fermenting: Monday 7 am: happy fermentation and good krausen. No strong yeast or beer smell.
+  - 2024-01-30 06:50 Fermenting: Airlock activity very low after 36 hours fermenting
+  - 2024-01-30 20:26 Fermenting: Temp ramp up 1 degree over the day.
+  - 2024-01-31 16:32 Fermenting: Temp +1 over the day.
+  - 2024-02-01 07:51 Fermenting: Gravity: 1.011
+  - 2024-02-03 09:07 Fermenting: Gravity unchanged for 2 days. Decrease temp to 3 for cold crash
+  - 2024-02-05 08:52 Fermenting: Heaped teasoon gelatine disolved in water added to fermenter.
+  - 2024-02-07 20:35 Conditioning (statusChanged)
+  - 2024-02-07 20:36 Conditioning: 3 gram table sugar per 440ml bottle
+
+Auto syphon gave trouble
+  - 2024-02-07 20:36 Fermenting (statusChanged)
+  - 2024-02-07 20:37 Conditioning (statusChanged)
+  - 2024-02-13 21:13 Conditioning: Opened a bottle. Well carbonated already. Needs more time to condition.
+  - 2024-02-22 05:57 Conditioning: 2 weeks conditioned. Carbed well. Malt and hops balanced well.
+  - 2024-02-22 05:59 Completed (statusChanged)
+  - 2024-03-10 12:09 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #3 - Marris Otter Fuggle
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Cream Ale
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2023-11-25
+Fermentation start: 2023-11-25
+Kegging / bottling date: 2023-12-12
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.042          1.042
+FG                                      1.005          1.008
+ABV %                                    4.86            4.5
+IBU                                      16.5             17
+Colour EBC                                4.5            4.5
+Pre-boil gravity                        1.041               
+Post-boil gravity                       1.044               
+Mash pH                                  5.38               
+Batch size L                               26             24
+Boil size L                                30               
+Kegged / bottling volume L                 24               
+Brewhouse efficiency %                   67.2          62.21
+Mash efficiency %                        72.4           72.4
+Measured attenuation %                                  80.4
+
+Equipment / volumes
+--------------------
+Equipment profile: BrewZilla / RoboBrew 35L
+Sparge formula: 0
+Boil-off per hour L: 1.9
+Fermenter loss L: 2
+Trub/chiller loss L: 2
+
+Fermentables
+--------------------
+  - 5 kg Finest Maris Otter® Ale Malt (96.15%, Crisp, 3.299 EBC)
+  - 0.2 kg Acidulated (3.85%, Weyermann, 1.8 EBC)
+
+Hops
+--------------------
+  - 25 g Fuggle - Boil, 60 min, 4.5% AA, 11 IBU
+  - 25 g Fuggle - Boil, 15 min, 4.5% AA, 5.5 IBU
+  - 25 g Fuggle - Boil, 0 min, 4.5% AA, 0 IBU
+
+Yeast
+--------------------
+  - 2 pkg Fermentis Safale American (US-05) - 12–25 °C; 81% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 2.7 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 0.39 g Epsom Salt (MgSO4) - Mash, Water Agent
+  - 0.5 g Gypsum (CaSO4) - Mash, Water Agent
+  - 3 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 g Gelatin - Secondary, Fining
+  - 2 ml Clearfine - Secondary, Fining, 1 days
+
+Mash profile
+--------------------
+  Profile: High fermentability
+  - Temperature: 60 °C for 40 min
+  - Temperature: 70 °C for 30 min
+
+Fermentation profile
+--------------------
+  Profile: us05
+  - primary : 20.5 °C for 5 days
+  - Rampup: 21 °C for 7 days
+
+Water profile
+--------------------
+  Profile: aqua vida
+  Ca 29.86, Mg 5.17, Na 6, Cl 49.51, SO4 25.07, HCO3 35
+  SO4/Cl ratio: 0.51
+  Target mash pH: 5.38
+
+Recipe notes
+--------------------
+Grains a little courser
+No longer boil. Chill immediately
+
+Batch notes
+--------------------
+Sg on 7 Dec : 1.008
+Syphon gave endless problems.
+Tested 1 on 20 Dec 2023, tasted good. Hops still very low tasting. Got better on 25 Dec. 
+Get more trub into fermenter. 
+Lower pitch temp
+
+Taste
+--------------------
+Rating: 80
+Happy
+Low hop flavor, perhaps a bit sweet malt taste. 
+Hops raak beter soos die biet condition. 
+Carbonation was te laag?
+
+Hop flavor en carbonation het verbeter na 3 weke in die bottel.
+
+Batch log / status notes
+--------------------
+  - 2023-11-25 17:04 Fermenting (statusChanged)
+  - 2023-12-12 05:13 Conditioning (statusChanged)
+  - 2023-12-22 21:01 Completed (statusChanged)
+  - 2024-03-10 12:09 Archived (statusChanged)
+
+
+==========================================================================================
+Batch #1 - Smash Two
+==========================================================================================
+
+Overview
+--------------------
+Status: Archived
+Style: Best Bitter
+Type: All Grain
+Brewer: Ernst Gouws
+Brew date: 2023-10-14
+Fermentation start: 2023-10-14
+Kegging / bottling date: 2023-10-22
+
+Targets vs actuals
+--------------------
+Item                                   Target         Actual
+------------------------------ -------------- --------------
+OG                                      1.044          1.040
+FG                                      1.005               
+ABV %                                    5.12            4.6
+IBU                                      35.9             36
+Colour EBC                                2.9            2.9
+Pre-boil gravity                        1.039               
+Post-boil gravity                       1.044               
+Mash pH                                  5.77               
+Batch size L                               23               
+Boil size L                                28               
+Kegged / bottling volume L                 21               
+Brewhouse efficiency %                     72          65.99
+Mash efficiency %                        75.1           75.1
+Measured attenuation %                                  87.1
+
+Equipment / volumes
+--------------------
+Equipment profile: BrewZilla / RoboBrew 35L
+Sparge formula: 0
+Boil-off per hour L: 3
+Fermenter loss L: 2
+Trub/chiller loss L: 1
+
+Fermentables
+--------------------
+  - 4.4 kg Pilsner (100%, Weyermann, 1.7 EBC)
+
+Hops
+--------------------
+  - 12 g Southern Dawn - Boil, 60 min, 11.7% AA, 16.6 IBU
+  - 18 g Southern Dawn - Boil, 15 min, 11.7% AA, 14.5 IBU
+  - 20 g Southern Dawn - Aroma, 30 min, 80 °C, 11.7% AA, 4.8 IBU
+
+Yeast
+--------------------
+  - 1.1 pkg Lallemand (LalBrew) Voss Kveik - 25–40 °C; 80% attenuation
+
+Miscellaneous / water agents / finings
+--------------------
+  - 5 g Yeast Nutrients - Boil, Other, 15 min
+  - 10 ml Gelatin - Primary, Fining
+
+Mash profile
+--------------------
+  Profile: Traditional grain with max fermentability
+  - Temperature: 61 °C for 30 min
+  - Temperature: 70 °C for 30 min
+
+Fermentation profile
+--------------------
+  Profile: Ale
+  - Primary: 28 °C for 4 days
+  - cold crash: 4 °C for 3 days
+  - gelatine : 4 °C for 1 days
+
+Water profile
+--------------------
+  Profile: Default
+  Ca 18, Mg 0, Na 6, Cl 10, SO4 8, HCO3 43
+  SO4/Cl ratio: 0.8
+  Target mash pH: 5.77
+
+Batch notes
+--------------------
+Temp on Digiboil set on 61 and 71 as actual temp is about 0.5C lower. 
+
+Actual temp lowered to 58C at about 25 mins in first step mash. 
+
+Second step took long to get to 68 only. Guess need more stirring or had to lower the bag. Og pre boil 1.032. Adding pound dme. Was too little.
+
+
+Hapstand at 61. Chilled very fast. Hopstand was at 60. 
+
+Grind finer grains. Pay more attention to the mash. 
+
+Moved to fridge on Thursday to cold crash.
+
+Taste
+--------------------
+Rating: 70
+Nice malt. Too low bittering. Nice straw gold color.
+
+Batch log / status notes
+--------------------
+  - 2023-10-14 09:54 Brewing (statusChanged)
+  - 2023-10-14 13:22 Planning (statusChanged)
+  - 2023-10-14 13:49 Brewing (statusChanged)
+  - 2023-10-14 14:15 Fermenting (statusChanged)
+  - 2023-10-25 06:53 Completed (statusChanged)
+  - 2024-03-10 12:09 Archived (statusChanged)
+
