@@ -1,0 +1,39 @@
+name: Brewfather Master Update
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests openpyxl
+
+      - name: Run Brewfather update
+        env:
+          BREWFATHER_USER_ID: ${{ secrets.BREWFATHER_USER_ID }}
+          BREWFATHER_API_KEY: ${{ secrets.BREWFATHER_API_KEY }}
+        run: |
+          python brewfather_update_clean.py \
+            --out-dir ./exports \
+            --timezone "Africa/Johannesburg"
+
+      - name: Commit and push outputs
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add exports/
+          git diff --cached --exit-code || \
+            git commit -m "Update: $(date -u +'%Y-%m-%d %H:%M') SAST"
+          git push
