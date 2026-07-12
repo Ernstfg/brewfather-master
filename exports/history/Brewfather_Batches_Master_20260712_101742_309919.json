@@ -1,0 +1,230 @@
+[
+  {
+    "_id": "7fi6lKXppV5Oz2izDg9DGe6o9AdutK",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "12 liter setup"
+    },
+    "name": "Lager Idea 1 pseudo ",
+    "style": {
+      "name": "International Pale Lager"
+    },
+    "type": "All Grain"
+  },
+  {
+    "_id": "7ylUr027LA4BIbIFh1QE19CCsTlEhx",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "BrewZilla / RoboBrew 35L"
+    },
+    "name": "First lager retake",
+    "style": {
+      "name": "Munich Helles"
+    },
+    "type": "All Grain"
+  },
+  {
+    "_id": "8TCsroNvhXONSY7uoLwBdigtUZ4L8X",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "12 liter setup"
+    },
+    "name": "First lager v4",
+    "style": {
+      "name": "Munich Helles"
+    },
+    "type": "All Grain"
+  },
+  {
+    "_id": "AlNro2l8joSt8O98vSwLNZqS08yafE",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "12 liter setup (clear transfer)"
+    },
+    "name": "Nog 'n lager",
+    "style": {
+      "name": "International Pale Lager"
+    },
+    "type": "All Grain"
+  },
+  {
+    "_id": "DEYAnVWrgMtg87sSVkuGpS5F2eZFF4",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "12 liter setup"
+    },
+    "name": "London Pub Gen 2 Amber Ale",
+    "style": {
+      "name": "American Amber Ale"
+    },
+    "type": "All Grain"
+  },
+  {
+    "_id": "J7UYemr5KKh2Xlh4avrPvwdUZmPRfP",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "12 liter setup (clear transfer)"
+    },
+    "name": "Rice beer",
+    "style": {
+      "name": ""
+    },
+    "type": "All Grain"
+  },
+  {
+    "_id": "JosUqRpyUkkCJKNHlRWL890UWQpSUa",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "12 liter setup"
+    },
+    "name": "Kolserig",
+    "style": {
+      "name": "Kölsch"
+    },
+    "type": "All Grain"
+  },
+  {
+    "_id": "MF5mu7sFjBzSnLUgseCxo38joSgz2l",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "12 liter setup"
+    },
+    "name": "London Pub Gen 1 Stout saved by Bond",
+    "style": {
+      "name": "English Porter"
+    },
+    "type": "All Grain"
+  },
+  {
+    "_id": "MU06X8V9zEP11cbAQnGEm5fUIZajPn",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "12 liter setup"
+    },
+    "name": "Marigold Lager",
+    "style": {
+      "name": "International Pale Lager"
+    },
+    "type": "All Grain"
+  },
+  {
+    "_id": "NP8TWb4ne7Puem87SOkq3DrbZaJQHo",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "12 liter setup (clear transfer)"
+    },
+    "name": "Stout",
+    "style": {
+      "name": "Oatmeal Stout"
+    },
+    "type": "All Grain"
+  },
+  {
+    "_id": "R2xTDLlZjcEYJ5R7Oik4G5urbLeHN6",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "12 liter setup"
+    },
+    "name": "Lager pseudo idea ii",
+    "style": {
+      "name": "International Pale Lager"
+    },
+    "type": "All Grain"
+  },
+  {
+    "_id": "RxtDAxv74eS2hKCxjIaWPwTWx4sYVF",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "12 liter setup"
+    },
+    "name": "First Lager v3",
+    "style": {
+      "name": "Munich Helles"
+    },
+    "type": "All Grain"
+  },
+  {
+    "_id": "YOwmEZx99K2SoQK0VbXkyCchdmIrZZ",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "12 liter setup"
+    },
+    "name": "London Pub gen 2 Weskus",
+    "style": {
+      "name": "Specialty IPA"
+    },
+    "type": "All Grain"
+  },
+  {
+    "_id": "dsVqWqNVboCzKtRIVDlw4lsZ3qshOR",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "12 liter setup"
+    },
+    "name": "Helles bock",
+    "style": {
+      "name": "Helles Bock"
+    },
+    "type": "All Grain"
+  },
+  {
+    "_id": "hJRSice4Rnaj5KIs2qxSpXYeU2IT2b",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "12 liter setup"
+    },
+    "name": "Black bit",
+    "style": {
+      "name": "Schwarzbier"
+    },
+    "type": "All Grain"
+  },
+  {
+    "_id": "hV82vumYBf6BRTmLMntedEkZ1kk2pf",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "12 liter setup (clear transfer)"
+    },
+    "name": "Swart bier 2026",
+    "style": {
+      "name": "Schwarzbier"
+    },
+    "type": "All Grain"
+  },
+  {
+    "_id": "jldJvRrDCbjNcw34IPbmz9kKbfWoew",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "12 liter setup (clear transfer)"
+    },
+    "name": "Karoo Ale",
+    "style": {
+      "name": "American Pale Ale"
+    },
+    "type": "All Grain"
+  },
+  {
+    "_id": "yiPSN3Y6mmATMzlZ26e4uWlmbGRxaD",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "12 liter setup (clear transfer)"
+    },
+    "name": "APA",
+    "style": {
+      "name": "American Pale Ale"
+    },
+    "type": "All Grain"
+  },
+  {
+    "_id": "zLftyphr8T4DoHNZs92dj1mO4gPXZq",
+    "author": "Ernst Gouws",
+    "equipment": {
+      "name": "BrewZilla / RoboBrew 35L"
+    },
+    "name": "First lager",
+    "style": {
+      "name": "Munich Helles"
+    },
+    "type": "All Grain"
+  }
+]

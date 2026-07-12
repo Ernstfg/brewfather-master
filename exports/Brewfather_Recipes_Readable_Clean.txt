@@ -1,4 +1,4 @@
-Brewfather Recipes - Clean Readable Master - updated 2026-07-12 10:10
+Brewfather Recipes - Clean Readable Master - updated 2026-07-12 10:17
 ======================================================================
 
 Total recipes: 19
@@ -13,45 +13,68 @@ Recipe ID: 7fi6lKXppV5Oz2izDg9DGe6o9AdutK
 Style: International Pale Lager
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2025-10-31
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.048
+FG: 1.010
+ABV: 4.99%
+IBU: 24.5
+Color EBC: 5.2
+Batch size L: 12
+Boil size L: 18.58
 
 Fermentables
 --------------------
-  - None recorded
+  - 3 kg Pale Malt 2-Row (94.64%, SAB, 2 EBC)
+  - 0.12 kg Melanoidin (3.79%, Weyermann, 30 EBC)
+  - 0.05 kg Carahell (1.58%, Weyermann, 13 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 15 g Saaz - Boil, 60 min, 2.6% AA, 7.8 IBU
+  - 4 g African Queen - Boil, 60 min, 13% AA, 10.5 IBU
+  - 35 g Saaz - Boil, 10 min, 2.6% AA, 6.2 IBU
+  - 30 g Saaz - Boil, 0 min, 2.6% AA, 0 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 1 pkg WHC Lab Electrifyingly Clean Thermotolerant (High Voltage) - 31–35 °C; 80% attenuation; Notes: Calculate, probably 7/8 grams needed
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1 ml Lactic Acid - Mash, Water Agent
+  - 1 g Irish Moss - Boil, Fining, 15 min
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 1 ml Gelatin - Primary, Fining
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: High fermentability plus mash out
+  - Temperature: 66 °C for 60 min
+  - Mash Out: 78 °C for 10 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Lager (Standard)
+  - Primary: 28 °C for 7 days at 12 PSI
+  - Crash: 2 °C for 4 days at 12 PSI
 
 Water profile
 --------------------
-  - None recorded
+  Profile: Cape Aqua
+  Ca 61.45, Mg 0.2, Na 0.3, Cl 53.65, SO4 83.44, HCO3 0
+  SO4/Cl ratio: 1.56
+  Target mash pH: 5.46
+
+Notes
+--------------------
+Second gen --> southern aroma
+Third gen --> 34/70 in stock
+Eventually wanna do diamond lager
 
 
 ==========================================================================================
@@ -64,45 +87,60 @@ Recipe ID: 7ylUr027LA4BIbIFh1QE19CCsTlEhx
 Style: Munich Helles
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2024-06-16
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.045
+FG: 1.007
+ABV: 4.99%
+IBU: 19.5
+Color EBC: 3.8
+Batch size L: 23
+Boil size L: 28.04
 
 Fermentables
 --------------------
-  - None recorded
+  - 3 kg Europils Malt (60%, Crisp, 1.726 EBC)
+  - 1.5 kg Vienna Malt (30%, Crisp, 3.959 EBC)
+  - 0.4 kg Dextrin Malt (8%, Crisp, 1.523 EBC)
+  - 0.1 kg Acidulated (2%, Weyermann, 1.8 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 40 g Hallertauer Mittelfrueh - Boil, 60 min, 4% AA, 17.4 IBU
+  - 10 g Hallertauer Mittelfrueh - Boil, 15 min, 4% AA, 2.1 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 3 pkg Lallemand (LalBrew) Diamond Lager - 10–15 °C; 80% attenuation
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 2 g Canning Salt (NaCl) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 4 ml Lactic Acid - Mash, Water Agent
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Gelatin - Primary, Fining
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: Medium fermentability
+  - Temperature: 63 °C for 60 min
+  - Mash Out: 78 °C for 15 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Lager (Standard)
+  - Primary: 12 °C for 18 days
+  - Primary: 2 °C for 3 days
 
 Water profile
 --------------------
-  - None recorded
+  Profile: aqua vida
+  Ca 19.7, Mg 4, Na 32.54, Cl 50.92, SO4 49.62, HCO3 35
+  SO4/Cl ratio: 0.97
+  Target mash pH: 5.34
 
 
 ==========================================================================================
@@ -115,45 +153,67 @@ Recipe ID: 8TCsroNvhXONSY7uoLwBdigtUZ4L8X
 Style: Munich Helles
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2025-05-26
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.046
+FG: 1.009
+ABV: 4.86%
+IBU: 21.8
+Color EBC: 4.4
+Batch size L: 12
+Boil size L: 18.58
 
 Fermentables
 --------------------
-  - None recorded
+  - 2 kg Swaen Pilsner (72.73%, The Swaen, 1.9 EBC)
+  - 0.5 kg Swaen Vienna (18.18%, The Swaen, 5.1 EBC)
+  - 0.25 kg Swaen Munich Light (9.09%, The Swaen, 6.6 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 20 g Hallertauer Mittelfrueh - Boil, 60 min, 4% AA, 16.4 IBU
+  - 5 g Hallertauer Mittelfrueh - Boil, 20 min, 4% AA, 2.4 IBU
+  - 20 g Hallertauer Mittelfrueh - Boil, 5 min, 4% AA, 3 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 1 pkg Fermentis Saflager Lager (W-34/70) - 12–18 °C; 84% attenuation; Notes: Gen 1
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 1.5 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 5 ml Biofine Clear - Boil, Fining, 15 days
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Gelatin - Secondary, Fining
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: single infusion 
+  - Temperature: 65 °C for 60 min
+  - Mash Out: 78 °C for 10 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Lager (Standard)
+  - Primary: 15 °C for 2 days
+  - Primary: 15 °C for 10 days at 12 PSI
+  - Primary: 17 °C for 2 days at 12 PSI
+  - Primary: 2 °C for 4 days at 12 PSI
 
 Water profile
 --------------------
-  - None recorded
+  Profile: Cape Aqua
+  Ca 53.6, Mg 0.2, Na 0.3, Cl 57.07, SO4 60.01, HCO3 0
+  SO4/Cl ratio: 1.05
+  Target mash pH: 5.36
+
+Notes
+--------------------
+Pressure ferment from day 2.
 
 
 ==========================================================================================
@@ -166,45 +226,69 @@ Recipe ID: AlNro2l8joSt8O98vSwLNZqS08yafE
 Style: International Pale Lager
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2026-03-09
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.047
+FG: 1.008
+ABV: 5.12%
+IBU: 29.9
+Color EBC: 4.2
+Batch size L: 12
+Boil size L: 18.6
 
 Fermentables
 --------------------
-  - None recorded
+  - 2.5 kg Swaen Pilsner (79.37%, The Swaen, 1.9 EBC)
+  - 0.6 kg Swaen Vienna (19.05%, The Swaen, 5.1 EBC)
+  - 0.05 kg Dextrin Malt (1.59%, Crisp, 1.523 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 15 g Southern Aroma - Boil, 60 min, 5.6% AA, 14.7 IBU
+  - 15 g Southern Aroma - Boil, 20 min, 5.6% AA, 8.5 IBU
+  - 20 g Southern Aroma - Boil, 10 min, 5.6% AA, 6.7 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 2 pkg WHC Lab Crispy lager (Apres Ski) - 8–16 °C; 80% attenuation
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2.8 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 1 g Irish Moss - Boil, Fining, 15 min
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: High fermentability plus mash out
+  - Temperature: 64 °C for 60 min
+  - Mash Out: 78 °C for 10 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Lager (Standard)
+  - Primary: 13 °C for 10 days at 12 PSI
+  - Primary: 17 °C for 2 days at 12 PSI; ramp 0
+  - crash: 2 °C for 4 days at 12 PSI
 
 Water profile
 --------------------
-  - None recorded
+  Profile: Cape Aqua
+  Ca 68.8, Mg 0.2, Na 0.3, Cl 61.42, SO4 90.53, HCO3 0
+  SO4/Cl ratio: 1.47
+  Target mash pH: 5.38
+
+Notes
+--------------------
+First time using Apres Ski yeast. 
+
+Spund from day 2 at 12psi
+Pitch 22 grams yeast
+No gelatine
 
 
 ==========================================================================================
@@ -217,45 +301,70 @@ Recipe ID: DEYAnVWrgMtg87sSVkuGpS5F2eZFF4
 Style: American Amber Ale
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2025-10-16
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.052
+FG: 1.012
+ABV: 5.25%
+IBU: 35.2
+Color EBC: 11.6
+Batch size L: 12
+Boil size L: 18.58
 
 Fermentables
 --------------------
-  - None recorded
+  - 2.5 kg Pale Malt 2-Row (74.85%, SAB, 2 EBC)
+  - 0.5 kg Munich I (14.97%, Weyermann, 7.614 EBC)
+  - 0.2 kg Carahell (5.99%, Weyermann, 13 EBC)
+  - 0.1 kg Caramunich II (2.99%, Weyermann, 63 EBC)
+  - 0.04 kg Carafa Special II (1.2%, Weyermann, 558.376 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 8 g Southern Dawn - Boil, 60 min, 11.7% AA, 18.3 IBU
+  - 22 g Southern Dawn - Boil, 10 min, 11.7% AA, 16.9 IBU
+  - 20 g African Queen - Boil, 0 min, 13% AA, 0 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 1 pkg WHC Lab British Pub Ale (Bond) - 16–21 °C; 80% attenuation; Notes: 250ml slurry repitch
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1.5 ml Lactic Acid - Mash, Water Agent
+  - 1 g Irish Moss - Boil, Fining, 10 min
+  - 5 ml Gelatin - Primary, Fining
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: High fermentability plus mash out
+  - Temperature: 64 °C for 60 min
+  - Mash Out: 78 °C for 10 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Lager (Standard)
+  - Primary: 19 °C for 8 days at 12 PSI
+  - Primary: 2 °C for 4 days at 12 PSI
 
 Water profile
 --------------------
-  - None recorded
+  Profile: Cape Aqua
+  Ca 62.97, Mg 0.2, Na 0.3, Cl 76.85, SO4 55.68, HCO3 0
+  SO4/Cl ratio: 0.72
+  Target mash pH: 5.35
+
+Notes
+--------------------
+Apply pressure after high krausen when fermentation slows down 
+
+23 Nov. 2 days in keg: a bit sweet. Bitterness missing. 
+
+Ideas for next batch : less crystal, different yeast, vienna over munich or combination. Other hops. 25 IBUS. Perhaps cascade
 
 
 ==========================================================================================
@@ -268,45 +377,61 @@ Recipe ID: J7UYemr5KKh2Xlh4avrPvwdUZmPRfP
 Style: 
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2026-05-23
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.045
+FG: 1.006
+ABV: 5.12%
+IBU: 22.8
+Color EBC: 3.5
+Batch size L: 12
+Boil size L: 18
 
 Fermentables
 --------------------
-  - None recorded
+  - 2 kg Swaen Pilsner (64.52%, The Swaen, 1.9 EBC)
+  - 0.75 kg Rice, Flaked (24.19%, 1 EBC)
+  - 0.25 kg Swaen Vienna (8.06%, The Swaen, 5.1 EBC)
+  - 0.1 kg Dextrin Malt (3.23%, Crisp, 1.523 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 15 g Hallertau Perle - Boil, 60 min, 6.3% AA, 16.7 IBU
+  - 30 g Hallertauer Mittelfrueh - Boil, 10 min, 3.2% AA, 6.1 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 1 pkg WHC Lab Einstein - 9–16 °C; 80% attenuation
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 1.5 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2.3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 1 g Irish Moss - Boil, Fining, 10 min
+  - 1 g Yeast Nutrients - Boil, Other, 10 min
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: High fermentability plus mash out
+  - Temperature: 65 °C for 60 min
+  - Mash Out: 78 °C for 10 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Lager (Standard)
+  - Primary: 11 °C for 12 days
+  - Primary: 16 °C for 3 days
+  - crash: 2 °C for 4 days
 
 Water profile
 --------------------
-  - None recorded
+  Profile: Cape Aqua
+  Ca 48.19, Mg 0.2, Na 0.3, Cl 42.91, SO4 66.21, HCO3 0
+  SO4/Cl ratio: 1.54
+  Target mash pH: 5.43
 
 
 ==========================================================================================
@@ -319,45 +444,64 @@ Recipe ID: JosUqRpyUkkCJKNHlRWL890UWQpSUa
 Style: Kölsch
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2025-01-05
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.046
+FG: 1.008
+ABV: 4.99%
+IBU: 26.8
+Color EBC: 3.9
+Batch size L: 16
+Boil size L: 22.75
 
 Fermentables
 --------------------
-  - None recorded
+  - 2.83 kg Swaen Pilsner (81.56%, The Swaen, 1.9 EBC)
+  - 0.64 kg Swaen Vienna (18.44%, The Swaen, 5.1 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 13.1 g Hallertau Perle - Boil, 60 min, 5.5% AA, 11.3 IBU
+  - 13.1 g Southern Aroma - Boil, 60 min, 5.6% AA, 11.5 IBU
+  - 13.3 g Southern Aroma - Boil, 10 min, 5.6% AA, 4 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 400 ml Fermentis SafAle German Ale (K-97) - 15–20 °C; 80% attenuation
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2.667 g Gypsum (CaSO4) - Mash, Water Agent
+  - 3.333 ml Lactic Acid - Mash, Water Agent
+  - 2.667 g Yeast Nutrients - Boil, Other, 15 min
+  - 1.333 g Irish Moss - Boil, Fining, 10 min
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: 63 - 70 plus mash out
+  - Temperature: 66 °C for 60 min
+  - Mash out: 78 °C for 10 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Lager (Standard)
+  - Primary: 18 °C for 7 days at 0 PSI
+  - Primary: 20 °C for 2 days at 13 PSI
+  - Primary: 2 °C for 4 days at 15 PSI
 
 Water profile
 --------------------
-  - None recorded
+  Profile: Cape Aqua
+  Ca 53.41, Mg 0.2, Na 0.3, Cl 56.73, SO4 60.01, HCO3 0
+  SO4/Cl ratio: 1.06
+  Target mash pH: 5.39
+
+Notes
+--------------------
+Start spunding after 2 days
 
 
 ==========================================================================================
@@ -370,45 +514,67 @@ Recipe ID: MF5mu7sFjBzSnLUgseCxo38joSgz2l
 Style: English Porter
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2025-09-28
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.048
+FG: 1.012
+ABV: 4.73%
+IBU: 30.9
+Color EBC: 30.1
+Batch size L: 12
+Boil size L: 18.58
 
 Fermentables
 --------------------
-  - None recorded
+  - 2 kg Finest Maris Otter® Ale Malt (66.89%, Crisp, 3.299 EBC)
+  - 0.5 kg Pilsner (16.72%, Weyermann, 1.7 EBC)
+  - 0.22 kg Carafa Special II (7.36%, Weyermann, 558.376 EBC)
+  - 0.1 kg Caramunich II (3.34%, Weyermann, 63 EBC)
+  - 0.1 kg Oats, Flaked (3.34%, Briess, 1.4 EBC)
+  - 0.07 kg Carafa II (2.34%, Weyermann, 415 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 35 g Southern Aroma - Boil, 60 min, 4% AA, 28.2 IBU
+  - 10 g Southern Aroma - Boil, 10 min, 4% AA, 2.7 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 1 pkg WHC Lab British Pub Ale - 16–21 °C; 70% attenuation
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 2 g Baking Soda (NaHCO3) - Mash, Water Agent
+  - 0.5 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2.5 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1.5 ml Lactic Acid - Mash, Water Agent
+  - 2 ml Biofine Clear - Boil, Fining, 15 days
+  - 2 g Yeast Nutrients - Boil, Other, 15 min
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: Max fermentability with highest yield
+  - Temperature: 65 °C for 60 min
+  - Mash Out: 78 °C for 10 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Ale
+  - Primary: 20 °C for 8 days
+  - crash : 2 °C for 4 days
 
 Water profile
 --------------------
-  - None recorded
+  Profile: sunday 2 novstout
+  Ca 53.11, Mg 8.8, Na 50.86, Cl 59.22, SO4 77.32, HCO3 121.24
+  SO4/Cl ratio: 1.31
+  Target mash pH: 5.5
+
+Notes
+--------------------
+Add 200 grams extra base malt to hit the mumbers. Was at its best at 30 days in keg.
 
 
 ==========================================================================================
@@ -421,45 +587,73 @@ Recipe ID: MU06X8V9zEP11cbAQnGEm5fUIZajPn
 Style: International Pale Lager
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2026-01-22
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.048
+FG: 1.009
+ABV: 5.12%
+IBU: 24.4
+Color EBC: 3.5
+Batch size L: 12
+Boil size L: 17.5
 
 Fermentables
 --------------------
-  - None recorded
+  - 3 kg Swaen Pilsner (100%, The Swaen, 1.9 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 15 g Hallertau Perle - Boil, 60 min, 6.5% AA, 17.3 IBU
+  - 20 g Hallertauer Mittelfrueh - Boil, 15 min, 4% AA, 7.1 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 2 pkg Lallemand (LalBrew) Diamond Lager - 10–15 °C; 80% attenuation
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 2.5 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 1 ml Gelatin - Secondary, Fining
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: High fermentability plus mash out
+  - Temperature: 65 °C for 60 min
+  - Mash Out: 78 °C for 10 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Lager (Quick Method)
+  - Primary: 12 °C for 6 days
+  - Primary: 16 °C for 6 days
+  - Cold Crash: 5 °C for 5 days
 
 Water profile
 --------------------
-  - None recorded
+  Profile: Cape Aqua
+  Ca 60.15, Mg 0.2, Na 0.3, Cl 69.1, SO4 59.39, HCO3 0
+  SO4/Cl ratio: 0.86
+  Target mash pH: 5.4
+
+Notes
+--------------------
+Changes for second batch affected in recipe - 
+
+Drop melanoiden. 
+
+Drop IBUs to 24
+
+Reduce saaz late hops. 
+
+Mash at 65. 
+
+Lowered PH. 
+
+Lowered chloride. But lean malty.
 
 
 ==========================================================================================
@@ -472,45 +666,78 @@ Recipe ID: NP8TWb4ne7Puem87SOkq3DrbZaJQHo
 Style: Oatmeal Stout
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2025-06-09
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.057
+FG: 1.016
+ABV: 5.38%
+IBU: 30.5
+Color EBC: 32.6
+Batch size L: 12
+Boil size L: 18
 
 Fermentables
 --------------------
-  - None recorded
+  - 1 kg Swaen Pilsner (26.25%, The Swaen, 1.9 EBC)
+  - 0.6 kg Swaen Munich Light (15.75%, The Swaen, 6.6 EBC)
+  - 0.6 kg Swaen Vienna (15.75%, The Swaen, 5.1 EBC)
+  - 0.48 kg Flaked Torrefied Oats (12.6%, Crisp, 2.538 EBC)
+  - 0.4 kg Swaen Ale (10.5%, The Swaen, 3.6 EBC)
+  - 0.35 kg BlackSwaen Coffee (9.19%, The Swaen, 329.949 EBC)
+  - 0.28 kg GoldSwaen Classic (7.35%, The Swaen, 61 EBC)
+  - 0.1 kg Carafa Special II (2.62%, Weyermann, 558.376 EBC)
+  - 0.1 kg Malteurop Pilsen (0%, Malteurop Malting Co., 1.8 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 30 g Hallertau Perle - Boil, 60 min, 6.3% AA, 30.5 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 1 pkg WHC Lab British Pub Ale (Bond) - 16–21 °C; 80% attenuation
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 3 g Baking Soda (NaHCO3) - Mash, Water Agent
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 1.8 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Biofine Clear - Boil, Fining, 10 days
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: High fermentability plus mash out
+  - Temperature: 66 °C for 60 min
+  - Mash Out: 78 °C for 10 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Lager (Standard)
+  - Primary: 21 °C for 3 days
+  - Primary: 21 °C for 4 days at 12 PSI
+  - Primary: 2 °C for 3 days at 12 PSI
 
 Water profile
 --------------------
-  - None recorded
+  Profile: pnp centre h20 bar
+  Ca 63.43, Mg 0, Na 42.11, Cl 74.2, SO4 51.48, HCO3 109.31
+  SO4/Cl ratio: 0.69
+  Target mash pH: 5.35
+
+Notes
+--------------------
+Didn't have maris otter or ale. So mixed up what I had at hand. 
+
+First time using swaen coffee malt. 
+
+Spund after 3rd day fermentation. Run at 12psi. O
+
+Future notes:
+
+Needs 5 weeks in keg.
 
 
 ==========================================================================================
@@ -523,45 +750,69 @@ Recipe ID: R2xTDLlZjcEYJ5R7Oik4G5urbLeHN6
 Style: International Pale Lager
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2026-01-11
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.049
+FG: 1.010
+ABV: 5.12%
+IBU: 25
+Color EBC: 5.2
+Batch size L: 12
+Boil size L: 17.5
 
 Fermentables
 --------------------
-  - None recorded
+  - 3 kg Pale Malt 2-Row (92.59%, SAB, 2 EBC)
+  - 0.14 kg Melanoidin (4.32%, Weyermann, 30 EBC)
+  - 0.1 kg Oats, Flaked (3.09%, 1 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 17 g Southern Aroma - Boil, 60 min, 5.6% AA, 16.8 IBU
+  - 23 g Southern Aroma - Boil, 10 min, 5.6% AA, 8.2 IBU
+  - 30 g Southern Aroma - Boil, 0 min, 5.6% AA, 0 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 1 pkg WHC Lab Electrifyingly Clean Thermotolerant (High Voltage) - 31–35 °C; 80% attenuation; Notes: Calculate, probably 7/8 grams needed
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1 ml Lactic Acid - Mash, Water Agent
+  - 1 g Irish Moss - Boil, Fining, 15 min
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 1 ml Gelatin - Primary, Fining
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: High fermentability plus mash out
+  - Temperature: 66 °C for 60 min
+  - Mash Out: 78 °C for 10 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Lager (Standard)
+  - Primary: 28 °C for 7 days at 12 PSI
+  - Crash: 2 °C for 4 days at 12 PSI
 
 Water profile
 --------------------
-  - None recorded
+  Profile: Cape Aqua
+  Ca 71.46, Mg 0.2, Na 0.3, Cl 61.42, SO4 96.91, HCO3 0
+  SO4/Cl ratio: 1.58
+  Target mash pH: 5.46
+
+Notes
+--------------------
+Second gen --> southern aroma
+Third gen --> 34/70 in stock
+Eventually wanna do diamond lager
+
+Will drop the melanoiden, add some vienna or munich
 
 
 ==========================================================================================
@@ -574,45 +825,67 @@ Recipe ID: RxtDAxv74eS2hKCxjIaWPwTWx4sYVF
 Style: Munich Helles
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2024-10-03
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.045
+FG: 1.009
+ABV: 4.73%
+IBU: 19.9
+Color EBC: 3.6
+Batch size L: 12
+Boil size L: 18.58
 
 Fermentables
 --------------------
-  - None recorded
+  - 2 kg Bohemian Pilsner (71.94%, Weyermann, 1.9 EBC)
+  - 0.5 kg Vienna Malt (17.99%, Weyermann, 3 EBC)
+  - 0.28 kg Carapils/Carafoam (10.07%, Weyermann, 2 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 20 g Hallertauer Mittelfrueh - Boil, 60 min, 3.2% AA, 13.2 IBU
+  - 30 g Hallertauer Mittelfrueh - Boil, 10 min, 3.2% AA, 6.7 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 1 pkg Fermentis Saflager Lager (W-34/70) - 12–18 °C; 84% attenuation
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 5 ml Biofine Clear - Boil, Fining, 15 days
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Gelatin - Secondary, Fining
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: single infusion 
+  - Temperature: 66 °C for 60 min
+  - Mash Out: 78 °C for 10 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Lager (Standard)
+  - Primary: 13 °C for 7 days
+  - Primary: 16 °C for 2 days at 12.5 PSI
+  - Primary: 2 °C for 2 days at 15 PSI
 
 Water profile
 --------------------
-  - None recorded
+  Profile: Cape Aqua
+  Ca 67.95, Mg 0.2, Na 0.3, Cl 82.45, SO4 60.01, HCO3 0
+  SO4/Cl ratio: 0.73
+  Target mash pH: 5.34
+
+Notes
+--------------------
+Spund after 2 days of fermentation. Increase temp +1 on that day.  
+
+Use ispindel.
 
 
 ==========================================================================================
@@ -625,45 +898,76 @@ Recipe ID: YOwmEZx99K2SoQK0VbXkyCchdmIrZZ
 Style: Specialty IPA
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2025-11-25
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.050
+FG: 1.010
+ABV: 5.25%
+IBU: 33.6
+Color EBC: 5.7
+Batch size L: 12
+Boil size L: 17.5
 
 Fermentables
 --------------------
-  - None recorded
+  - 2.6 kg Pale Malt 2-Row (79.27%, SAB, 2 EBC)
+  - 0.5 kg Vienna Malt (15.24%, Crisp, 3.959 EBC)
+  - 0.13 kg Melanoidin (3.96%, Weyermann, 30 EBC)
+  - 0.05 kg Carahell (1.52%, Weyermann, 13 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 15 g Southern Dawn - Boil, 10 min, 11.7% AA, 13.8 IBU
+  - 7 g African Queen - Boil, 5 min, 13% AA, 4.9 IBU
+  - 7 g Southern Dawn - Boil, 5 min, 11.7% AA, 4.4 IBU
+  - 25 g Southern Dawn - Aroma, 15 min, 82 °C, 11.7% AA, 6.3 IBU
+  - 15 g African Queen - Aroma, 15 min, 82 °C, 13% AA, 4.2 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 300 ml WHC Lab British Pub Ale (Bond) - 18–22 °C; 79.5% attenuation
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 2.6 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1.5 ml Lactic Acid - Mash, Water Agent
+  - 1 ml Gelatin - Boil, Fining, 10 days
+  - 1 g Irish Moss - Boil, Fining, 10 min
+  - 1 g Yeast Nutrients - Boil, Other, 10 min
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: High fermentability plus mash out
+  - Temperature: 65 °C for 60 min
+  - Mash Out: 78 °C for 10 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Lager (Standard)
+  - Primary: 18 °C for 6 days
+  - Primary: 20 °C for 2 days
+  - Crash: 2 °C for 3 days
 
 Water profile
 --------------------
-  - None recorded
+  Profile: Cape Aqua
+  Ca 60.87, Mg 0.2, Na 0.3, Cl 70.87, SO4 58.74, HCO3 0
+  SO4/Cl ratio: 0.83
+  Target mash pH: 5.42
+
+Notes
+--------------------
+Vienna added for a hint of maltiness. 
+
+
+Notes since version 1:
+60 minute ibu reduced 
+SO4 reduced. 
+Add gelatine to fermenter
+No dry hops
 
 
 ==========================================================================================
@@ -676,45 +980,62 @@ Recipe ID: dsVqWqNVboCzKtRIVDlw4lsZ3qshOR
 Style: Helles Bock
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2026-02-08
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.064
+FG: 1.013
+ABV: 6.69%
+IBU: 27.7
+Color EBC: 6.5
+Batch size L: 12
+Boil size L: 17.5
 
 Fermentables
 --------------------
-  - None recorded
+  - 2.4 kg Swaen Pilsner (58.54%, The Swaen, 1.9 EBC)
+  - 1 kg Swaen Vienna (24.39%, The Swaen, 5.1 EBC)
+  - 0.7 kg Swaen Munich Light (17.07%, The Swaen, 6.6 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 15 g Hallertau Perle - Boil, 60 min, 6.5% AA, 15.4 IBU
+  - 10 g Southern Aroma - Boil, 60 min, 5.6% AA, 8.9 IBU
+  - 15 g Hallertauer Mittelfrueh - Boil, 10 min, 4% AA, 3.4 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 2 pkg Lallemand (LalBrew) Diamond Lager - 10–15 °C; 80% attenuation; Notes: 300ml slurry
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 1.5 g Epsom Salt (MgSO4) - Mash, Water Agent
+  - 1 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2.5 ml Lactic Acid - Mash, Water Agent
+  - 1 g Irish Moss - Boil, Fining, 10 min
+  - 1 g Yeast Nutrients - Boil, Other, 10 min
+  - 1 ml Gelatin - Primary, Fining
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: Traditional grain with max fermentability
+  - Temperature: 66 °C for 60 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Lager (Standard)
+  - Primary: 12 °C for 6 days
+  - Primary: 16 °C for 6 days
+  - crash: 2 °C for 4 days
 
 Water profile
 --------------------
-  - None recorded
+  Profile: Cape Aqua
+  Ca 52.72, Mg 7.57, Na 0.3, Cl 78.36, SO4 58.18, HCO3 0
+  SO4/Cl ratio: 0.74
+  Target mash pH: 5.38
 
 
 ==========================================================================================
@@ -727,45 +1048,65 @@ Recipe ID: hJRSice4Rnaj5KIs2qxSpXYeU2IT2b
 Style: Schwarzbier
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2024-09-21
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.050
+FG: 1.010
+ABV: 5.25%
+IBU: 27.8
+Color EBC: 26.4
+Batch size L: 12
+Boil size L: 18.58
 
 Fermentables
 --------------------
-  - None recorded
+  - 1.4 kg Barke Pilsner (45.16%, Weyermann, 1.777 EBC)
+  - 1 kg Barke Vienna Malt (32.26%, Weyermann, 3.807 EBC)
+  - 0.25 kg Carafa Special II (8.06%, Weyermann, 558.376 EBC)
+  - 0.25 kg Carapils/Carafoam (8.06%, Weyermann, 2 EBC)
+  - 0.2 kg Munich I (6.45%, Weyermann, 7.614 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 25 g Hallertauer Mittelfrueh - Boil, 60 min, 4% AA, 19.8 IBU
+  - 20 g Saaz - Boil, 10 min, 3% AA, 4 IBU
+  - 15 g Hallertauer Mittelfrueh - Boil, 10 min, 4% AA, 4 IBU
+  - 10 g Hallertauer Mittelfrueh - Boil, 0 min, 4% AA, 0 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 1 pkg Lallemand (LalBrew) Diamond Lager - 10–15 °C; 80% attenuation; Notes: 300ml repitch
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 3 g Canning Salt (NaCl) - Mash, Water Agent
+  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1 ml Lactic Acid - Mash, Water Agent
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 3 ml Biofine Clear - Secondary, Fining
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: Traditional grain with max fermentability
+  - Temperature: 63 °C for 30 min
+  - Temperature: 70 °C for 30 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Lager (Standard)
+  - Primary: 17 °C for 1 days
+  - Primary: 12 °C for 2 days
+  - Primary: 17 °C for 5 days; ramp 3
+  - crash: 2 °C for 4 days
 
 Water profile
 --------------------
-  - None recorded
+  Profile: aqua vida
+  Ca 40.76, Mg 4, Na 68.12, Cl 105.78, SO4 100.06, HCO3 35
+  SO4/Cl ratio: 0.95
+  Target mash pH: 5.35
 
 
 ==========================================================================================
@@ -778,45 +1119,66 @@ Recipe ID: hV82vumYBf6BRTmLMntedEkZ1kk2pf
 Style: Schwarzbier
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2024-11-29
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.047
+FG: 1.010
+ABV: 4.86%
+IBU: 28.3
+Color EBC: 22.6
+Batch size L: 12
+Boil size L: 18
 
 Fermentables
 --------------------
-  - None recorded
+  - 2 kg Swaen Pilsner (64.1%, The Swaen, 1.9 EBC)
+  - 0.62 kg Swaen Vienna (19.87%, The Swaen, 5.1 EBC)
+  - 0.3 kg Swaen Munich Light (9.62%, The Swaen, 6.6 EBC)
+  - 0.2 kg Carafa Special II (6.41%, Weyermann, 558.376 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 26 g Perle - Boil, 60 min, 5% AA, 22.3 IBU
+  - 30 g Hallertauer Mittelfrueh - Boil, 10 min, 3.2% AA, 6 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 1 pkg Lallemand (LalBrew) Diamond Lager - 10–15 °C; 80% attenuation; Notes: Yeast cake from prior batch. Not more than 300ml.
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 2.5 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1.5 ml Lactic Acid - Mash, Water Agent
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 0.1 g Zync tablet  - Boil, Other, 15 min
+  - 3 ml Biofine Clear - Secondary, Fining
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: High fermentability plus mash out
+  - Temperature: 65 °C for 60 min
+  - Mash Out: 78 °C for 10 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Lager (Standard)
+  - Primary: 12 °C for 8 days
+  - Primary: 16 °C for 2 days
+  - Crash : 2 °C for 3 days
 
 Water profile
 --------------------
-  - None recorded
+  Profile: spar spring
+  Ca 60.77, Mg 0.2, Na 3.3, Cl 69.76, SO4 62.1, HCO3 3.4
+  SO4/Cl ratio: 0.89
+  Target mash pH: 5.33
+
+Notes
+--------------------
+Don't use modern blitz yeasts on this.
 
 
 ==========================================================================================
@@ -829,45 +1191,73 @@ Recipe ID: jldJvRrDCbjNcw34IPbmz9kKbfWoew
 Style: American Pale Ale
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2026-06-24
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.051
+FG: 1.009
+ABV: 5.51%
+IBU: 25.8
+Color EBC: 6.3
+Batch size L: 12
+Boil size L: 18
 
 Fermentables
 --------------------
-  - None recorded
+  - 2.5 kg Swaen Pilsner (73.96%, The Swaen, 1.9 EBC)
+  - 0.5 kg Swaen Vienna (14.79%, The Swaen, 5.1 EBC)
+  - 0.3 kg Swaen Munich Light (8.88%, The Swaen, 6.6 EBC)
+  - 0.08 kg GoldSwaen Classic (2.37%, The Swaen, 61 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 12 g Hallertau Perle - Boil, 60 min, 6.3% AA, 12.8 IBU
+  - 15 g Cascade - Boil, 5 min, 5.5% AA, 3.9 IBU
+  - 20 g Hallertau Perle - Boil, 0 min, 6.3% AA, 2 IBU
+  - 15 g Centennial - Boil, 0 min, 8.8% AA, 2.1 IBU
+  - 10 g Cascade - Boil, 0 min, 5.5% AA, 0.9 IBU
+  - 20 g Cascade - Aroma, 20 min, 76 °C, 5.5% AA, 1.7 IBU
+  - 15 g Centennial - Aroma, 20 min, 76 °C, 10% AA, 2.4 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 1 pkg WHC Lab Clean West Coast IPA (LAX) - 18–22 °C; 80% attenuation
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 5 g Irish Moss - Boil, Fining, 10 min
+  - 1 g Yeast Nutrient (WLN1000) - Boil, Other, 10 min
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: High fermentability plus mash out
+  - Temperature: 63 °C for 60 min
+  - Mash Out: 78 °C for 10 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Lager (Standard)
+  - Primary: 20 °C for 6 days
+  - Primary: 2 °C for 3 days
 
 Water profile
 --------------------
-  - None recorded
+  Profile: Cape Aqua
+  Ca 62.64, Mg 0.2, Na 0.3, Cl 54.58, SO4 85.04, HCO3 0
+  SO4/Cl ratio: 1.56
+  Target mash pH: 5.37
+
+Notes
+--------------------
+For v2:
+
+More hopstand and late hops
+Whc lax yeast
+Larger portion pilsener malt
 
 
 ==========================================================================================
@@ -880,45 +1270,71 @@ Recipe ID: yiPSN3Y6mmATMzlZ26e4uWlmbGRxaD
 Style: American Pale Ale
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2026-04-23
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.050
+FG: 1.010
+ABV: 5.25%
+IBU: 33.4
+Color EBC: 6.2
+Batch size L: 12
+Boil size L: 18
 
 Fermentables
 --------------------
-  - None recorded
+  - 2 kg Swaen Ale (61.16%, The Swaen, 3.6 EBC)
+  - 1.2 kg Swaen Pilsner (36.7%, The Swaen, 1.9 EBC)
+  - 0.07 kg GoldSwaen Classic (2.14%, The Swaen, 61 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 15 g Hallertau Perle - Boil, 60 min, 6.3% AA, 16.1 IBU
+  - 15 g Cascade - Boil, 5 min, 5.5% AA, 3.9 IBU
+  - 15 g Centennial - Boil, 5 min, 10% AA, 7.1 IBU
+  - 10 g Cascade - Boil, 0 min, 5.5% AA, 0.9 IBU
+  - 25 g Cascade - Aroma, 20 min, 76 °C, 5.5% AA, 2.2 IBU
+  - 20 g Centennial - Aroma, 20 min, 76 °C, 10% AA, 3.2 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 1 pkg WHC Lab Clean West Coast IPA (LAX) - 18–22 °C; 80% attenuation
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 5 g Irish Moss - Boil, Fining, 10 min
+  - 1 g Yeast Nutrient (WLN1000) - Boil, Other, 10 min
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: High fermentability plus mash out
+  - Temperature: 63 °C for 60 min
+  - Mash Out: 78 °C for 10 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Lager (Standard)
+  - Primary: 19 °C for 10 days
+  - Primary: 2 °C for 3 days
 
 Water profile
 --------------------
-  - None recorded
+  Profile: Cape Aqua
+  Ca 51.19, Mg 0.2, Na 0.3, Cl 54.77, SO4 57.35, HCO3 0
+  SO4/Cl ratio: 1.05
+  Target mash pH: 5.38
+
+Notes
+--------------------
+For v2:
+
+More hopstand and late hops
+Whc lax yeast
+Larger portion pilsener malt
 
 
 ==========================================================================================
@@ -931,43 +1347,58 @@ Recipe ID: zLftyphr8T4DoHNZs92dj1mO4gPXZq
 Style: Munich Helles
 Type: All Grain
 Author: Ernst Gouws
-Created: 
+Created: 2024-04-09
 
 Targets
 --------------------
-OG: 
-FG: 
-ABV: %
-IBU: 
-Color EBC: 
-Batch size L: 
-Boil size L: 
+OG: 1.044
+FG: 1.010
+ABV: 4.46%
+IBU: 21.5
+Color EBC: 3.7
+Batch size L: 21
+Boil size L: 26.29
 
 Fermentables
 --------------------
-  - None recorded
+  - 3 kg Clear Choice Malt ® Extra Pale (68.18%, Crisp, 1.853 EBC)
+  - 1 kg Vienna Malt (22.73%, Crisp, 3.959 EBC)
+  - 0.3 kg Pale Malt 2-Row (6.82%, SAB, 2 EBC)
+  - 0.1 kg Acidulated (2.27%, Weyermann, 1.8 EBC)
 
 Hops
 --------------------
-  - None recorded
+  - 40 g Hallertauer Mittelfrueh - Boil, 60 min, 4% AA, 19.2 IBU
+  - 10 g Hallertauer Mittelfrueh - Boil, 15 min, 4% AA, 2.3 IBU
 
 Yeast
 --------------------
-  - None recorded
+  - 3 pkg Lallemand (LalBrew) Diamond Lager - 10–15 °C; 80% attenuation
 
 Miscellaneous
 --------------------
-  - None recorded
+  - 3 g Canning Salt (NaCl) - Mash, Water Agent
+  - 6 g Gypsum (CaSO4) - Mash, Water Agent
+  - 3 ml Lactic Acid - Mash, Water Agent
+  - 5 ml Biofine Clear - Boil, Fining, 15 days
+  - 4 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 ml Gelatin - Secondary, Fining
 
 Mash profile
 --------------------
-  - None recorded
+  Profile: Medium fermentability
+  - Temperature: 67 °C for 60 min
 
 Fermentation profile
 --------------------
-  - None recorded
+  Profile: Lager (Standard)
+  - Primary: 12 °C for 18 days
+  - Primary: 2 °C for 3 days
 
 Water profile
 --------------------
-  - None recorded
+  Profile: aqua vida
+  Ca 50.48, Mg 4, Na 45.27, Cl 70.56, SO4 123.35, HCO3 35
+  SO4/Cl ratio: 1.75
+  Target mash pH: 5.3
 
