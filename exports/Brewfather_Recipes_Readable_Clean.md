@@ -1,6 +1,6 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-07-14 06:49
+# Brewfather Recipes - Clean Readable Master - updated 2026-07-15 06:49
 
-Total recipes: 19
+Total recipes: 20
 
 ## Lager Idea 1 pseudo 
 
@@ -1070,51 +1070,52 @@ Larger portion pilsener malt
 
 ### Targets
 - OG: 1.050
-- FG: 1.010
-- ABV: 5.25%
-- IBU: 33.4
-- Color EBC: 6.2
+- FG: 1.009
+- ABV: 5.38%
+- IBU: 30.1
+- Color EBC: 5.7
 - Batch size L: 12
 - Boil size L: 18
 
 ### Fermentables
-  - 2 kg Swaen Ale (61.16%, The Swaen, 3.6 EBC)
-  - 1.2 kg Swaen Pilsner (36.7%, The Swaen, 1.9 EBC)
-  - 0.07 kg GoldSwaen Classic (2.14%, The Swaen, 61 EBC)
+  - 2.45 kg Swaen Pilsner (74.24%, The Swaen, 1.9 EBC)
+  - 0.5 kg Swaen Vienna (15.15%, The Swaen, 5.1 EBC)
+  - 0.3 kg Swaen Munich Light (9.09%, The Swaen, 6.6 EBC)
+  - 0.05 kg GoldSwaen Classic (1.52%, The Swaen, 61 EBC)
 
 ### Hops
-  - 15 g Hallertau Perle - Boil, 60 min, 6.3% AA, 16.1 IBU
-  - 15 g Cascade - Boil, 5 min, 5.5% AA, 3.9 IBU
-  - 15 g Centennial - Boil, 5 min, 10% AA, 7.1 IBU
-  - 10 g Cascade - Boil, 0 min, 5.5% AA, 0.9 IBU
+  - 14 g Hallertau Perle - Boil, 60 min, 6.3% AA, 15 IBU
+  - 30 g Cascade - Boil, 0 min, 5.5% AA, 2.6 IBU
+  - 15 g Centennial - Boil, 0 min, 10% AA, 2.4 IBU
+  - 50 g Centennial - Aroma, 20 min, 76 °C, 10% AA, 7.9 IBU
   - 25 g Cascade - Aroma, 20 min, 76 °C, 5.5% AA, 2.2 IBU
-  - 20 g Centennial - Aroma, 20 min, 76 °C, 10% AA, 3.2 IBU
 
 ### Yeast
   - 1 pkg WHC Lab Clean West Coast IPA (LAX) - 18–22 °C; 80% attenuation
 
 ### Miscellaneous
-  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
-  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1.5 g Baking Soda (NaHCO3) - Mash, Water Agent
+  - 3.5 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 4.6 g Gypsum (CaSO4) - Mash, Water Agent
   - 2 ml Lactic Acid - Mash, Water Agent
   - 5 g Irish Moss - Boil, Fining, 10 min
   - 1 g Yeast Nutrient (WLN1000) - Boil, Other, 10 min
 
 ### Mash profile
 - Profile: High fermentability plus mash out
-  - Temperature: 63 °C for 60 min
+  - Temperature: 64 °C for 60 min
   - Mash Out: 78 °C for 10 min
 
 ### Fermentation profile
 - Profile: Lager (Standard)
-  - Primary: 19 °C for 10 days
+  - Primary: 19 °C for 6 days
   - Primary: 2 °C for 3 days
 
 ### Water profile
 - Profile: Cape Aqua
-- Ca 51.19, Mg 0.2, Na 0.3, Cl 54.77, SO4 57.35, HCO3 0
-- SO4/Cl ratio: 1.05
-- Target mash pH: 5.38
+- Ca 102.06, Mg 0.2, Na 20.91, Cl 91.04, SO4 130.09, HCO3 53.5
+- SO4/Cl ratio: 1.43
+- Target mash pH: 5.39
 
 ### Notes
 For v2:
@@ -1122,6 +1123,7 @@ For v2:
 More hopstand and late hops
 Whc lax yeast
 Larger portion pilsener malt
+Used American Pale Ale water profile
 
 
 ## First lager
@@ -1177,4 +1179,69 @@ Larger portion pilsener malt
 - Ca 50.48, Mg 4, Na 45.27, Cl 70.56, SO4 123.35, HCO3 35
 - SO4/Cl ratio: 1.75
 - Target mash pH: 5.3
+
+
+## Smash - Citra
+
+### Overview
+- Recipe ID: ldKgMhTaCxdOMCepRg4HaR2lskjbXE
+- Style: American IPA
+- Type: All Grain
+- Author: Jonas
+- Created: 2019-03-08
+
+### Targets
+- OG: 1.066
+- FG: 1.012
+- ABV: 7.09%
+- IBU: 50.2
+- Color EBC: 5.4
+- Batch size L: 46
+- Boil size L: 55.08
+
+### Fermentables
+  - 13.18 kg Pale Malt, Maris Otter (100%, Maris Otter, 3 EBC)
+
+### Hops
+  - 40 g Citra - Boil, 20 min, 12% AA, 14.7 IBU
+  - 60 g Citra - Boil, 10 min, 12% AA, 15.3 IBU
+  - 80 g Citra - Boil, 5 min, 12% AA, 14.6 IBU
+  - 60 g Citra - Aroma, 30 min, 12% AA, 5.6 IBU
+  - 60 g Citra - Dry Hop, 2 min, 12% AA, 0 IBU
+
+### Yeast
+  - 5 pkg Fermentis Safale American (US-05) - 16–28 °C; 81% attenuation
+
+### Miscellaneous
+  - 0.96 g Calcium Chloride - Mash, Water Agent
+  - 10 g Epsom Salt (MgSO4) - Mash, Water Agent
+  - 17.64 g Gypsum (Calcium Sulfate) - Mash, Water Agent
+  - 20.8 ml Lactic Acid - Mash, Water Agent
+  - 2.9 g Salt - Mash, Water Agent
+  - 3.05 ml Lactic Acid - Sparge, Water Agent
+  - 0.34 g Calcium Chloride - Boil, Water Agent, 60 min
+  - 3.62 g Epsom Salt (MgSO4) - Boil, Water Agent, 60 min
+  - 6.4 g Gypsum (Calcium Sulfate) - Boil, Water Agent, 60 min
+  - 1.06 g Salt - Boil, Water Agent, 60 min
+  - 2 tbsp Protafloc - Boil, Fining, 10 min
+  - 2 tsp Yeast Nutrient - Boil, Other, 10 min
+
+### Mash profile
+- Profile: B80P
+  - Saccharification: 66 °C for 60 min; ramp 0 min
+  - Mash Out: 75 °C for 10 min; ramp 4 min
+
+### Fermentation profile
+- Profile: Ale
+  - Primary: 18 °C for 3 days
+  - Primary: 21 °C for 7 days
+
+### Water profile
+- Profile: Borlänge
+- Ca 53, Mg 3.2, Na 4.5, Cl 6.1, SO4 14, HCO3 150
+- SO4/Cl ratio: 2.3
+- Target mash pH: 5.31
+
+### Notes
+Easy drink beer with tropical notes
 
