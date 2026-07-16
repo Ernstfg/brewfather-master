@@ -1,7 +1,7 @@
-Brewfather Recipes - Clean Readable Master - updated 2026-07-15 06:49
+Brewfather Recipes - Clean Readable Master - updated 2026-07-16 06:58
 ======================================================================
 
-Total recipes: 20
+Total recipes: 21
 
 ==========================================================================================
 Lager Idea 1 pseudo 
@@ -1480,4 +1480,79 @@ Water profile
 Notes
 --------------------
 Easy drink beer with tropical notes
+
+
+==========================================================================================
+Saison
+==========================================================================================
+
+Overview
+--------------------
+Recipe ID: 6uXxDtvdy8UOY2sOfjUUUeSVldFbeu
+Style: Saison
+Type: All Grain
+Author: Ernst Gouws
+Created: 2026-07-15
+
+Targets
+--------------------
+OG: 1.048
+FG: 1.005
+ABV: 5.64%
+IBU: 25.2
+Color EBC: 3.8
+Batch size L: 12
+Boil size L: 18.6
+
+Fermentables
+--------------------
+  - 2.5 kg Swaen Pilsner (81.97%, The Swaen, 1.9 EBC)
+  - 0.35 kg Swaen Vienna (11.48%, The Swaen, 5.1 EBC)
+  - 0.2 kg Sugar, Table (Sucrose) (6.56%, 1 EBC)
+
+Hops
+--------------------
+  - 20 g Saaz - Boil, 60 min, 2.6% AA, 9.4 IBU
+  - 10 g Hallertau Perle - Boil, 60 min, 6.3% AA, 11.4 IBU
+  - 20 g Saaz - Boil, 15 min, 2.6% AA, 4.4 IBU
+
+Yeast
+--------------------
+  - 1 pkg Lallemand (LalBrew) Farmhouse - 20–30 °C; 80% attenuation
+
+Miscellaneous
+--------------------
+  - 1.5 g Baking Soda (NaHCO3) - Mash, Water Agent
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Epsom Salt (MgSO4) - Mash, Water Agent
+  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2.5 ml Lactic Acid - Mash, Water Agent
+  - 5 g Yeast Nutrients - Boil, Other, 15 min
+  - 5 g Irish Moss - Boil, Fining, 10 min
+
+Mash profile
+--------------------
+  Profile: High fermentability plus mash out
+  - Temperature: 64 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Lager (Standard)
+  - Primary: 24 °C for 2 days; ramp 2
+  - Primary: 28 °C for 6 days
+
+Water profile
+--------------------
+  Profile: Cape Aqua
+  Ca 63.14, Mg 9.99, Na 20.68, Cl 66.17, SO4 109.22, HCO3 52.92
+  SO4/Cl ratio: 1.65
+  Target mash pH: 5.42
+
+Notes
+--------------------
+First attempt at saison. 
+Using farmhouse yeast. 
+Start at 24 and freerise / slow rise to 28 hopefully to get more flavor from the yeast. 
+Table sugar to get it dryer.
 
