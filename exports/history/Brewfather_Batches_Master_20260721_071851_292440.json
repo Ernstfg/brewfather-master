@@ -19986,12 +19986,12 @@
     "_ev": 2,
     "_id": "yiPSN3Y6mmATMzlZ26e4uWlmbGRxaD",
     "_init": true,
-    "_rev": "MJ0kKtOP9DriR8uZ0bffpjZfrxbo7L",
+    "_rev": "RHg2pWcx2bRHJyXHcTsHn2CsVfIfpy",
     "_timestamp": {
-      "_nanoseconds": 861000000,
-      "_seconds": 1784553823
+      "_nanoseconds": 827000000,
+      "_seconds": 1784055206
     },
-    "_timestamp_ms": 1784553823861,
+    "_timestamp_ms": 1784055206827,
     "_type": "recipe",
     "_uid": "iPD6GM7QMGbK1uTM33gRwN6czDG3",
     "_version": "3.0.1",
@@ -20004,7 +20004,7 @@
     "batchSize": 12,
     "boilSize": 18,
     "boilTime": 60,
-    "buGuRatio": 0.58,
+    "buGuRatio": 0.6,
     "carbonation": 2.4,
     "carbonationStyle": {
       "carbMax": 3,
@@ -20019,7 +20019,7 @@
       "batchSpargeWaterAmount3": null,
       "batchSpargeWaterAmount4": null,
       "hltWaterAmount": 0,
-      "hopsAmount": 137,
+      "hopsAmount": 134,
       "mashFermentables": [
         {
           "_created": {
@@ -20524,7 +20524,7 @@
         "_version": "3.0.1",
         "actualTime": null,
         "alpha": 6.3,
-        "amount": 12,
+        "amount": 14,
         "bestBeforeDate": null,
         "beta": 3.5,
         "caryophyllene": null,
@@ -20533,7 +20533,7 @@
         "hidden": false,
         "hsi": 30,
         "humulene": null,
-        "ibu": 12.9,
+        "ibu": 15,
         "inventory": 170,
         "manufacturingDate": null,
         "myrcene": null,
@@ -20584,7 +20584,7 @@
         "_id": "default-bc4774ae",
         "actualTime": null,
         "alpha": 10,
-        "amount": 20,
+        "amount": 15,
         "bestBeforeDate": null,
         "beta": null,
         "caryophyllene": null,
@@ -20592,7 +20592,7 @@
         "farnesene": null,
         "hsi": null,
         "humulene": null,
-        "ibu": 3.2,
+        "ibu": 2.4,
         "manufacturingDate": null,
         "myrcene": null,
         "name": "Centennial",
@@ -20670,8 +20670,8 @@
         "year": null
       }
     ],
-    "hopsTotalAmount": 137,
-    "ibu": 28.8,
+    "hopsTotalAmount": 134,
+    "ibu": 30.1,
     "ibuFormula": "tinseth",
     "manualFg": false,
     "mash": {
@@ -20916,7 +20916,7 @@
     "postBoilGravity": 1.050006898,
     "preBoilGravity": 1.042,
     "primaryTemp": 19,
-    "rbRatio": 0.61,
+    "rbRatio": 0.63,
     "searchTags": [],
     "style": {
       "_id": "default-58",
@@ -20951,7 +20951,7 @@
     "styleColor": true,
     "styleConformity": false,
     "styleFg": false,
-    "styleIbu": false,
+    "styleIbu": true,
     "styleOg": true,
     "styleRbr": true,
     "sumAromaHopPerLiter": 6.25,

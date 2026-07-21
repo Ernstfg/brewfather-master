@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-07-20 07:37
+# Brewfather Recipes - Clean Readable Master - updated 2026-07-21 07:18
 
 Total recipes: 21
 
@@ -1072,7 +1072,7 @@ Larger portion pilsener malt
 - OG: 1.050
 - FG: 1.009
 - ABV: 5.38%
-- IBU: 30.1
+- IBU: 28.8
 - Color EBC: 5.7
 - Batch size L: 12
 - Boil size L: 18
@@ -1084,9 +1084,9 @@ Larger portion pilsener malt
   - 0.05 kg GoldSwaen Classic (1.52%, The Swaen, 61 EBC)
 
 ### Hops
-  - 14 g Hallertau Perle - Boil, 60 min, 6.3% AA, 15 IBU
+  - 12 g Hallertau Perle - Boil, 60 min, 6.3% AA, 12.9 IBU
   - 30 g Cascade - Boil, 0 min, 5.5% AA, 2.6 IBU
-  - 15 g Centennial - Boil, 0 min, 10% AA, 2.4 IBU
+  - 20 g Centennial - Boil, 0 min, 10% AA, 3.2 IBU
   - 50 g Centennial - Aroma, 20 min, 76 °C, 10% AA, 7.9 IBU
   - 25 g Cascade - Aroma, 20 min, 76 °C, 5.5% AA, 2.2 IBU
 
