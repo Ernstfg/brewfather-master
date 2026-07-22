@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-07-21 07:18
+# Brewfather Recipes - Clean Readable Master - updated 2026-07-22 07:17
 
 Total recipes: 21
 
@@ -193,7 +193,7 @@ Pressure ferment from day 2.
 - OG: 1.047
 - FG: 1.008
 - ABV: 5.12%
-- IBU: 29.9
+- IBU: 28.7
 - Color EBC: 4.2
 - Batch size L: 12
 - Boil size L: 18.6
@@ -205,15 +205,15 @@ Pressure ferment from day 2.
 
 ### Hops
   - 15 g Southern Aroma - Boil, 60 min, 5.6% AA, 14.7 IBU
-  - 15 g Southern Aroma - Boil, 20 min, 5.6% AA, 8.5 IBU
-  - 20 g Southern Aroma - Boil, 10 min, 5.6% AA, 6.7 IBU
+  - 10 g Southern Aroma - Boil, 20 min, 5.6% AA, 5.7 IBU
+  - 25 g Southern Aroma - Boil, 10 min, 5.6% AA, 8.3 IBU
 
 ### Yeast
   - 2 pkg WHC Lab Crispy lager (Apres Ski) - 8–16 °C; 80% attenuation
 
 ### Miscellaneous
-  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
-  - 2.8 g Gypsum (CaSO4) - Mash, Water Agent
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
   - 2 ml Lactic Acid - Mash, Water Agent
   - 1 g Irish Moss - Boil, Fining, 15 min
   - 1 g Yeast Nutrients - Boil, Other, 15 min
@@ -231,9 +231,9 @@ Pressure ferment from day 2.
 
 ### Water profile
 - Profile: Cape Aqua
-- Ca 68.8, Mg 0.2, Na 0.3, Cl 61.42, SO4 90.53, HCO3 0
-- SO4/Cl ratio: 1.47
-- Target mash pH: 5.38
+- Ca 73.74, Mg 0.2, Na 0.3, Cl 88.98, SO4 65.04, HCO3 0
+- SO4/Cl ratio: 0.73
+- Target mash pH: 5.37
 
 ### Notes
 First time using Apres Ski yeast. 
@@ -828,36 +828,36 @@ No dry hops
 - OG: 1.064
 - FG: 1.013
 - ABV: 6.69%
-- IBU: 27.7
-- Color EBC: 6.5
+- IBU: 31.7
+- Color EBC: 6.7
 - Batch size L: 12
 - Boil size L: 17.5
 
 ### Fermentables
-  - 2.4 kg Swaen Pilsner (58.54%, The Swaen, 1.9 EBC)
-  - 1 kg Swaen Vienna (24.39%, The Swaen, 5.1 EBC)
-  - 0.7 kg Swaen Munich Light (17.07%, The Swaen, 6.6 EBC)
+  - 2.9 kg Swaen Pilsner (70.73%, The Swaen, 1.9 EBC)
+  - 0.8 kg Swaen Vienna (19.51%, The Swaen, 5.1 EBC)
+  - 0.35 kg Swaen Munich Light (8.54%, The Swaen, 6.6 EBC)
+  - 0.05 kg GoldSwaen Classic (1.22%, The Swaen, 61 EBC)
 
 ### Hops
-  - 15 g Hallertau Perle - Boil, 60 min, 6.5% AA, 15.4 IBU
-  - 10 g Southern Aroma - Boil, 60 min, 5.6% AA, 8.9 IBU
-  - 15 g Hallertauer Mittelfrueh - Boil, 10 min, 4% AA, 3.4 IBU
+  - 20 g Hallertau Perle - Boil, 60 min, 6.5% AA, 20.4 IBU
+  - 10 g Southern Aroma - Boil, 30 min, 5.6% AA, 6.8 IBU
+  - 20 g Hallertauer Mittelfrueh - Boil, 10 min, 4% AA, 4.5 IBU
 
 ### Yeast
   - 2 pkg Lallemand (LalBrew) Diamond Lager - 10–15 °C; 80% attenuation; Notes: 300ml slurry
 
 ### Miscellaneous
-  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 3.5 g Calcium Chloride (CaCl2) - Mash, Water Agent
   - 1.5 g Epsom Salt (MgSO4) - Mash, Water Agent
-  - 1 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1.5 g Gypsum (CaSO4) - Mash, Water Agent
   - 2.5 ml Lactic Acid - Mash, Water Agent
   - 1 g Irish Moss - Boil, Fining, 10 min
   - 1 g Yeast Nutrients - Boil, Other, 10 min
-  - 1 ml Gelatin - Primary, Fining
 
 ### Mash profile
 - Profile: Traditional grain with max fermentability
-  - Temperature: 66 °C for 60 min
+  - Temperature: 67 °C for 60 min
 
 ### Fermentation profile
 - Profile: Lager (Standard)
@@ -867,9 +867,9 @@ No dry hops
 
 ### Water profile
 - Profile: Cape Aqua
-- Ca 52.72, Mg 7.57, Na 0.3, Cl 78.36, SO4 58.18, HCO3 0
-- SO4/Cl ratio: 0.74
-- Target mash pH: 5.38
+- Ca 65.31, Mg 7.57, Na 0.3, Cl 90.37, SO4 72.06, HCO3 0
+- SO4/Cl ratio: 0.8
+- Target mash pH: 5.36
 
 
 ## Black bit
@@ -1069,26 +1069,26 @@ Larger portion pilsener malt
 - Created: 2026-04-23
 
 ### Targets
-- OG: 1.050
-- FG: 1.009
-- ABV: 5.38%
-- IBU: 28.8
-- Color EBC: 5.7
+- OG: 1.048
+- FG: 1.010
+- ABV: 4.99%
+- IBU: 30.3
+- Color EBC: 5.6
 - Batch size L: 12
 - Boil size L: 18
 
 ### Fermentables
-  - 2.45 kg Swaen Pilsner (74.24%, The Swaen, 1.9 EBC)
-  - 0.5 kg Swaen Vienna (15.15%, The Swaen, 5.1 EBC)
-  - 0.3 kg Swaen Munich Light (9.09%, The Swaen, 6.6 EBC)
-  - 0.05 kg GoldSwaen Classic (1.52%, The Swaen, 61 EBC)
+  - 2.3 kg Swaen Pilsner (73.02%, The Swaen, 1.9 EBC)
+  - 0.45 kg Swaen Vienna (14.29%, The Swaen, 5.1 EBC)
+  - 0.35 kg Swaen Munich Light (11.11%, The Swaen, 6.6 EBC)
+  - 0.05 kg GoldSwaen Classic (1.59%, The Swaen, 61 EBC)
 
 ### Hops
-  - 12 g Hallertau Perle - Boil, 60 min, 6.3% AA, 12.9 IBU
-  - 30 g Cascade - Boil, 0 min, 5.5% AA, 2.6 IBU
+  - 14 g Hallertau Perle - Boil, 60 min, 6.3% AA, 15.3 IBU
+  - 30 g Cascade - Boil, 0 min, 5.5% AA, 2.7 IBU
   - 20 g Centennial - Boil, 0 min, 10% AA, 3.2 IBU
-  - 50 g Centennial - Aroma, 20 min, 76 °C, 10% AA, 7.9 IBU
-  - 25 g Cascade - Aroma, 20 min, 76 °C, 5.5% AA, 2.2 IBU
+  - 45 g Centennial - Aroma, 20 min, 76 °C, 10% AA, 7.3 IBU
+  - 20 g Cascade - Aroma, 20 min, 76 °C, 5.5% AA, 1.8 IBU
 
 ### Yeast
   - 1 pkg WHC Lab Clean West Coast IPA (LAX) - 18–22 °C; 80% attenuation
@@ -1113,9 +1113,9 @@ Larger portion pilsener malt
 
 ### Water profile
 - Profile: Cape Aqua
-- Ca 102.06, Mg 0.2, Na 20.91, Cl 91.04, SO4 130.09, HCO3 53.5
+- Ca 102.67, Mg 0.2, Na 21.04, Cl 91.56, SO4 130.87, HCO3 53.83
 - SO4/Cl ratio: 1.43
-- Target mash pH: 5.39
+- Target mash pH: 5.38
 
 ### Notes
 For v2:
