@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-07-26 07:29
+# Brewfather Recipes - Clean Readable Master - updated 2026-07-27 07:47
 
 Total recipes: 21
 
@@ -1094,9 +1094,8 @@ Larger portion pilsener malt
   - 1 pkg WHC Lab Clean West Coast IPA (LAX) - 18–22 °C; 80% attenuation
 
 ### Miscellaneous
-  - 1.5 g Baking Soda (NaHCO3) - Mash, Water Agent
   - 3.5 g Calcium Chloride (CaCl2) - Mash, Water Agent
-  - 4.6 g Gypsum (CaSO4) - Mash, Water Agent
+  - 4.5 g Gypsum (CaSO4) - Mash, Water Agent
   - 2 ml Lactic Acid - Mash, Water Agent
   - 5 g Irish Moss - Boil, Fining, 10 min
   - 1 g Yeast Nutrient (WLN1000) - Boil, Other, 10 min
@@ -1112,10 +1111,10 @@ Larger portion pilsener malt
   - Primary: 2 °C for 3 days
 
 ### Water profile
-- Profile: Cape Aqua
-- Ca 102.67, Mg 0.2, Na 21.04, Cl 91.56, SO4 130.87, HCO3 53.83
-- SO4/Cl ratio: 1.43
-- Target mash pH: 5.38
+- Profile: pnp centre h20 bar
+- Ca 101.1, Mg 0, Na 0, Cl 85.25, SO4 126.75, HCO3 0
+- SO4/Cl ratio: 1.49
+- Target mash pH: 5.27
 
 ### Notes
 For v2:
