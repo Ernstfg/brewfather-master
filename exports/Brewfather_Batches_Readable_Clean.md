@@ -1,4 +1,4 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-07-30 06:56
+# Brewfather Batches - Clean Readable Master - updated 2026-07-31 07:33
 
 Total batches: 41
 
@@ -95,6 +95,7 @@ Added 150 grams dme for gravity correction.
   - 2026-07-26 12:19 Brewing (statusChanged)
   - 2026-07-26 19:54 Fermenting (statusChanged)
   - 2026-07-26 19:54 Fermenting: Pitched at 19.1. Gonna ferment at 19.5.
+  - 2026-07-30 07:35 Fermenting: Started spunding
 
 
 ## Batch #45 - Stout

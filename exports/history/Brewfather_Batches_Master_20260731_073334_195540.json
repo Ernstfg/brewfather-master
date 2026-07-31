@@ -7,12 +7,12 @@
     },
     "_id": "SwGsB3tm6msnKvHKjzAUKNT17xz3QQ",
     "_init": true,
-    "_rev": "2pOOdbM7bHTFljh7nsi52eEQoCpGRO",
+    "_rev": "yIfejxerqXcmFJD4eZZo3CM73E0m1f",
     "_timestamp": {
-      "_nanoseconds": 398000000,
-      "_seconds": 1785419471
+      "_nanoseconds": 405000000,
+      "_seconds": 1785088521
     },
-    "_timestamp_ms": 1785419471398,
+    "_timestamp_ms": 1785088521405,
     "_type": "batch",
     "_version": "3.0.1",
     "batchFermentables": [
@@ -779,11 +779,6 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
-      {
-        "note": "Started spunding",
-        "status": "Fermenting",
-        "timestamp": 1785389700000
-      },
       {
         "note": "Pitched at 19.1. Gonna ferment at 19.5.",
         "status": "Fermenting",
