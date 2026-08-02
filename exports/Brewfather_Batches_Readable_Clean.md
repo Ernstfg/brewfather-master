@@ -1,4 +1,4 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-08-01 07:25
+# Brewfather Batches - Clean Readable Master - updated 2026-08-02 07:24
 
 Total batches: 41
 
@@ -17,8 +17,8 @@ Total batches: 41
 | Item | Target | Actual |
 |---|---:|---:|
 | OG | 1.048 | 1.048 |
-| FG | 1.010 |  |
-| ABV % | 4.99 | 5 |
+| FG | 1.009 |  |
+| ABV % | 5.12 | 5 |
 | IBU | 30.3 | 31 |
 | Colour EBC | 5.6 | 5.7 |
 | Pre-boil gravity | 1.040 | 1.037 |
