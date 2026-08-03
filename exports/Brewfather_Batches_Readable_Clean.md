@@ -1,4 +1,4 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-08-02 07:24
+# Brewfather Batches - Clean Readable Master - updated 2026-08-03 07:39
 
 Total batches: 41
 
@@ -18,7 +18,7 @@ Total batches: 41
 |---|---:|---:|
 | OG | 1.048 | 1.048 |
 | FG | 1.009 |  |
-| ABV % | 5.12 | 5 |
+| ABV % | 5.12 | 5.3 |
 | IBU | 30.3 | 31 |
 | Colour EBC | 5.6 | 5.7 |
 | Pre-boil gravity | 1.040 | 1.037 |
@@ -29,7 +29,7 @@ Total batches: 41
 | Kegged / bottling volume L | 10 |  |
 | Brewhouse efficiency % | 59.6 | 64.99 |
 | Mash efficiency % | 72 | 66.6 |
-| Measured attenuation % |  | 78.5 |
+| Measured attenuation % |  | 82.8 |
 
 ### Equipment / volumes
 - Equipment profile: 12 liter setup (clear transfer)
@@ -101,7 +101,7 @@ Added 150 grams dme for gravity correction.
 ## Batch #45 - Stout
 
 ### Overview
-- Status: Conditioning
+- Status: Archived
 - Style: Oatmeal Stout
 - Type: All Grain
 - Brewer: Ernst Gouws
@@ -194,12 +194,14 @@ Needs 5 weeks in keg.
   - 2026-06-13 10:33 Brewing (statusChanged)
   - 2026-06-13 19:01 Fermenting (statusChanged)
   - 2026-06-21 16:35 Conditioning (statusChanged)
+  - 2026-08-02 20:04 Completed (statusChanged)
+  - 2026-08-02 20:04 Archived (statusChanged)
 
 
 ## Batch #44 - APA
 
 ### Overview
-- Status: Conditioning
+- Status: Archived
 - Style: American Pale Ale
 - Type: All Grain
 - Brewer: Ernst Gouws
@@ -297,12 +299,14 @@ Ground water was cold. Quickly chilled to 22 deg C.
   - 2026-05-18 07:11 Fermenting: Krausen noted after 18 hours. Ferm temp settled at 18.5.
   - 2026-05-26 15:46 Fermenting: Started to cool down to cold crash temp
   - 2026-06-01 09:32 Conditioning (statusChanged)
+  - 2026-08-02 20:04 Completed (statusChanged)
+  - 2026-08-02 20:04 Archived (statusChanged)
 
 
 ## Batch #43 - Stout
 
 ### Overview
-- Status: Conditioning
+- Status: Archived
 - Style: Oatmeal Stout
 - Type: All Grain
 - Brewer: Ernst Gouws
@@ -397,6 +401,8 @@ first gen whc pub ale. minor adjustments to malt bill to make up for maris otter
   - 2026-04-25 21:55 Fermenting (statusChanged)
   - 2026-05-04 16:10 Fermenting: Started cold crash
   - 2026-05-08 08:14 Conditioning (statusChanged)
+  - 2026-08-02 20:04 Completed (statusChanged)
+  - 2026-08-02 20:04 Archived (statusChanged)
 
 
 ## Batch #42 - Stout
