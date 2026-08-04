@@ -7,12 +7,12 @@
     },
     "_id": "SwGsB3tm6msnKvHKjzAUKNT17xz3QQ",
     "_init": true,
-    "_rev": "WCQc7NBa6DU8cjFK1gUryc9yuFi6sB",
+    "_rev": "EsCGXXdf4fASaEqa8NFYNJPiY1coCP",
     "_timestamp": {
-      "_nanoseconds": 811000000,
-      "_seconds": 1785746343
+      "_nanoseconds": 740000000,
+      "_seconds": 1785693459
     },
-    "_timestamp_ms": 1785746343811,
+    "_timestamp_ms": 1785693459740,
     "_type": "batch",
     "_version": "3.0.1",
     "batchFermentables": [

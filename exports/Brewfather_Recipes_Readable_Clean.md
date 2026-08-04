@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-08-03 07:39
+# Brewfather Recipes - Clean Readable Master - updated 2026-08-04 07:12
 
 Total recipes: 22
 
@@ -190,23 +190,24 @@ Pressure ferment from day 2.
 - Created: 2026-03-09
 
 ### Targets
-- OG: 1.047
+- OG: 1.045
 - FG: 1.008
-- ABV: 5.12%
-- IBU: 28.7
-- Color EBC: 4.2
+- ABV: 4.86%
+- IBU: 30.1
+- Color EBC: 4.3
 - Batch size L: 12
 - Boil size L: 18.6
 
 ### Fermentables
-  - 2.5 kg Swaen Pilsner (79.37%, The Swaen, 1.9 EBC)
-  - 0.6 kg Swaen Vienna (19.05%, The Swaen, 5.1 EBC)
-  - 0.05 kg Dextrin Malt (1.59%, Crisp, 1.523 EBC)
+  - 2.3 kg Swaen Pilsner (74.92%, The Swaen, 1.9 EBC)
+  - 0.45 kg Swaen Vienna (14.66%, The Swaen, 5.1 EBC)
+  - 0.2 kg Swaen Munich Light (6.51%, The Swaen, 6.6 EBC)
+  - 0.12 kg Dextrin Malt (3.91%, Crisp, 1.523 EBC)
 
 ### Hops
-  - 15 g Southern Aroma - Boil, 60 min, 5.6% AA, 14.7 IBU
-  - 10 g Southern Aroma - Boil, 20 min, 5.6% AA, 5.7 IBU
-  - 25 g Southern Aroma - Boil, 10 min, 5.6% AA, 8.3 IBU
+  - 15 g Southern Aroma - Boil, 60 min, 5.6% AA, 14.8 IBU
+  - 15 g Southern Aroma - Boil, 20 min, 5.6% AA, 8.6 IBU
+  - 20 g Southern Aroma - Boil, 10 min, 5.6% AA, 6.7 IBU
 
 ### Yeast
   - 2 pkg WHC Lab Crispy lager (Apres Ski) - 8–16 °C; 80% attenuation
@@ -233,7 +234,7 @@ Pressure ferment from day 2.
 - Profile: Cape Aqua
 - Ca 73.74, Mg 0.2, Na 0.3, Cl 88.98, SO4 65.04, HCO3 0
 - SO4/Cl ratio: 0.73
-- Target mash pH: 5.37
+- Target mash pH: 5.36
 
 ### Notes
 First time using Apres Ski yeast. 
@@ -1258,29 +1259,31 @@ Easy drink beer with tropical notes
 - OG: 1.048
 - FG: 1.005
 - ABV: 5.64%
-- IBU: 25.2
-- Color EBC: 3.8
+- IBU: 24.5
+- Color EBC: 4
 - Batch size L: 12
 - Boil size L: 18.6
 
 ### Fermentables
-  - 2.5 kg Swaen Pilsner (81.97%, The Swaen, 1.9 EBC)
-  - 0.35 kg Swaen Vienna (11.48%, The Swaen, 5.1 EBC)
-  - 0.2 kg Sugar, Table (Sucrose) (6.56%, 1 EBC)
+  - 2.4 kg Swaen Pilsner (78.43%, The Swaen, 1.9 EBC)
+  - 0.34 kg Swaen Vienna (11.11%, The Swaen, 5.1 EBC)
+  - 0.21 kg Sugar, Table (Sucrose) (6.86%, 1 EBC)
+  - 0.11 kg Swaen Munich Light (3.59%, The Swaen, 6.6 EBC)
 
 ### Hops
-  - 20 g Saaz - Boil, 60 min, 2.6% AA, 9.4 IBU
-  - 10 g Hallertau Perle - Boil, 60 min, 6.3% AA, 11.4 IBU
-  - 20 g Saaz - Boil, 15 min, 2.6% AA, 4.4 IBU
+  - 25 g Hallertauer Mittelfrueh - Boil, 60 min, 3.2% AA, 14.5 IBU
+  - 5 g Hallertau Perle - Boil, 60 min, 6.3% AA, 5.7 IBU
+  - 10 g Kazbek - Boil, 15 min, 5% AA, 4.3 IBU
+  - 20 g Kazbek - Boil, 0 min, 5% AA, 0 IBU
 
 ### Yeast
   - 1 pkg Lallemand (LalBrew) Farmhouse - 20–30 °C; 80% attenuation
 
 ### Miscellaneous
   - 1.5 g Baking Soda (NaHCO3) - Mash, Water Agent
-  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
-  - 2 g Epsom Salt (MgSO4) - Mash, Water Agent
-  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2.5 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 1 g Epsom Salt (MgSO4) - Mash, Water Agent
+  - 2.6 g Gypsum (CaSO4) - Mash, Water Agent
   - 2.5 ml Lactic Acid - Mash, Water Agent
   - 5 g Yeast Nutrients - Boil, Other, 15 min
   - 5 g Irish Moss - Boil, Fining, 10 min
@@ -1296,9 +1299,9 @@ Easy drink beer with tropical notes
   - Primary: 28 °C for 6 days
 
 ### Water profile
-- Profile: Cape Aqua
-- Ca 63.14, Mg 9.99, Na 20.68, Cl 66.17, SO4 109.22, HCO3 52.92
-- SO4/Cl ratio: 1.65
+- Profile: pnp centre h20 bar
+- Ca 63.89, Mg 4.9, Na 20.39, Cl 59.87, SO4 91.34, HCO3 52.92
+- SO4/Cl ratio: 1.53
 - Target mash pH: 5.42
 
 ### Notes
@@ -1319,9 +1322,9 @@ Table sugar to get it dryer.
 
 ### Targets
 - OG: 1.045
-- FG: 1.009
-- ABV: 4.73%
-- IBU: 35.2
+- FG: 1.007
+- ABV: 4.99%
+- IBU: 34.9
 - Color EBC: 3.4
 - Batch size L: 12
 - Boil size L: 18.6
@@ -1330,10 +1333,10 @@ Table sugar to get it dryer.
   - 3 kg Swaen Pilsner (100%, The Swaen, 1.9 EBC)
 
 ### Hops
-  - 5 g Mosaic - Boil, 60 min, 13.5% AA, 12.1 IBU
-  - 10 g Mosaic - Boil, 10 min, 13.5% AA, 9.6 IBU
-  - 25 g Mosaic - Boil, 0 min, 13.5% AA, 5.2 IBU
-  - 40 g Mosaic - Aroma, 20 min, 75 °C, 13.5% AA, 8.3 IBU
+  - 8 g Mosaic - Boil, 60 min, 11.1% AA, 15.9 IBU
+  - 10 g Mosaic - Boil, 10 min, 11.1% AA, 7.9 IBU
+  - 25 g Mosaic - Boil, 0 min, 11.1% AA, 4.3 IBU
+  - 40 g Mosaic - Aroma, 20 min, 75 °C, 11.1% AA, 6.8 IBU
 
 ### Yeast
   - 250 ml WHC Lab Clean West Coast IPA (LAX) - 18–22 °C; 80% attenuation; Notes: Repitch
@@ -1347,7 +1350,7 @@ Table sugar to get it dryer.
 
 ### Mash profile
 - Profile: High fermentability plus mash out
-  - Temperature: 66 °C for 60 min
+  - Temperature: 68 °C for 60 min
   - Mash Out: 78 °C for 10 min
 
 ### Fermentation profile
