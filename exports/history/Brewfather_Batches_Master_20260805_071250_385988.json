@@ -7,12 +7,12 @@
     },
     "_id": "SwGsB3tm6msnKvHKjzAUKNT17xz3QQ",
     "_init": true,
-    "_rev": "qbonXeT4wvM4dIfFc7m9qBWxTjwgIi",
+    "_rev": "WCQc7NBa6DU8cjFK1gUryc9yuFi6sB",
     "_timestamp": {
-      "_nanoseconds": 799000000,
-      "_seconds": 1785830860
+      "_nanoseconds": 811000000,
+      "_seconds": 1785746343
     },
-    "_timestamp_ms": 1785830860799,
+    "_timestamp_ms": 1785746343811,
     "_type": "batch",
     "_version": "3.0.1",
     "batchFermentables": [
@@ -779,11 +779,6 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
-      {
-        "note": "Started cold crash at 4dC",
-        "status": "Fermenting",
-        "timestamp": 1785830847462
-      },
       {
         "note": "Started spunding",
         "status": "Fermenting",

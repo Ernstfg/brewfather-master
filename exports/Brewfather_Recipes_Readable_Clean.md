@@ -1,6 +1,6 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-08-04 07:12
+# Brewfather Recipes - Clean Readable Master - updated 2026-08-05 07:12
 
-Total recipes: 22
+Total recipes: 23
 
 ## Lager Idea 1 pseudo 
 
@@ -1355,7 +1355,7 @@ Table sugar to get it dryer.
 
 ### Fermentation profile
 - Profile: Lager (Standard)
-  - Primary: 19 °C for 7 days
+  - Primary: 20 °C for 7 days
   - Primary: 2 °C for 4 days
 
 ### Water profile
@@ -1367,6 +1367,64 @@ Table sugar to get it dryer.
 ### Notes
 Repitch yeast
 Spund after 4 days
-Ferment on the cooler side 
+Not sure of the app's fg of 1.006 is realistic
+
+
+## Smash shoddy
+
+### Overview
+- Recipe ID: dXad4F2tnZ5bYPr0H7o1LxG5LkDq1C
+- Style: American Pale Ale
+- Type: All Grain
+- Author: Ernst Gouws
+- Created: 2026-08-04
+
+### Targets
+- OG: 1.045
+- FG: 1.007
+- ABV: 4.99%
+- IBU: 35.7
+- Color EBC: 3.4
+- Batch size L: 12
+- Boil size L: 16.85
+
+### Fermentables
+  - 3 kg Swaen Pilsner (100%, The Swaen, 1.9 EBC)
+
+### Hops
+  - 11 g Mosaic - Boil, 30 min, 11.1% AA, 16.7 IBU
+  - 10 g Mosaic - Boil, 10 min, 11.1% AA, 7.9 IBU
+  - 25 g Mosaic - Boil, 0 min, 11.1% AA, 4.3 IBU
+  - 40 g Mosaic - Aroma, 20 min, 75 °C, 11.1% AA, 6.8 IBU
+
+### Yeast
+  - 250 ml WHC Lab Clean West Coast IPA (LAX) - 18–22 °C; 80% attenuation; Notes: Repitch
+
+### Miscellaneous
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 1 g Irish Moss - Boil, Fining, 10 min
+
+### Mash profile
+- Profile: High fermentability plus mash out
+  - Temperature: 68 °C for 45 min
+  - Mash Out: 78 °C for 5 min
+
+### Fermentation profile
+- Profile: Lager (Standard)
+  - Primary: 20 °C for 7 days
+  - Primary: 2 °C for 4 days
+
+### Water profile
+- Profile: Cape Aqua
+- Ca 67.33, Mg 0.2, Na 0.3, Cl 58.22, SO4 91.35, HCO3 0
+- SO4/Cl ratio: 1.57
+- Target mash pH: 5.39
+
+### Notes
+Repitch yeast
+Spund after 4 days
 Not sure of the app's fg of 1.006 is realistic
 
