@@ -24700,12 +24700,12 @@
     "_ev": 2,
     "_id": "rJhcyGonoBkZSA8onOHB3KYOWjvOFo",
     "_init": true,
-    "_rev": "mouYIWbFCdGG5fACyjEsuov0gB9CIa",
+    "_rev": "2iOYWAqleYFJuhhqBA27SSsiiynICK",
     "_timestamp": {
-      "_nanoseconds": 745000000,
-      "_seconds": 1785948014
+      "_nanoseconds": 677000000,
+      "_seconds": 1785903913
     },
-    "_timestamp_ms": 1785948014745,
+    "_timestamp_ms": 1785903913677,
     "_type": "recipe",
     "_uid": "iPD6GM7QMGbK1uTM33gRwN6czDG3",
     "_version": "3.0.1",
@@ -24718,7 +24718,7 @@
     "batchSize": 12,
     "boilSize": 18.6,
     "boilTime": 60,
-    "buGuRatio": 0.82,
+    "buGuRatio": 0.78,
     "carbonation": 2.4,
     "carbonationStyle": {
       "carbMax": 3,
@@ -24733,7 +24733,7 @@
       "batchSpargeWaterAmount3": null,
       "batchSpargeWaterAmount4": null,
       "hltWaterAmount": 0,
-      "hopsAmount": 93,
+      "hopsAmount": 83,
       "mashFermentables": [
         {
           "_created": {
@@ -25095,7 +25095,7 @@
         "_version": "3.0.1",
         "actualTime": null,
         "alpha": 11.1,
-        "amount": 50,
+        "amount": 40,
         "bestBeforeDate": null,
         "beta": 5.6,
         "caryophyllene": 0.1,
@@ -25104,7 +25104,7 @@
         "hidden": false,
         "hsi": null,
         "humulene": 0.1,
-        "ibu": 8.5,
+        "ibu": 6.8,
         "inventory": 200,
         "loss": 15,
         "manufacturingDate": null,
@@ -25125,8 +25125,8 @@
         "year": null
       }
     ],
-    "hopsTotalAmount": 93,
-    "ibu": 36.6,
+    "hopsTotalAmount": 83,
+    "ibu": 34.9,
     "ibuFormula": "tinseth",
     "manualFg": false,
     "mash": {
@@ -25340,7 +25340,7 @@
     "postBoilGravity": 1.044619325,
     "preBoilGravity": 1.036,
     "primaryTemp": 20,
-    "rbRatio": 0.88,
+    "rbRatio": 0.84,
     "searchTags": [],
     "style": {
       "_id": "default-58",
@@ -25378,7 +25378,7 @@
     "styleIbu": true,
     "styleOg": null,
     "styleRbr": true,
-    "sumAromaHopPerLiter": 4.166666666666667,
+    "sumAromaHopPerLiter": 3.3333333333333335,
     "sumDryHopPerLiter": 0,
     "tags": null,
     "totalGravity": 1.044619325,
