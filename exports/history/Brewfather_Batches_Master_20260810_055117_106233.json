@@ -7,12 +7,12 @@
     },
     "_id": "SwGsB3tm6msnKvHKjzAUKNT17xz3QQ",
     "_init": true,
-    "_rev": "SZz91Ii8BpvX7IdT9L5niabI7HV3VH",
+    "_rev": "qbonXeT4wvM4dIfFc7m9qBWxTjwgIi",
     "_timestamp": {
-      "_nanoseconds": 562000000,
-      "_seconds": 1786303818
+      "_nanoseconds": 799000000,
+      "_seconds": 1785830860
     },
-    "_timestamp_ms": 1786303818562,
+    "_timestamp_ms": 1785830860799,
     "_type": "batch",
     "_version": "3.0.1",
     "batchFermentables": [
@@ -635,8 +635,7 @@
       }
     ],
     "boilStepsCount": 3,
-    "bottlingDate": 1786303807951,
-    "bottlingDateSet": true,
+    "bottlingDate": 1785794400000,
     "brewControllerEnabled": false,
     "brewDate": 1785016800000,
     "brewer": "Ernst Gouws",
@@ -740,7 +739,17 @@
         "title": "Brew Day - Reminder - Batch #46 (APA)"
       },
       {
-        "active": false,
+        "active": true,
+        "dayEvent": true,
+        "description": "Bottling Day (APA)",
+        "descriptionHTML": "Bottling Day (APA)",
+        "eventText": "Bottling Day",
+        "eventType": "event-batch-bottling-day",
+        "time": 1785830400000,
+        "title": "Bottling Day - Batch #46 (APA)"
+      },
+      {
+        "active": true,
         "dayEvent": false,
         "description": "Fermentation Profile Step: Primary (Fermentation) @ 2 °C",
         "descriptionHTML": "Fermentation Profile Step:<br>Primary (Fermentation) @ 2 °C",
@@ -748,26 +757,6 @@
         "eventType": "event-batch-ferm-step",
         "time": 1785571200000,
         "title": "Fermentation Step - Batch #46 (APA)"
-      },
-      {
-        "active": false,
-        "dayEvent": true,
-        "description": "Bottling Day (APA)",
-        "descriptionHTML": "Bottling Day (APA)",
-        "eventText": "Bottling Day",
-        "eventType": "event-batch-bottling-day",
-        "time": 1786262400000,
-        "title": "Bottling Day - Batch #46 (APA)"
-      },
-      {
-        "active": false,
-        "dayEvent": false,
-        "description": "Fermentation Profile Step: Completed - Primary (Fermentation) @ 2 °C",
-        "descriptionHTML": "Fermentation Profile Step:<br>Completed - Primary (Fermentation) @ 2 °C",
-        "eventText": "Completed - Primary (Fermentation) @ 2 °C",
-        "eventType": "event-batch-ferm-completed",
-        "time": 1785830400000,
-        "title": "Completed - Batch #46 (APA)"
       }
     ],
     "fermentationControllerEnabled": false,
@@ -790,18 +779,6 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
-      {
-        "note": "",
-        "status": "Completed",
-        "timestamp": 1786303817302,
-        "type": "statusChanged"
-      },
-      {
-        "note": "",
-        "status": "Conditioning",
-        "timestamp": 1786303807585,
-        "type": "statusChanged"
-      },
       {
         "note": "Started cold crash at 4dC",
         "status": "Fermenting",
@@ -2081,7 +2058,7 @@
         }
       ]
     },
-    "status": "Completed",
+    "status": "Fermenting",
     "tasteRating": 0,
     "updatedBy": "user"
   },
