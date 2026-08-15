@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-08-14 06:05
+# Brewfather Recipes - Clean Readable Master - updated 2026-08-15 04:49
 
 Total recipes: 23
 
@@ -1322,9 +1322,9 @@ Table sugar to get it dryer.
 
 ### Targets
 - OG: 1.045
-- FG: 1.007
-- ABV: 4.99%
-- IBU: 36.6
+- FG: 1.006
+- ABV: 5.12%
+- IBU: 37.7
 - Color EBC: 3.4
 - Batch size L: 12
 - Boil size L: 18.6
@@ -1335,34 +1335,34 @@ Table sugar to get it dryer.
 ### Hops
   - 8 g Mosaic - Boil, 60 min, 11.1% AA, 15.9 IBU
   - 10 g Mosaic - Boil, 10 min, 11.1% AA, 7.9 IBU
-  - 25 g Mosaic - Boil, 0 min, 11.1% AA, 4.3 IBU
-  - 50 g Mosaic - Aroma, 20 min, 75 °C, 11.1% AA, 8.5 IBU
+  - 30 g Mosaic - Boil, 0 min, 11.1% AA, 5.1 IBU
+  - 52 g Mosaic - Aroma, 20 min, 75 °C, 11.1% AA, 8.8 IBU
 
 ### Yeast
   - 250 ml WHC Lab Clean West Coast IPA (LAX) - 18–22 °C; 80% attenuation; Notes: Repitch
 
 ### Miscellaneous
   - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
-  - 3 g Gypsum (CaSO4) - Mash, Water Agent
+  - 3.5 g Gypsum (CaSO4) - Mash, Water Agent
   - 2 ml Lactic Acid - Mash, Water Agent
   - 1 g Yeast Nutrients - Boil, Other, 15 min
   - 1 g Irish Moss - Boil, Fining, 10 min
 
 ### Mash profile
 - Profile: High fermentability plus mash out
-  - Temperature: 68 °C for 60 min
+  - Temperature: 66 °C for 60 min
   - Mash Out: 78 °C for 10 min
 
 ### Fermentation profile
 - Profile: Lager (Standard)
-  - Primary: 20 °C for 7 days
+  - Primary: 20 °C for 6 days
   - Primary: 2 °C for 4 days
 
 ### Water profile
 - Profile: Cape Aqua
-- Ca 61.78, Mg 0.2, Na 0.3, Cl 53.91, SO4 83.88, HCO3 0
-- SO4/Cl ratio: 1.56
-- Target mash pH: 5.4
+- Ca 67.53, Mg 0.2, Na 0.3, Cl 53.91, SO4 97.64, HCO3 0
+- SO4/Cl ratio: 1.81
+- Target mash pH: 5.38
 
 ### Notes
 Repitch yeast

@@ -24700,25 +24700,25 @@
     "_ev": 2,
     "_id": "rJhcyGonoBkZSA8onOHB3KYOWjvOFo",
     "_init": true,
-    "_rev": "LZJIADaxqc025dAGvFhQStb6tXVFhh",
+    "_rev": "mouYIWbFCdGG5fACyjEsuov0gB9CIa",
     "_timestamp": {
-      "_nanoseconds": 631000000,
-      "_seconds": 1786742285
+      "_nanoseconds": 745000000,
+      "_seconds": 1785948014
     },
-    "_timestamp_ms": 1786742285631,
+    "_timestamp_ms": 1785948014745,
     "_type": "recipe",
     "_uid": "iPD6GM7QMGbK1uTM33gRwN6czDG3",
     "_version": "3.0.1",
     "_versionId": "yqiF7qA86jSclH2aqui9g8eCZDvrdh",
     "_versionNumber": 1,
-    "abv": 5.12,
-    "attenuation": 0.862,
+    "abv": 4.99,
+    "attenuation": 0.839,
     "author": "Ernst Gouws",
     "avgWeightedHopstandTemp": 75,
     "batchSize": 12,
     "boilSize": 18.6,
     "boilTime": 60,
-    "buGuRatio": 0.84,
+    "buGuRatio": 0.82,
     "carbonation": 2.4,
     "carbonationStyle": {
       "carbMax": 3,
@@ -24733,7 +24733,7 @@
       "batchSpargeWaterAmount3": null,
       "batchSpargeWaterAmount4": null,
       "hltWaterAmount": 0,
-      "hopsAmount": 100,
+      "hopsAmount": 93,
       "mashFermentables": [
         {
           "_created": {
@@ -24789,7 +24789,7 @@
       "otherFermentables": [],
       "otherFermentablesAmount": 0,
       "spargeWaterAmount": 0,
-      "strikeTemp": 68.4,
+      "strikeTemp": 70.5,
       "topUpWater": 0,
       "totalDiastaticPower": 0,
       "totalWaterAmount": 20.26
@@ -24927,7 +24927,7 @@
           "pressure": null,
           "ramp": null,
           "stepTemp": 20,
-          "stepTime": 6,
+          "stepTime": 7,
           "type": "Primary"
         },
         {
@@ -24941,8 +24941,8 @@
         }
       ]
     },
-    "fg": 1.006,
-    "fgEstimated": 1.006,
+    "fg": 1.007,
+    "fgEstimated": 1.007,
     "fgFormula": "adv",
     "firstWortGravity": null,
     "folderRefs": [
@@ -25052,7 +25052,7 @@
         "_version": "3.0.1",
         "actualTime": null,
         "alpha": 11.1,
-        "amount": 30,
+        "amount": 25,
         "bestBeforeDate": null,
         "beta": 5.6,
         "caryophyllene": 0.1,
@@ -25061,7 +25061,7 @@
         "hidden": false,
         "hsi": null,
         "humulene": 0.1,
-        "ibu": 5.1,
+        "ibu": 4.3,
         "inventory": 200,
         "loss": 15,
         "manufacturingDate": null,
@@ -25095,7 +25095,7 @@
         "_version": "3.0.1",
         "actualTime": null,
         "alpha": 11.1,
-        "amount": 52,
+        "amount": 50,
         "bestBeforeDate": null,
         "beta": 5.6,
         "caryophyllene": 0.1,
@@ -25104,7 +25104,7 @@
         "hidden": false,
         "hsi": null,
         "humulene": 0.1,
-        "ibu": 8.8,
+        "ibu": 8.5,
         "inventory": 200,
         "loss": 15,
         "manufacturingDate": null,
@@ -25125,8 +25125,8 @@
         "year": null
       }
     ],
-    "hopsTotalAmount": 100,
-    "ibu": 37.7,
+    "hopsTotalAmount": 93,
+    "ibu": 36.6,
     "ibuFormula": "tinseth",
     "manualFg": false,
     "mash": {
@@ -25146,10 +25146,10 @@
       "name": "High fermentability plus mash out",
       "steps": [
         {
-          "displayStepTemp": 66,
+          "displayStepTemp": 68,
           "name": "",
           "rampTime": null,
-          "stepTemp": 66,
+          "stepTemp": 68,
           "stepTime": 60,
           "type": "Temperature"
         },
@@ -25210,7 +25210,7 @@
         },
         "_timestamp_ms": 1785061185868,
         "_version": "3.0.1",
-        "amount": 3.5,
+        "amount": 3,
         "amountPerL": null,
         "bestBeforeDate": null,
         "hidden": false,
@@ -25325,13 +25325,13 @@
     "notes": "Repitch yeast\nSpund after 4 days\nNot sure of the app's fg of 1.006 is realistic  ",
     "nutrition": {
       "calories": {
-        "alcohol": 28.1973676272956,
-        "carbs": 12.662064340547055,
-        "kJ": 170.9558633534537,
-        "total": 40.85943196784266
+        "alcohol": 27.494534827235434,
+        "carbs": 13.499858754855781,
+        "kJ": 171.52054274746968,
+        "total": 40.99439358209122
       },
       "carbs": {
-        "total": 3.1921612902675873
+        "total": 3.4060243262728567
       }
     },
     "og": 1.044619325,
@@ -25340,7 +25340,7 @@
     "postBoilGravity": 1.044619325,
     "preBoilGravity": 1.036,
     "primaryTemp": 20,
-    "rbRatio": 0.92,
+    "rbRatio": 0.88,
     "searchTags": [],
     "style": {
       "_id": "default-58",
@@ -25378,7 +25378,7 @@
     "styleIbu": true,
     "styleOg": null,
     "styleRbr": true,
-    "sumAromaHopPerLiter": 4.333333333333333,
+    "sumAromaHopPerLiter": 4.166666666666667,
     "sumDryHopPerLiter": 0,
     "tags": null,
     "totalGravity": 1.044619325,
@@ -25390,7 +25390,6 @@
       "dilutionAmount": 0,
       "dilutionPercentage": null,
       "enableAcidAdjustments": true,
-      "enableSpargeAcidAdjustments": false,
       "enableSpargeAdjustments": false,
       "mash": {
         "_created": {
@@ -25406,24 +25405,24 @@
         "_timestamp_ms": 1750062124062,
         "_version": "2.11.6",
         "alkalinity": 0,
-        "anions": 3.554,
+        "anions": 3.267,
         "bicarbonate": 0,
         "bicarbonateMeqL": 0,
-        "calcium": 67.527,
-        "cations": 3.399,
+        "calcium": 61.782,
+        "cations": 3.113,
         "chloride": 53.911,
-        "hardness": 169,
+        "hardness": 155,
         "hidden": false,
         "ionBalance": -1,
         "ionBalanceOff": true,
         "magnesium": 0.2,
         "name": "Cape Aqua",
         "ph": 5.25,
-        "residualAlkalinity": -48.35212,
-        "residualAlkalinityMeqLCalc": -1.20643,
-        "soClRatio": 1.81,
+        "residualAlkalinity": -44.24846,
+        "residualAlkalinityMeqLCalc": -1.10404,
+        "soClRatio": 1.56,
         "sodium": 0.3,
-        "sulfate": 97.645,
+        "sulfate": 83.881,
         "type": "source"
       },
       "mashAdjustments": {
@@ -25436,11 +25435,11 @@
           }
         ],
         "bicarbonate": 0,
-        "calcium": 67.127,
+        "calcium": 61.382,
         "calciumCarbonate": 0,
         "calciumChloride": 2,
         "calciumHydroxide": 0,
-        "calciumSulfate": 3.5,
+        "calciumSulfate": 3,
         "chloride": 47.611,
         "ltAMS": 0,
         "ltDWB": 0,
@@ -25452,10 +25451,10 @@
         "sodiumChloride": null,
         "sodiumMetabisulfite": 0,
         "sodiumMetabisulfitePPM": 0,
-        "sulfate": 96.345,
+        "sulfate": 82.581,
         "volume": 20.26
       },
-      "mashPh": 5.38,
+      "mashPh": 5.4,
       "mashPhDistilled": 5.72,
       "mashTargetDiff": null,
       "mashWaterAmount": null,
@@ -25600,41 +25599,41 @@
         "_timestamp_ms": 1750062124062,
         "_version": "2.11.6",
         "alkalinity": 0,
-        "anions": 3.554,
+        "anions": 3.267,
         "bicarbonate": 0,
         "bicarbonateMeqL": 0,
-        "calcium": 67.527,
-        "cations": 3.399,
+        "calcium": 61.782,
+        "cations": 3.113,
         "chloride": 53.911,
-        "hardness": 169,
+        "hardness": 155,
         "hidden": false,
         "ionBalance": -1,
         "ionBalanceOff": true,
         "magnesium": 0.2,
         "name": "Cape Aqua",
         "ph": 5.25,
-        "residualAlkalinity": -48.35212,
-        "residualAlkalinityMeqLCalc": -1.20643,
-        "soClRatio": 1.81,
+        "residualAlkalinity": -44.24846,
+        "residualAlkalinityMeqLCalc": -1.10404,
+        "soClRatio": 1.56,
         "sodium": 0.3,
-        "sulfate": 97.645,
+        "sulfate": 83.881,
         "type": "source"
       },
       "totalAdjustments": {
         "acids": [
           {
-            "alkalinityMeqL": -1.3556521355139322,
+            "alkalinityMeqL": -1.3503201703791674,
             "amount": 2,
             "concentration": 80,
             "type": "lactic"
           }
         ],
         "bicarbonate": 0,
-        "calcium": 67.127,
+        "calcium": 61.382,
         "calciumCarbonate": 0,
         "calciumChloride": 2,
         "calciumHydroxide": 0,
-        "calciumSulfate": 3.5,
+        "calciumSulfate": 3,
         "chloride": 47.611,
         "ltAMS": 0,
         "ltDWB": 0,
@@ -25646,7 +25645,7 @@
         "sodiumChloride": null,
         "sodiumMetabisulfite": 0,
         "sodiumMetabisulfitePPM": 0,
-        "sulfate": 96.345,
+        "sulfate": 82.581,
         "volume": 20.26
       },
       "totalTargetDiff": null
