@@ -1,6 +1,91 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-08-15 04:49
+# Brewfather Batches - Clean Readable Master - updated 2026-08-16 04:56
 
-Total batches: 41
+Total batches: 42
+
+## Batch #47 - Smash Mosaic
+
+### Overview
+- Status: Fermenting
+- Style: American Pale Ale
+- Type: All Grain
+- Brewer: Ernst Gouws
+- Brew date: 2026-08-15
+- Fermentation start: 2026-08-15
+- Kegging / bottling date: 2026-08-25
+
+### Targets vs actuals
+| Item | Target | Actual |
+|---|---:|---:|
+| OG | 1.045 | 1.049 |
+| FG | 1.006 |  |
+| ABV % | 5.12 | 5.6 |
+| IBU | 40.1 | 40 |
+| Colour EBC | 3.4 | 3.4 |
+| Pre-boil gravity | 1.036 | 1.038 |
+| Post-boil gravity | 1.045 | 1.049 |
+| Mash pH | 5.38 | 5.38 |
+| Batch size L | 12 |  |
+| Boil size L | 18.6 | 18.6 |
+| Kegged / bottling volume L | 10 |  |
+| Brewhouse efficiency % | 57.9 | 63.58 |
+| Mash efficiency % | 70 | 73.89 |
+| Measured attenuation % |  | 87.3 |
+
+### Equipment / volumes
+- Equipment profile: 12 liter setup (clear transfer)
+- Sparge formula: 0
+- Boil-off per hour L: 3.5
+- Fermenter loss L: 2
+- Trub/chiller loss L: 2.5
+
+### Fermentables
+  - 3 kg Swaen Pilsner (100%, The Swaen, 1.9 EBC)
+
+### Hops
+  - 8 g Mosaic - Boil, 60 min, 11.1% AA, 15.9 IBU
+  - 10 g Mosaic - Boil, 15 min, 11.1% AA, 10.2 IBU
+  - 32 g Mosaic - Boil, 0 min, 11.1% AA, 5.5 IBU
+  - 50 g Mosaic - Aroma, 20 min, 75 °C, 11.1% AA, 8.5 IBU
+
+### Yeast
+  - 250 ml WHC Lab Clean West Coast IPA (LAX) - 18–22 °C; 80% attenuation; Notes: Repitch
+
+### Miscellaneous / water agents / finings
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 3.5 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 1 g Irish Moss - Boil, Fining, 10 min
+
+### Mash profile
+- Profile: High fermentability plus mash out
+  - Temperature: 66 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+### Fermentation profile
+- Profile: Lager (Standard)
+  - Primary: 20 °C for 6 days
+  - Primary: 2 °C for 4 days
+
+### Water profile
+- Profile: Cape Aqua
+- Ca 67.53, Mg 0.2, Na 0.3, Cl 53.91, SO4 97.64, HCO3 0
+- SO4/Cl ratio: 1.81
+- Target mash pH: 5.38
+
+### Recipe notes
+Repitch yeast
+Spund after 4 days
+Not sure of the app's fg of 1.006 is realistic
+
+### Taste
+- Rating: 0
+
+### Batch log / status notes
+  - 2026-08-15 12:29 Brewing (statusChanged)
+  - 2026-08-15 19:47 Fermenting (statusChanged)
+  - 2026-08-15 19:47 Fermenting: Pitched 250ml slurry at 19.5. Ferment at 20. Spunding valve open with blow off tube.
+
 
 ## Batch #46 - APA
 

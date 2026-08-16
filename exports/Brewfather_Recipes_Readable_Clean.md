@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-08-15 04:49
+# Brewfather Recipes - Clean Readable Master - updated 2026-08-16 04:56
 
 Total recipes: 23
 
@@ -1324,7 +1324,7 @@ Table sugar to get it dryer.
 - OG: 1.045
 - FG: 1.006
 - ABV: 5.12%
-- IBU: 37.7
+- IBU: 37.8
 - Color EBC: 3.4
 - Batch size L: 12
 - Boil size L: 18.6
@@ -1335,8 +1335,8 @@ Table sugar to get it dryer.
 ### Hops
   - 8 g Mosaic - Boil, 60 min, 11.1% AA, 15.9 IBU
   - 10 g Mosaic - Boil, 10 min, 11.1% AA, 7.9 IBU
-  - 30 g Mosaic - Boil, 0 min, 11.1% AA, 5.1 IBU
-  - 52 g Mosaic - Aroma, 20 min, 75 °C, 11.1% AA, 8.8 IBU
+  - 32 g Mosaic - Boil, 0 min, 11.1% AA, 5.5 IBU
+  - 50 g Mosaic - Aroma, 20 min, 75 °C, 11.1% AA, 8.5 IBU
 
 ### Yeast
   - 250 ml WHC Lab Clean West Coast IPA (LAX) - 18–22 °C; 80% attenuation; Notes: Repitch
