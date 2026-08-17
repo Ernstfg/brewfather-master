@@ -1,4 +1,4 @@
-Brewfather Batches - Clean Readable Master - updated 2026-08-16 04:56
+Brewfather Batches - Clean Readable Master - updated 2026-08-17 04:56
 ======================================================================
 
 Total batches: 42
@@ -21,20 +21,20 @@ Targets vs actuals
 --------------------
 Item                                   Target         Actual
 ------------------------------ -------------- --------------
-OG                                      1.045          1.049
-FG                                      1.006               
-ABV %                                    5.12            5.6
-IBU                                      40.1             40
+OG                                      1.046          1.049
+FG                                      1.009               
+ABV %                                    4.86            5.3
+IBU                                      39.7             40
 Colour EBC                                3.4            3.4
-Pre-boil gravity                        1.036          1.038
-Post-boil gravity                       1.045          1.049
-Mash pH                                  5.38           5.38
+Pre-boil gravity                        1.037          1.038
+Post-boil gravity                       1.046          1.049
+Mash pH                                  5.39           5.38
 Batch size L                               12               
 Boil size L                              18.6           18.6
 Kegged / bottling volume L                 10               
-Brewhouse efficiency %                   57.9          63.58
-Mash efficiency %                          70          73.89
-Measured attenuation %                                  87.3
+Brewhouse efficiency %                   57.9          61.53
+Mash efficiency %                          70          71.89
+Measured attenuation %                                    81
 
 Equipment / volumes
 --------------------
@@ -46,14 +46,14 @@ Trub/chiller loss L: 2.5
 
 Fermentables
 --------------------
-  - 3 kg Swaen Pilsner (100%, The Swaen, 1.9 EBC)
+  - 3.1 kg Swaen Pilsner (100%, The Swaen, 1.9 EBC)
 
 Hops
 --------------------
-  - 8 g Mosaic - Boil, 60 min, 11.1% AA, 15.9 IBU
-  - 10 g Mosaic - Boil, 15 min, 11.1% AA, 10.2 IBU
-  - 32 g Mosaic - Boil, 0 min, 11.1% AA, 5.5 IBU
-  - 50 g Mosaic - Aroma, 20 min, 75 °C, 11.1% AA, 8.5 IBU
+  - 8 g Mosaic - Boil, 60 min, 11.1% AA, 15.8 IBU
+  - 10 g Mosaic - Boil, 15 min, 11.1% AA, 10.1 IBU
+  - 32 g Mosaic - Boil, 0 min, 11.1% AA, 5.4 IBU
+  - 50 g Mosaic - Aroma, 20 min, 75 °C, 11.1% AA, 8.4 IBU
 
 Yeast
 --------------------
@@ -82,9 +82,9 @@ Fermentation profile
 Water profile
 --------------------
   Profile: Cape Aqua
-  Ca 67.53, Mg 0.2, Na 0.3, Cl 53.91, SO4 97.64, HCO3 0
+  Ca 68.4, Mg 0.2, Na 0.3, Cl 54.53, SO4 98.9, HCO3 0
   SO4/Cl ratio: 1.81
-  Target mash pH: 5.38
+  Target mash pH: 5.39
 
 Recipe notes
 --------------------
@@ -101,6 +101,7 @@ Batch log / status notes
   - 2026-08-15 12:29 Brewing (statusChanged)
   - 2026-08-15 19:47 Fermenting (statusChanged)
   - 2026-08-15 19:47 Fermenting: Pitched 250ml slurry at 19.5. Ferment at 20. Spunding valve open with blow off tube.
+  - 2026-08-16 19:39 Fermenting: 24 h sample: very prominent Mosaic aroma and flavour; base beer tasted very green/raw as expected during active fermentation.
 
 
 ==========================================================================================

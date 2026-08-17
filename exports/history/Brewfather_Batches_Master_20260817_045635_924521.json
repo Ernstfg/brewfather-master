@@ -2,17 +2,17 @@
   {
     "_archived": false,
     "_created": {
-      "_nanoseconds": 501000000,
-      "_seconds": 1786854432
+      "_nanoseconds": 522000000,
+      "_seconds": 1786800274
     },
     "_id": "xXoRA9ifPgP4eMiy15V24tu97vburE",
     "_init": true,
-    "_rev": "0DIDlnaZK9p90uOj2x57cA3T6dkzaP",
+    "_rev": "ovP62ty6exzVfMN6HlRzHF12iIKm7k",
     "_timestamp": {
-      "_nanoseconds": 923000000,
-      "_seconds": 1786901991
+      "_nanoseconds": 411000000,
+      "_seconds": 1786816115
     },
-    "_timestamp_ms": 1786901991923,
+    "_timestamp_ms": 1786816115411,
     "_type": "batch",
     "_version": "3.0.1",
     "batchFermentables": [
@@ -30,7 +30,7 @@
         "_timestamp_ms": 1785754428364,
         "_version": "3.0.1",
         "acid": null,
-        "amount": 3.1,
+        "amount": 3,
         "attenuation": null,
         "bestBeforeDate": null,
         "cgdb": null,
@@ -39,7 +39,7 @@
         "color": 1.9,
         "costPerAmount": 0,
         "diastaticPower": null,
-        "displayAmount": 0.1,
+        "displayAmount": 0,
         "fan": null,
         "fgdb": null,
         "friability": null,
@@ -462,10 +462,10 @@
     },
     "estimatedBuGuRatio": 0.81,
     "estimatedColor": 3.4,
-    "estimatedFg": 1.009,
+    "estimatedFg": 1.006,
     "estimatedIbu": 40,
     "estimatedOg": 1.049,
-    "estimatedRbRatio": 0.85,
+    "estimatedRbRatio": 0.9,
     "estimatedTotalGravity": 1.049,
     "events": [
       {
@@ -516,13 +516,13 @@
     "hidden": false,
     "hideBatchEvents": true,
     "mashStepsCount": 2,
-    "measuredAbv": 5.3,
-    "measuredAttenuation": 81,
+    "measuredAbv": 5.6,
+    "measuredAttenuation": 87.3,
     "measuredBoilSize": 18.6,
     "measuredConversionEfficiency": null,
-    "measuredEfficiency": 61.53,
-    "measuredKettleEfficiency": 61.53,
-    "measuredMashEfficiency": 71.89,
+    "measuredEfficiency": 63.58,
+    "measuredKettleEfficiency": 63.58,
+    "measuredMashEfficiency": 73.89,
     "measuredMashPh": 5.38,
     "measuredOg": 1.049,
     "measuredPostBoilGravity": 1.049,
@@ -530,11 +530,6 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
-      {
-        "note": "24 h sample: very prominent Mosaic aroma and flavour; base beer tasted very green/raw as expected during active fermentation.",
-        "status": "Fermenting",
-        "timestamp": 1786901984552
-      },
       {
         "note": "Pitched 250ml slurry at 19.5. Ferment at 20. Spunding valve open with blow off tube.",
         "status": "Fermenting",
@@ -563,25 +558,25 @@
       "_id": "rJhcyGonoBkZSA8onOHB3KYOWjvOFo",
       "_init": true,
       "_public": false,
-      "_rev": "nk9VL9KRsHln6RLylJfq7QSbAirQAK",
+      "_rev": "zbTquh6vBuIYjC5A7drBTael9Ruhkp",
       "_timestamp": {
-        "_nanoseconds": 498000000,
-        "_seconds": 1786854432
+        "_nanoseconds": 519000000,
+        "_seconds": 1786800274
       },
-      "_timestamp_ms": 1786854432498,
+      "_timestamp_ms": 1786800274519,
       "_type": "recipe",
       "_uid": "iPD6GM7QMGbK1uTM33gRwN6czDG3",
       "_version": "3.0.1",
       "_versionId": "yqiF7qA86jSclH2aqui9g8eCZDvrdh",
       "_versionNumber": 1,
-      "abv": 4.86,
-      "attenuation": 0.798,
+      "abv": 5.12,
+      "attenuation": 0.862,
       "author": "Ernst Gouws",
       "avgWeightedHopstandTemp": 75,
       "batchSize": 12,
       "boilSize": 18.6,
       "boilTime": 60,
-      "buGuRatio": 0.86,
+      "buGuRatio": 0.9,
       "carbonation": 2.4,
       "carbonationStyle": {
         "carbMax": 3,
@@ -612,7 +607,7 @@
             "_timestamp_ms": 1785061181508,
             "_version": "3.0.1",
             "acid": null,
-            "amount": 3.1,
+            "amount": 3,
             "attenuation": null,
             "bestBeforeDate": null,
             "cgdb": null,
@@ -645,17 +640,17 @@
             "userNotes": ""
           }
         ],
-        "mashFermentablesAmount": 3.1,
-        "mashVolume": 22.417,
+        "mashFermentablesAmount": 3,
+        "mashVolume": 22.270000000000003,
         "mashVolumeSurplus": 0,
-        "mashWaterAmount": 20.34,
+        "mashWaterAmount": 20.26,
         "otherFermentables": [],
         "otherFermentablesAmount": 0,
         "spargeWaterAmount": 0,
-        "strikeTemp": 68.5,
+        "strikeTemp": 68.4,
         "topUpWater": 0,
         "totalDiastaticPower": 0,
-        "totalWaterAmount": 20.34
+        "totalWaterAmount": 20.26
       },
       "defaults": {
         "abv": "simple",
@@ -746,7 +741,7 @@
           "_timestamp_ms": 1785061181508,
           "_version": "3.0.1",
           "acid": null,
-          "amount": 3.1,
+          "amount": 3,
           "attenuation": null,
           "bestBeforeDate": null,
           "cgdb": null,
@@ -779,7 +774,7 @@
           "userNotes": ""
         }
       ],
-      "fermentablesTotalAmount": 3.1,
+      "fermentablesTotalAmount": 3,
       "fermentation": {
         "_id": "default-lager-normal-1",
         "name": "Lager (Standard)",
@@ -806,7 +801,7 @@
           }
         ]
       },
-      "fg": 1.009,
+      "fg": 1.006,
       "fgEstimated": 1.006,
       "fgFormula": "adv",
       "firstWortGravity": null,
@@ -840,7 +835,7 @@
           "hidden": false,
           "hsi": null,
           "humulene": 0.1,
-          "ibu": 15.8,
+          "ibu": 15.9,
           "inventory": 200,
           "loss": 15,
           "manufacturingDate": null,
@@ -883,7 +878,7 @@
           "hidden": false,
           "hsi": null,
           "humulene": 0.1,
-          "ibu": 10.1,
+          "ibu": 10.2,
           "inventory": 200,
           "loss": 15,
           "manufacturingDate": null,
@@ -926,7 +921,7 @@
           "hidden": false,
           "hsi": null,
           "humulene": 0.1,
-          "ibu": 5.4,
+          "ibu": 5.5,
           "inventory": 200,
           "loss": 15,
           "manufacturingDate": null,
@@ -969,7 +964,7 @@
           "hidden": false,
           "hsi": null,
           "humulene": 0.1,
-          "ibu": 8.4,
+          "ibu": 8.5,
           "inventory": 200,
           "loss": 15,
           "manufacturingDate": null,
@@ -991,9 +986,9 @@
         }
       ],
       "hopsTotalAmount": 100,
-      "ibu": 39.7,
+      "ibu": 40.1,
       "ibuFormula": "tinseth",
-      "manualFg": true,
+      "manualFg": false,
       "mash": {
         "_created": {
           "_nanoseconds": 895000000,
@@ -1036,19 +1031,19 @@
             "_seconds": 1699176797
           },
           "_id": "default-3b1827",
-          "_rev": "vjR3TZSLVuLk8qB9CNQnCBEGksFtLx",
+          "_rev": "Krt6pCjgS31xUqPji18XahSkMlPSpg",
           "_timestamp": {
-            "_nanoseconds": 652000000,
-            "_seconds": 1786789729
+            "_nanoseconds": 542000000,
+            "_seconds": 1785061186
           },
-          "_timestamp_ms": 1786789729652,
+          "_timestamp_ms": 1785061186542,
           "_version": "3.0.1",
           "amount": 2,
           "amountPerL": null,
           "bestBeforeDate": null,
           "concentration": null,
           "hidden": false,
-          "inventory": 38.5,
+          "inventory": 40.5,
           "manufacturingDate": null,
           "name": "Calcium Chloride (CaCl2)",
           "notes": "",
@@ -1068,18 +1063,18 @@
             "_seconds": 1699176796
           },
           "_id": "default-1f88df",
-          "_rev": "ZoNtSHVvqHcJXO4uTvjhGVWtnZpcPQ",
+          "_rev": "1eZxGCR6vlM3Yk5utOhCaPxCJgad8G",
           "_timestamp": {
-            "_nanoseconds": 135000000,
-            "_seconds": 1786789729
+            "_nanoseconds": 868000000,
+            "_seconds": 1785061185
           },
-          "_timestamp_ms": 1786789729135,
+          "_timestamp_ms": 1785061185868,
           "_version": "3.0.1",
           "amount": 3.5,
           "amountPerL": null,
           "bestBeforeDate": null,
           "hidden": false,
-          "inventory": 933.2,
+          "inventory": 936.7,
           "manufacturingDate": null,
           "name": "Gypsum (CaSO4)",
           "notes": "",
@@ -1099,19 +1094,19 @@
             "_seconds": 1706434207
           },
           "_id": "default-07adb1",
-          "_rev": "cUtlWL0SE56LvTXQN0VkwAWelrEQMz",
+          "_rev": "2K0l0yVaTOoSGIybTyu7f2OZzHqTjY",
           "_timestamp": {
-            "_nanoseconds": 122000000,
-            "_seconds": 1786789730
+            "_nanoseconds": 167000000,
+            "_seconds": 1785061187
           },
-          "_timestamp_ms": 1786789730122,
+          "_timestamp_ms": 1785061187167,
           "_version": "3.0.1",
           "amount": 2,
           "amountPerL": null,
           "bestBeforeDate": null,
           "concentration": 80,
           "hidden": false,
-          "inventory": 338.5,
+          "inventory": 340.5,
           "manufacturingDate": null,
           "name": "Lactic Acid",
           "notes": "",
@@ -1190,22 +1185,22 @@
       "notes": "Repitch yeast\nSpund after 4 days\nNot sure of the app's fg of 1.006 is realistic  ",
       "nutrition": {
         "calories": {
-          "alcohol": 27.229140616785518,
-          "carbs": 15.451780339851675,
-          "kJ": 178.57697328257004,
-          "total": 42.680920956637195
+          "alcohol": 28.1973676272956,
+          "carbs": 12.662064340547055,
+          "kJ": 170.9558633534537,
+          "total": 40.85943196784266
         },
         "carbs": {
-          "total": 3.898923875406541
+          "total": 3.1921612902675873
         }
       },
-      "og": 1.046106636,
-      "ogPlato": 11.5,
+      "og": 1.044619325,
+      "ogPlato": 11.1,
       "path": "/APA/",
-      "postBoilGravity": 1.046106636,
-      "preBoilGravity": 1.037,
+      "postBoilGravity": 1.044619325,
+      "preBoilGravity": 1.036,
       "primaryTemp": 20,
-      "rbRatio": 0.89,
+      "rbRatio": 0.99,
       "searchTags": [],
       "style": {
         "_id": "default-58",
@@ -1242,15 +1237,15 @@
       "styleFg": false,
       "styleIbu": true,
       "styleOg": true,
-      "styleRbr": true,
+      "styleRbr": false,
       "sumAromaHopPerLiter": 4.166666666666667,
       "sumDryHopPerLiter": 0,
       "tags": null,
-      "totalGravity": 1.046106636,
+      "totalGravity": 1.044619325,
       "type": "All Grain",
       "updatedBy": "user",
       "water": {
-        "acidPhAdjustment": -0.17485,
+        "acidPhAdjustment": -0.17833,
         "diluted": null,
         "dilutionAmount": 0,
         "dilutionPercentage": null,
@@ -1271,42 +1266,42 @@
           "_timestamp_ms": 1750062124062,
           "_version": "2.11.6",
           "alkalinity": 0,
-          "anions": 3.597,
+          "anions": 3.554,
           "bicarbonate": 0,
           "bicarbonateMeqL": 0,
-          "calcium": 68.4,
-          "cations": 3.443,
-          "chloride": 54.53,
-          "hardness": 171,
+          "calcium": 67.527,
+          "cations": 3.399,
+          "chloride": 53.911,
+          "hardness": 169,
           "hidden": false,
           "ionBalance": -1,
           "ionBalanceOff": true,
           "magnesium": 0.2,
           "name": "Cape Aqua",
           "ph": 5.25,
-          "residualAlkalinity": -48.9757,
-          "residualAlkalinityMeqLCalc": -1.22199,
+          "residualAlkalinity": -48.35212,
+          "residualAlkalinityMeqLCalc": -1.20643,
           "soClRatio": 1.81,
           "sodium": 0.3,
-          "sulfate": 98.898,
+          "sulfate": 97.645,
           "type": "source"
         },
         "mashAdjustments": {
           "acids": [
             {
-              "alkalinityMeqL": -1.3732756132756134,
+              "alkalinityMeqL": -1.3556521355139322,
               "amount": 2,
               "concentration": 80,
               "type": "lactic"
             }
           ],
           "bicarbonate": 0,
-          "calcium": 68,
+          "calcium": 67.127,
           "calciumCarbonate": 0,
           "calciumChloride": 2,
           "calciumHydroxide": 0,
           "calciumSulfate": 3.5,
-          "chloride": 48.23,
+          "chloride": 47.611,
           "ltAMS": 0,
           "ltDWB": 0,
           "magnesium": 0,
@@ -1317,13 +1312,13 @@
           "sodiumChloride": null,
           "sodiumMetabisulfite": 0,
           "sodiumMetabisulfitePPM": 0,
-          "sulfate": 97.598,
-          "volume": 20
+          "sulfate": 96.345,
+          "volume": 20.26
         },
-        "mashPh": 5.39,
+        "mashPh": 5.38,
         "mashPhDistilled": 5.72,
         "mashTargetDiff": null,
-        "mashWaterAmount": 20,
+        "mashWaterAmount": null,
         "meta": {
           "equalSourceTotal": false
         },
@@ -1465,42 +1460,42 @@
           "_timestamp_ms": 1750062124062,
           "_version": "2.11.6",
           "alkalinity": 0,
-          "anions": 3.597,
+          "anions": 3.554,
           "bicarbonate": 0,
           "bicarbonateMeqL": 0,
-          "calcium": 68.4,
-          "cations": 3.443,
-          "chloride": 54.53,
-          "hardness": 171,
+          "calcium": 67.527,
+          "cations": 3.399,
+          "chloride": 53.911,
+          "hardness": 169,
           "hidden": false,
           "ionBalance": -1,
           "ionBalanceOff": true,
           "magnesium": 0.2,
           "name": "Cape Aqua",
           "ph": 5.25,
-          "residualAlkalinity": -48.9757,
-          "residualAlkalinityMeqLCalc": -1.22199,
+          "residualAlkalinity": -48.35212,
+          "residualAlkalinityMeqLCalc": -1.20643,
           "soClRatio": 1.81,
           "sodium": 0.3,
-          "sulfate": 98.898,
+          "sulfate": 97.645,
           "type": "source"
         },
         "totalAdjustments": {
           "acids": [
             {
-              "alkalinityMeqL": -1.3732756132756134,
+              "alkalinityMeqL": -1.3556521355139322,
               "amount": 2,
               "concentration": 80,
               "type": "lactic"
             }
           ],
           "bicarbonate": 0,
-          "calcium": 68,
+          "calcium": 67.127,
           "calciumCarbonate": 0,
           "calciumChloride": 2,
           "calciumHydroxide": 0,
           "calciumSulfate": 3.5,
-          "chloride": 48.23,
+          "chloride": 47.611,
           "ltAMS": 0,
           "ltDWB": 0,
           "magnesium": 0,
@@ -1511,8 +1506,8 @@
           "sodiumChloride": null,
           "sodiumMetabisulfite": 0,
           "sodiumMetabisulfitePPM": 0,
-          "sulfate": 97.598,
-          "volume": 20
+          "sulfate": 96.345,
+          "volume": 20.26
         },
         "totalTargetDiff": null
       },
