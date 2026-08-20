@@ -1,4 +1,4 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-08-19 04:54
+# Brewfather Batches - Clean Readable Master - updated 2026-08-20 04:54
 
 Total batches: 42
 
@@ -17,8 +17,8 @@ Total batches: 42
 | Item | Target | Actual |
 |---|---:|---:|
 | OG | 1.046 | 1.049 |
-| FG | 1.009 |  |
-| ABV % | 4.86 | 5.3 |
+| FG | 1.009 | 1.007 |
+| ABV % | 4.86 | 5.5 |
 | IBU | 39.7 | 40 |
 | Colour EBC | 3.4 | 3.4 |
 | Pre-boil gravity | 1.037 | 1.038 |
@@ -29,7 +29,7 @@ Total batches: 42
 | Kegged / bottling volume L | 10 |  |
 | Brewhouse efficiency % | 57.9 | 61.53 |
 | Mash efficiency % | 70 | 71.89 |
-| Measured attenuation % |  | 81 |
+| Measured attenuation % |  | 85.2 |
 
 ### Equipment / volumes
 - Equipment profile: 12 liter setup (clear transfer)
@@ -86,6 +86,7 @@ Not sure of the app's fg of 1.006 is realistic
   - 2026-08-15 19:47 Fermenting (statusChanged)
   - 2026-08-15 19:47 Fermenting: Pitched 250ml slurry at 19.5. Ferment at 20. Spunding valve open with blow off tube.
   - 2026-08-16 19:39 Fermenting: 24 h sample: very prominent Mosaic aroma and flavour; base beer tasted very green/raw as expected during active fermentation.
+  - 2026-08-19 06:53 Fermenting: After 84 hours i guess fermentation is done. Will give it 2 more days and crash.
 
 
 ## Batch #46 - APA
