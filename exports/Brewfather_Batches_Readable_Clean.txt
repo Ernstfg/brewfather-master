@@ -1,4 +1,4 @@
-Brewfather Batches - Clean Readable Master - updated 2026-08-20 04:54
+Brewfather Batches - Clean Readable Master - updated 2026-08-21 04:59
 ======================================================================
 
 Total batches: 42
@@ -103,6 +103,7 @@ Batch log / status notes
   - 2026-08-15 19:47 Fermenting: Pitched 250ml slurry at 19.5. Ferment at 20. Spunding valve open with blow off tube.
   - 2026-08-16 19:39 Fermenting: 24 h sample: very prominent Mosaic aroma and flavour; base beer tasted very green/raw as expected during active fermentation.
   - 2026-08-19 06:53 Fermenting: After 84 hours i guess fermentation is done. Will give it 2 more days and crash.
+  - 2026-08-20 16:01 Fermenting: Started cold crash
 
 
 ==========================================================================================

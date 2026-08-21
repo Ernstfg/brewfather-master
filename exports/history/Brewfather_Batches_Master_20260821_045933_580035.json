@@ -7,12 +7,12 @@
     },
     "_id": "xXoRA9ifPgP4eMiy15V24tu97vburE",
     "_init": true,
-    "_rev": "7LGgSlJqNnzcLvBodHSP4HXDSUtuSY",
+    "_rev": "L8wGMJN75pevjd6Ikd41NXbAJjIgMT",
     "_timestamp": {
-      "_nanoseconds": 416000000,
-      "_seconds": 1787234511
+      "_nanoseconds": 309000000,
+      "_seconds": 1787115235
     },
-    "_timestamp_ms": 1787234511416,
+    "_timestamp_ms": 1787115235309,
     "_type": "batch",
     "_version": "3.0.1",
     "batchFermentables": [
@@ -531,11 +531,6 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
-      {
-        "note": "Started cold crash",
-        "status": "Fermenting",
-        "timestamp": 1787234501779
-      },
       {
         "note": "After 84 hours i guess fermentation is done. Will give it 2 more days and crash.",
         "status": "Fermenting",
