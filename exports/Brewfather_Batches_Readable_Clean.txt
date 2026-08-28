@@ -1,4 +1,4 @@
-Brewfather Batches - Clean Readable Master - updated 2026-08-27 14:19
+Brewfather Batches - Clean Readable Master - updated 2026-08-28 15:45
 ======================================================================
 
 Total batches: 42
@@ -9,13 +9,13 @@ Batch #47 - Smash Mosaic
 
 Overview
 --------------------
-Status: Fermenting
+Status: Conditioning
 Style: American Pale Ale
 Type: All Grain
 Brewer: Ernst Gouws
 Brew date: 2026-08-15
 Fermentation start: 2026-08-15
-Kegging / bottling date: 2026-08-25
+Kegging / bottling date: 2026-08-27
 
 Targets vs actuals
 --------------------
@@ -104,6 +104,7 @@ Batch log / status notes
   - 2026-08-16 19:39 Fermenting: 24 h sample: very prominent Mosaic aroma and flavour; base beer tasted very green/raw as expected during active fermentation.
   - 2026-08-19 06:53 Fermenting: After 84 hours i guess fermentation is done. Will give it 2 more days and crash.
   - 2026-08-20 16:01 Fermenting: Started cold crash
+  - 2026-08-27 17:23 Conditioning (statusChanged)
 
 
 ==========================================================================================

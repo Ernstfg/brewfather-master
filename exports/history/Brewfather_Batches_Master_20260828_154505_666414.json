@@ -7,12 +7,12 @@
     },
     "_id": "xXoRA9ifPgP4eMiy15V24tu97vburE",
     "_init": true,
-    "_rev": "x2HG0ybYfJyl5JmJ67M6lDbg2NoLXi",
+    "_rev": "7LGgSlJqNnzcLvBodHSP4HXDSUtuSY",
     "_timestamp": {
-      "_nanoseconds": 137000000,
-      "_seconds": 1787844225
+      "_nanoseconds": 416000000,
+      "_seconds": 1787234511
     },
-    "_timestamp_ms": 1787844225137,
+    "_timestamp_ms": 1787234511416,
     "_type": "batch",
     "_version": "3.0.1",
     "batchFermentables": [
@@ -387,8 +387,7 @@
       }
     ],
     "boilStepsCount": 4,
-    "bottlingDate": 1787844222884,
-    "bottlingDateSet": true,
+    "bottlingDate": 1787608800000,
     "brewControllerEnabled": false,
     "brewDate": 1786744800000,
     "brewer": "Ernst Gouws",
@@ -493,6 +492,16 @@
       },
       {
         "active": true,
+        "dayEvent": true,
+        "description": "Bottling Day (Smash Mosaic)",
+        "descriptionHTML": "Bottling Day (Smash Mosaic)",
+        "eventText": "Bottling Day",
+        "eventType": "event-batch-bottling-day",
+        "time": 1787644800000,
+        "title": "Bottling Day - Batch #47 (Smash Mosaic)"
+      },
+      {
+        "active": true,
         "dayEvent": false,
         "description": "Fermentation Profile Step: Primary (Fermentation) @ 2 °C",
         "descriptionHTML": "Fermentation Profile Step:<br>Primary (Fermentation) @ 2 °C",
@@ -500,26 +509,6 @@
         "eventType": "event-batch-ferm-step",
         "time": 1787299200000,
         "title": "Fermentation Step - Batch #47 (Smash Mosaic)"
-      },
-      {
-        "active": true,
-        "dayEvent": true,
-        "description": "Bottling Day (Smash Mosaic)",
-        "descriptionHTML": "Bottling Day (Smash Mosaic)",
-        "eventText": "Bottling Day",
-        "eventType": "event-batch-bottling-day",
-        "time": 1787817600000,
-        "title": "Bottling Day - Batch #47 (Smash Mosaic)"
-      },
-      {
-        "active": true,
-        "dayEvent": false,
-        "description": "Fermentation Profile Step: Completed - Primary (Fermentation) @ 2 °C",
-        "descriptionHTML": "Fermentation Profile Step:<br>Completed - Primary (Fermentation) @ 2 °C",
-        "eventText": "Completed - Primary (Fermentation) @ 2 °C",
-        "eventType": "event-batch-ferm-completed",
-        "time": 1787644800000,
-        "title": "Completed - Batch #47 (Smash Mosaic)"
       }
     ],
     "fermentationControllerEnabled": false,
@@ -542,12 +531,6 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
-      {
-        "note": "",
-        "status": "Conditioning",
-        "timestamp": 1787844222517,
-        "type": "statusChanged"
-      },
       {
         "note": "Started cold crash",
         "status": "Fermenting",
@@ -1583,7 +1566,7 @@
         }
       ]
     },
-    "status": "Conditioning",
+    "status": "Fermenting",
     "tasteRating": 0,
     "updatedBy": "user"
   },
