@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-08-29 10:36
+# Brewfather Recipes - Clean Readable Master - updated 2026-08-30 09:50
 
 Total recipes: 24
 
@@ -193,28 +193,29 @@ Pressure ferment from day 2.
 - OG: 1.046
 - FG: 1.007
 - ABV: 5.12%
-- IBU: 25.6
-- Color EBC: 4
+- IBU: 22
+- Color EBC: 3.7
 - Batch size L: 12
 - Boil size L: 18.6
 
 ### Fermentables
-  - 2.7 kg Swaen Pilsner (87.1%, The Swaen, 1.9 EBC)
+  - 2 kg Swaen Lager (64.52%, The Swaen, 1.5 EBC)
+  - 0.7 kg Swaen Pilsner (22.58%, The Swaen, 1.9 EBC)
   - 0.25 kg Swaen Vienna (8.06%, The Swaen, 5.1 EBC)
   - 0.15 kg Swaen Munich Light (4.84%, The Swaen, 6.6 EBC)
 
 ### Hops
-  - 20 g Southern Aroma - Boil, 60 min, 5.6% AA, 20 IBU
-  - 15 g Southern Aroma - Boil, 5 min, 5.6% AA, 4 IBU
+  - 15 g Southern Aroma - Boil, 60 min, 5.6% AA, 15 IBU
+  - 20 g Southern Aroma - Boil, 5 min, 5.6% AA, 5.4 IBU
   - 15 g Southern Aroma - Aroma, 15 min, 80 °C, 5.6% AA, 1.6 IBU
 
 ### Yeast
   - 2 pkg WHC Lab Crispy lager (Apres Ski) - 8–16 °C; 80% attenuation
 
 ### Miscellaneous
-  - 3.5 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
   - 1.7 g Gypsum (CaSO4) - Mash, Water Agent
-  - 2 ml Lactic Acid - Mash, Water Agent
+  - 2.5 ml Lactic Acid - Mash, Water Agent
   - 1 g Irish Moss - Boil, Fining, 15 min
   - 1 g Yeast Nutrients - Boil, Other, 15 min
 
@@ -226,15 +227,15 @@ Pressure ferment from day 2.
 
 ### Fermentation profile
 - Profile: Lager (Standard)
-  - Primary: 14 °C for 6 days at 0 PSI
+  - Primary: 14.5 °C for 6 days at 0 PSI
   - Primary: 17 °C for 2 days at 12 PSI; ramp 0
   - crash: 2 °C for 4 days at 12 PSI
 
 ### Water profile
 - Profile: Cape Aqua
-- Ca 77.53, Mg 0.2, Na 0.3, Cl 102.76, SO4 55.48, HCO3 0
-- SO4/Cl ratio: 0.54
-- Target mash pH: 5.36
+- Ca 69.75, Mg 0.2, Na 0.3, Cl 88.98, SO4 55.48, HCO3 0
+- SO4/Cl ratio: 0.62
+- Target mash pH: 5.34
 
 ### Notes
 First time using Apres Ski yeast. 
@@ -242,6 +243,7 @@ First time using Apres Ski yeast.
 Spund later in fermentation up to 12 psi
 Pitch 22 grams yeast
 No gelatine
+First time using ISY Enhance.
 
 
 ## London Pub Gen 2 Amber Ale

@@ -7,12 +7,12 @@
     },
     "_id": "xXoRA9ifPgP4eMiy15V24tu97vburE",
     "_init": true,
-    "_rev": "D0HbcXfkZ8OLzp3IN1KunUfOeNhAPR",
+    "_rev": "x2HG0ybYfJyl5JmJ67M6lDbg2NoLXi",
     "_timestamp": {
-      "_nanoseconds": 640000000,
-      "_seconds": 1788018652
+      "_nanoseconds": 137000000,
+      "_seconds": 1787844225
     },
-    "_timestamp_ms": 1788018652640,
+    "_timestamp_ms": 1787844225137,
     "_type": "batch",
     "_version": "3.0.1",
     "batchFermentables": [
@@ -263,7 +263,7 @@
         "costPerAmount": 0,
         "displayAmount": 0,
         "hidden": false,
-        "inventory": 10,
+        "inventory": -6,
         "inventoryUnit": "g",
         "manufacturingDate": null,
         "name": "Irish Moss",
@@ -302,7 +302,7 @@
         "costPerAmount": 0,
         "displayAmount": 0,
         "hidden": false,
-        "inventory": 0,
+        "inventory": 32,
         "inventoryUnit": "g",
         "manufacturingDate": null,
         "name": "Yeast Nutrients",
