@@ -1,6 +1,99 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-08-30 09:50
+# Brewfather Batches - Clean Readable Master - updated 2026-08-31 10:04
 
-Total batches: 42
+Total batches: 43
+
+## Batch #48 - Kalahari lager
+
+### Overview
+- Status: Fermenting
+- Style: International Pale Lager
+- Type: All Grain
+- Brewer: Ernst Gouws
+- Brew date: 2026-08-30
+- Fermentation start: 2026-08-30
+- Kegging / bottling date: 2026-09-11
+
+### Targets vs actuals
+| Item | Target | Actual |
+|---|---:|---:|
+| OG | 1.046 | 1.048 |
+| FG | 1.007 |  |
+| ABV % | 5.12 | 5.5 |
+| IBU | 22 | 22 |
+| Colour EBC | 3.7 | 3.7 |
+| Pre-boil gravity | 1.037 | 1.038 |
+| Post-boil gravity | 1.046 | 1.048 |
+| Mash pH | 5.34 | 5.34 |
+| Batch size L | 12 | 13 |
+| Boil size L | 18.6 | 18.6 |
+| Kegged / bottling volume L | 10 |  |
+| Brewhouse efficiency % | 57.9 | 65.62 |
+| Mash efficiency % | 70 | 71.89 |
+| Measured attenuation % |  | 87 |
+
+### Equipment / volumes
+- Equipment profile: 12 liter setup (clear transfer)
+- Sparge formula: 0
+- Boil-off per hour L: 3.5
+- Fermenter loss L: 2
+- Trub/chiller loss L: 2.5
+
+### Fermentables
+  - 2 kg Swaen Lager (64.52%, The Swaen, 1.5 EBC)
+  - 0.7 kg Swaen Pilsner (22.58%, The Swaen, 1.9 EBC)
+  - 0.25 kg Swaen Vienna (8.06%, The Swaen, 5.1 EBC)
+  - 0.15 kg Swaen Munich Light (4.84%, The Swaen, 6.6 EBC)
+
+### Hops
+  - 15 g Southern Aroma - Boil, 60 min, 5.6% AA, 15 IBU
+  - 20 g Southern Aroma - Boil, 5 min, 5.6% AA, 5.4 IBU
+  - 15 g Southern Aroma - Aroma, 15 min, 80 °C, 5.6% AA, 1.6 IBU
+
+### Yeast
+  - 2 pkg WHC Lab Crispy lager (Apres Ski) - 8–16 °C; 80% attenuation
+
+### Miscellaneous / water agents / finings
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 1.7 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2.5 ml Lactic Acid - Mash, Water Agent
+  - 1 g Irish Moss - Boil, Fining, 5 min
+  - 1 g Yeast Nutrients - Boil, Other, 5 min
+  - 2.6 g ISY Enhabce - Boil, Other, 0 min
+
+### Mash profile
+- Profile: High fermentability plus mash out
+  - Temperature: 64 °C for 40 min
+  - Temperature: 72 °C for 20 min
+  - mash out: 78 °C for 10 min
+
+### Fermentation profile
+- Profile: Lager (Standard)
+  - Primary: 14.5 °C for 6 days at 0 PSI
+  - Primary: 17 °C for 2 days at 12 PSI; ramp 0
+  - crash: 2 °C for 4 days at 12 PSI
+
+### Water profile
+- Profile: Cape Aqua
+- Ca 69.75, Mg 0.2, Na 0.3, Cl 88.98, SO4 55.48, HCO3 0
+- SO4/Cl ratio: 0.62
+- Target mash pH: 5.34
+
+### Recipe notes
+First time using Apres Ski yeast. 
+
+Spund later in fermentation up to 12 psi
+Pitch 22 grams yeast
+No gelatine
+First time using ISY Enhance.
+
+### Taste
+- Rating: 0
+
+### Batch log / status notes
+  - 2026-08-30 13:20 Brewing (statusChanged)
+  - 2026-08-30 22:19 Fermenting (statusChanged)
+  - 2026-08-30 22:20 Fermenting: Pitched yeast at 15. Will take to 14.5 in the morning
+
 
 ## Batch #47 - Smash Mosaic
 

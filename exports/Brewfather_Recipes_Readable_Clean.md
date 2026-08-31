@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-08-30 09:50
+# Brewfather Recipes - Clean Readable Master - updated 2026-08-31 10:04
 
 Total recipes: 24
 
@@ -216,8 +216,9 @@ Pressure ferment from day 2.
   - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
   - 1.7 g Gypsum (CaSO4) - Mash, Water Agent
   - 2.5 ml Lactic Acid - Mash, Water Agent
-  - 1 g Irish Moss - Boil, Fining, 15 min
-  - 1 g Yeast Nutrients - Boil, Other, 15 min
+  - 1 g Irish Moss - Boil, Fining, 5 min
+  - 1 g Yeast Nutrients - Boil, Other, 5 min
+  - 2.6 g ISY Enhabce - Boil, Other, 0 min
 
 ### Mash profile
 - Profile: High fermentability plus mash out
