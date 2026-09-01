@@ -1,4 +1,4 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-08-31 10:04
+# Brewfather Batches - Clean Readable Master - updated 2026-09-01 09:13
 
 Total batches: 43
 
