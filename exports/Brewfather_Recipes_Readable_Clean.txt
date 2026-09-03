@@ -1,4 +1,4 @@
-Brewfather Recipes - Clean Readable Master - updated 2026-09-02 08:47
+Brewfather Recipes - Clean Readable Master - updated 2026-09-03 08:49
 ======================================================================
 
 Total recipes: 24
@@ -1726,14 +1726,13 @@ OG: 1.047
 FG: 1.008
 ABV: 5.12%
 IBU: 22.7
-Color EBC: 3.9
+Color EBC: 4.2
 Batch size L: 12
 Boil size L: 18.6
 
 Fermentables
 --------------------
-  - 2 kg Swaen Lager (62.5%, The Swaen, 1.5 EBC)
-  - 0.5 kg Swaen Pilsner (15.63%, The Swaen, 1.9 EBC)
+  - 2.5 kg Swaen Pilsner (78.13%, The Swaen, 1.9 EBC)
   - 0.5 kg Swaen Vienna (15.63%, The Swaen, 5.1 EBC)
   - 0.2 kg Torrefied Wheat (6.25%, Crisp, 2.538 EBC)
 
@@ -1772,5 +1771,5 @@ Water profile
   Profile: Cape Aqua
   Ca 63.25, Mg 0.2, Na 0.3, Cl 77.16, SO4 55.92, HCO3 0
   SO4/Cl ratio: 0.72
-  Target mash pH: 5.42
+  Target mash pH: 5.41
 

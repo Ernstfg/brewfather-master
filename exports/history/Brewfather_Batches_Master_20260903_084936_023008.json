@@ -26648,12 +26648,12 @@
     "_ev": 2,
     "_id": "TtkyFZuS1krih6K7d2BW7nY3qFmYPZ",
     "_init": true,
-    "_rev": "4vaE2k2LzjJTF1i4pesr5dPN9mWxMm",
+    "_rev": "ZhfnZySi58AQsIG6QGpzSH6TqsjHOb",
     "_timestamp": {
-      "_nanoseconds": 932000000,
-      "_seconds": 1788363731
+      "_nanoseconds": 822000000,
+      "_seconds": 1787625102
     },
-    "_timestamp_ms": 1788363731932,
+    "_timestamp_ms": 1787625102822,
     "_type": "recipe",
     "_uid": "iPD6GM7QMGbK1uTM33gRwN6czDG3",
     "_version": "3.0.1",
@@ -26673,7 +26673,7 @@
       "carbMin": 2.4,
       "name": "Blonde Ale"
     },
-    "color": 4.2,
+    "color": 3.9,
     "data": {
       "allDiastaticPower": false,
       "batchSpargeWaterAmount1": null,
@@ -26683,6 +26683,52 @@
       "hltWaterAmount": 0,
       "hopsAmount": 55,
       "mashFermentables": [
+        {
+          "_created": {
+            "_nanoseconds": 218000000,
+            "_seconds": 1784057842
+          },
+          "_id": "default-c4dd41c950d",
+          "_rev": "AXp7oOluCAHfEYcypMwZBoIFWG2sY2",
+          "_timestamp": {
+            "_nanoseconds": 217000000,
+            "_seconds": 1784057842
+          },
+          "_timestamp_ms": 1784057842217,
+          "_version": "3.0.1",
+          "acid": null,
+          "amount": 2,
+          "attenuation": null,
+          "bestBeforeDate": null,
+          "cgdb": null,
+          "coarseFineDiff": null,
+          "color": 1.5,
+          "costPerAmount": null,
+          "diastaticPower": null,
+          "fan": null,
+          "fgdb": null,
+          "friability": null,
+          "grainCategory": "Base (Pilsner)",
+          "hidden": false,
+          "ibuPerAmount": null,
+          "inventory": 2,
+          "manufacturingDate": null,
+          "maxInBatch": null,
+          "moisture": null,
+          "name": "Swaen Lager",
+          "notFermentable": false,
+          "notes": "",
+          "origin": "Netherlands",
+          "percentage": 62.5,
+          "potential": 1.0368,
+          "potentialPercentage": 80,
+          "protein": null,
+          "substitutes": "",
+          "supplier": "The Swaen",
+          "type": "Grain",
+          "usedIn": "",
+          "userNotes": ""
+        },
         {
           "_created": {
             "_nanoseconds": 563000000,
@@ -26697,7 +26743,7 @@
           "_timestamp_ms": 1786789728007,
           "_version": "3.0.1",
           "acid": null,
-          "amount": 2.5,
+          "amount": 0.5,
           "attenuation": null,
           "bestBeforeDate": null,
           "cgdb": null,
@@ -26719,7 +26765,7 @@
           "notFermentable": false,
           "notes": "",
           "origin": "Netherlands",
-          "percentage": 78.13,
+          "percentage": 15.63,
           "potential": 1.0368,
           "potentialPercentage": 80,
           "protein": null,
@@ -26899,6 +26945,52 @@
     "fermentables": [
       {
         "_created": {
+          "_nanoseconds": 218000000,
+          "_seconds": 1784057842
+        },
+        "_id": "default-c4dd41c950d",
+        "_rev": "AXp7oOluCAHfEYcypMwZBoIFWG2sY2",
+        "_timestamp": {
+          "_nanoseconds": 217000000,
+          "_seconds": 1784057842
+        },
+        "_timestamp_ms": 1784057842217,
+        "_version": "3.0.1",
+        "acid": null,
+        "amount": 2,
+        "attenuation": null,
+        "bestBeforeDate": null,
+        "cgdb": null,
+        "coarseFineDiff": null,
+        "color": 1.5,
+        "costPerAmount": null,
+        "diastaticPower": null,
+        "fan": null,
+        "fgdb": null,
+        "friability": null,
+        "grainCategory": "Base (Pilsner)",
+        "hidden": false,
+        "ibuPerAmount": null,
+        "inventory": 2,
+        "manufacturingDate": null,
+        "maxInBatch": null,
+        "moisture": null,
+        "name": "Swaen Lager",
+        "notFermentable": false,
+        "notes": "",
+        "origin": "Netherlands",
+        "percentage": 62.5,
+        "potential": 1.0368,
+        "potentialPercentage": 80,
+        "protein": null,
+        "substitutes": "",
+        "supplier": "The Swaen",
+        "type": "Grain",
+        "usedIn": "",
+        "userNotes": ""
+      },
+      {
+        "_created": {
           "_nanoseconds": 563000000,
           "_seconds": 1775498626
         },
@@ -26911,7 +27003,7 @@
         "_timestamp_ms": 1786789728007,
         "_version": "3.0.1",
         "acid": null,
-        "amount": 2.5,
+        "amount": 0.5,
         "attenuation": null,
         "bestBeforeDate": null,
         "cgdb": null,
@@ -26933,7 +27025,7 @@
         "notFermentable": false,
         "notes": "",
         "origin": "Netherlands",
-        "percentage": 78.13,
+        "percentage": 15.63,
         "potential": 1.0368,
         "potentialPercentage": 80,
         "protein": null,
@@ -27518,8 +27610,8 @@
         "sulfate": 54.623,
         "volume": 20.42
       },
-      "mashPh": 5.41,
-      "mashPhDistilled": 5.72,
+      "mashPh": 5.42,
+      "mashPhDistilled": 5.73,
       "mashTargetDiff": null,
       "mashWaterAmount": null,
       "meta": {
@@ -27686,7 +27778,7 @@
       "totalAdjustments": {
         "acids": [
           {
-            "alkalinityMeqL": -1.4593789726627133,
+            "alkalinityMeqL": -1.3450299836196016,
             "amount": 2,
             "concentration": 80,
             "type": "lactic"
