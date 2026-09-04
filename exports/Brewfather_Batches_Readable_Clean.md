@@ -1,4 +1,4 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-09-03 08:49
+# Brewfather Batches - Clean Readable Master - updated 2026-09-04 08:55
 
 Total batches: 43
 
@@ -93,6 +93,8 @@ First time using ISY Enhance.
   - 2026-08-30 13:20 Brewing (statusChanged)
   - 2026-08-30 22:19 Fermenting (statusChanged)
   - 2026-08-30 22:20 Fermenting: Pitched yeast at 15. Will take to 14.5 in the morning
+  - 2026-09-03 19:00 Fermenting: Started d rest at 16 then 17 tomorrow. 
+Started to sound to 12 psi.
 
 
 ## Batch #47 - Smash Mosaic

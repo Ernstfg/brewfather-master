@@ -7,12 +7,12 @@
     },
     "_id": "ObBbFbR3SLHV2wXMLooOGtSBjdQPui",
     "_init": true,
-    "_rev": "bqG3vCnz9NUh8idsWIhhAQYqOeom2x",
+    "_rev": "9xS99ZPJrrKfi3OOiUZ4Op2jtUJRpy",
     "_timestamp": {
-      "_nanoseconds": 429000000,
-      "_seconds": 1788454865
+      "_nanoseconds": 19000000,
+      "_seconds": 1788121771
     },
-    "_timestamp_ms": 1788454865429,
+    "_timestamp_ms": 1788121771019,
     "_type": "batch",
     "_version": "3.0.1",
     "batchFermentables": [
@@ -729,11 +729,6 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
-      {
-        "note": "Started d rest at 16 then 17 tomorrow. \nStarted to sound to 12 psi.",
-        "status": "Fermenting",
-        "timestamp": 1788454839148
-      },
       {
         "note": "Pitched yeast at 15. Will take to 14.5 in the morning",
         "status": "Fermenting",
