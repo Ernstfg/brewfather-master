@@ -7,12 +7,12 @@
     },
     "_id": "ObBbFbR3SLHV2wXMLooOGtSBjdQPui",
     "_init": true,
-    "_rev": "AC8RbVxlobdyyFZvjJbMUjcXWh8oMM",
+    "_rev": "bqG3vCnz9NUh8idsWIhhAQYqOeom2x",
     "_timestamp": {
-      "_nanoseconds": 716000000,
-      "_seconds": 1788795767
+      "_nanoseconds": 429000000,
+      "_seconds": 1788454865
     },
-    "_timestamp_ms": 1788795767716,
+    "_timestamp_ms": 1788454865429,
     "_type": "batch",
     "_version": "3.0.1",
     "batchFermentables": [
@@ -729,11 +729,6 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
-      {
-        "note": "Might have reached fg but will let it go for 48 hours. Then crash.",
-        "status": "Fermenting",
-        "timestamp": 1788795744289
-      },
       {
         "note": "Started d rest at 16 then 17 tomorrow. \nStarted to sound to 12 psi.",
         "status": "Fermenting",
@@ -1995,19 +1990,19 @@
     "updatedBy": "user"
   },
   {
-    "_archived": true,
+    "_archived": false,
     "_created": {
       "_nanoseconds": 501000000,
       "_seconds": 1786854432
     },
     "_id": "xXoRA9ifPgP4eMiy15V24tu97vburE",
     "_init": true,
-    "_rev": "aZVSAPluPZJtOVEwS4wGbgL91JvTuB",
+    "_rev": "D0HbcXfkZ8OLzp3IN1KunUfOeNhAPR",
     "_timestamp": {
-      "_nanoseconds": 18000000,
-      "_seconds": 1788845227
+      "_nanoseconds": 640000000,
+      "_seconds": 1788018652
     },
-    "_timestamp_ms": 1788845227018,
+    "_timestamp_ms": 1788018652640,
     "_type": "batch",
     "_version": "3.0.1",
     "batchFermentables": [
@@ -2487,7 +2482,7 @@
         "title": "Brew Day - Reminder - Batch #47 (Smash Mosaic)"
       },
       {
-        "active": false,
+        "active": true,
         "dayEvent": false,
         "description": "Fermentation Profile Step: Primary (Fermentation) @ 2 °C",
         "descriptionHTML": "Fermentation Profile Step:<br>Primary (Fermentation) @ 2 °C",
@@ -2497,7 +2492,7 @@
         "title": "Fermentation Step - Batch #47 (Smash Mosaic)"
       },
       {
-        "active": false,
+        "active": true,
         "dayEvent": true,
         "description": "Bottling Day (Smash Mosaic)",
         "descriptionHTML": "Bottling Day (Smash Mosaic)",
@@ -2507,7 +2502,7 @@
         "title": "Bottling Day - Batch #47 (Smash Mosaic)"
       },
       {
-        "active": false,
+        "active": true,
         "dayEvent": false,
         "description": "Fermentation Profile Step: Completed - Primary (Fermentation) @ 2 °C",
         "descriptionHTML": "Fermentation Profile Step:<br>Completed - Primary (Fermentation) @ 2 °C",
@@ -2537,30 +2532,6 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
-      {
-        "note": "",
-        "status": "Archived",
-        "timestamp": 1788845226463,
-        "type": "statusChanged"
-      },
-      {
-        "note": "",
-        "status": "Completed",
-        "timestamp": 1788845224728,
-        "type": "statusChanged"
-      },
-      {
-        "note": "",
-        "status": "Archived",
-        "timestamp": 1788845221876,
-        "type": "statusChanged"
-      },
-      {
-        "note": "",
-        "status": "Completed",
-        "timestamp": 1788845220225,
-        "type": "statusChanged"
-      },
       {
         "note": "",
         "status": "Conditioning",
@@ -3602,25 +3573,24 @@
         }
       ]
     },
-    "status": "Archived",
-    "tasteNotes": "Came out good. Nice base for a future APA or another smash with maris otter. ",
+    "status": "Conditioning",
     "tasteRating": 0,
     "updatedBy": "user"
   },
   {
-    "_archived": true,
+    "_archived": false,
     "_created": {
       "_nanoseconds": 426000000,
       "_seconds": 1785610718
     },
     "_id": "SwGsB3tm6msnKvHKjzAUKNT17xz3QQ",
     "_init": true,
-    "_rev": "9KiBSaUS0539ivUf902qIko4HdApmb",
+    "_rev": "HXlzCfquQI5O6udQ4FWj9qN323h9LF",
     "_timestamp": {
-      "_nanoseconds": 12000000,
-      "_seconds": 1788845180
+      "_nanoseconds": 748000000,
+      "_seconds": 1787064107
     },
-    "_timestamp_ms": 1788845180012,
+    "_timestamp_ms": 1787064107748,
     "_type": "batch",
     "_version": "3.0.1",
     "batchFermentables": [
@@ -4398,12 +4368,6 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
-      {
-        "note": "",
-        "status": "Archived",
-        "timestamp": 1788845178753,
-        "type": "statusChanged"
-      },
       {
         "note": "",
         "status": "Completed",
@@ -5695,8 +5659,7 @@
         }
       ]
     },
-    "status": "Archived",
-    "tasteNotes": "Will brew again with malt toned down a bit and a touch more late hops. ",
+    "status": "Completed",
     "tasteRating": 0,
     "updatedBy": "user"
   },

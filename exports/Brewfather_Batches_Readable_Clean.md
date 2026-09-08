@@ -1,4 +1,4 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-09-07 08:58
+# Brewfather Batches - Clean Readable Master - updated 2026-09-08 08:53
 
 Total batches: 43
 
@@ -95,12 +95,13 @@ First time using ISY Enhance.
   - 2026-08-30 22:20 Fermenting: Pitched yeast at 15. Will take to 14.5 in the morning
   - 2026-09-03 19:00 Fermenting: Started d rest at 16 then 17 tomorrow. 
 Started to sound to 12 psi.
+  - 2026-09-07 17:42 Fermenting: Might have reached fg but will let it go for 48 hours. Then crash.
 
 
 ## Batch #47 - Smash Mosaic
 
 ### Overview
-- Status: Conditioning
+- Status: Archived
 - Style: American Pale Ale
 - Type: All Grain
 - Brewer: Ernst Gouws
@@ -175,6 +176,7 @@ Not sure of the app's fg of 1.006 is realistic
 
 ### Taste
 - Rating: 0
+Came out good. Nice base for a future APA or another smash with maris otter.
 
 ### Batch log / status notes
   - 2026-08-15 12:29 Brewing (statusChanged)
@@ -184,12 +186,16 @@ Not sure of the app's fg of 1.006 is realistic
   - 2026-08-19 06:53 Fermenting: After 84 hours i guess fermentation is done. Will give it 2 more days and crash.
   - 2026-08-20 16:01 Fermenting: Started cold crash
   - 2026-08-27 17:23 Conditioning (statusChanged)
+  - 2026-09-08 07:27 Completed (statusChanged)
+  - 2026-09-08 07:27 Archived (statusChanged)
+  - 2026-09-08 07:27 Completed (statusChanged)
+  - 2026-09-08 07:27 Archived (statusChanged)
 
 
 ## Batch #46 - APA
 
 ### Overview
-- Status: Completed
+- Status: Archived
 - Style: American Pale Ale
 - Type: All Grain
 - Brewer: Ernst Gouws
@@ -274,6 +280,7 @@ Added 150 grams dme for gravity correction.
 
 ### Taste
 - Rating: 0
+Will brew again with malt toned down a bit and a touch more late hops.
 
 ### Batch log / status notes
   - 2026-07-26 12:19 Brewing (statusChanged)
@@ -283,6 +290,7 @@ Added 150 grams dme for gravity correction.
   - 2026-08-04 10:07 Fermenting: Started cold crash at 4dC
   - 2026-08-09 21:30 Conditioning (statusChanged)
   - 2026-08-09 21:30 Completed (statusChanged)
+  - 2026-09-08 07:26 Archived (statusChanged)
 
 
 ## Batch #45 - Stout
