@@ -1,4 +1,4 @@
-Brewfather Recipes - Clean Readable Master - updated 2026-09-08 08:53
+Brewfather Recipes - Clean Readable Master - updated 2026-09-09 09:02
 ======================================================================
 
 Total recipes: 24
@@ -1709,7 +1709,7 @@ Not sure of the app's fg of 1.006 is realistic
 
 
 ==========================================================================================
-Kalahari blond
+Kalahari blond 16 liter
 ==========================================================================================
 
 Overview
@@ -1725,22 +1725,22 @@ Targets
 OG: 1.047
 FG: 1.008
 ABV: 5.12%
-IBU: 22.7
-Color EBC: 4.2
-Batch size L: 12
-Boil size L: 18.6
+IBU: 22.2
+Color EBC: 4.1
+Batch size L: 16
+Boil size L: 22.77
 
 Fermentables
 --------------------
-  - 2.5 kg Swaen Pilsner (78.13%, The Swaen, 1.9 EBC)
-  - 0.5 kg Swaen Vienna (15.63%, The Swaen, 5.1 EBC)
-  - 0.2 kg Torrefied Wheat (6.25%, Crisp, 2.538 EBC)
+  - 3.1 kg Swaen Pilsner (77.5%, The Swaen, 1.9 EBC)
+  - 0.64 kg Swaen Vienna (16%, The Swaen, 5.1 EBC)
+  - 0.26 kg Torrefied Wheat (6.5%, Crisp, 2.538 EBC)
 
 Hops
 --------------------
-  - 15 g Hallertau Perle - Boil, 60 min, 6.3% AA, 16.6 IBU
-  - 20 g Hallertauer Mittelfrueh - Boil, 10 min, 3.2% AA, 4.7 IBU
-  - 20 g Hallertauer Mittelfrueh - Aroma, 20 min, 80 °C, 3.2% AA, 1.4 IBU
+  - 18 g Hallertau Perle - Boil, 60 min, 6.3% AA, 15.6 IBU
+  - 27 g Hallertauer Mittelfrueh - Boil, 10 min, 3.2% AA, 5.1 IBU
+  - 27 g Hallertauer Mittelfrueh - Aroma, 20 min, 80 °C, 3.2% AA, 1.5 IBU
 
 Yeast
 --------------------
@@ -1748,11 +1748,11 @@ Yeast
 
 Miscellaneous
 --------------------
-  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
-  - 2 g Gypsum (CaSO4) - Mash, Water Agent
-  - 2 ml Lactic Acid - Mash, Water Agent
-  - 5 g Irish Moss - Boil, Fining, 10 min
-  - 0.76 g Yeast Nutrient (WLN1000) - Boil, Other, 10 min
+  - 4 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2.667 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2.667 ml Lactic Acid - Mash, Water Agent
+  - 6.667 g Irish Moss - Boil, Fining, 10 min
+  - 1.013 g Yeast Nutrient (WLN1000) - Boil, Other, 10 min
 
 Mash profile
 --------------------
@@ -1764,12 +1764,12 @@ Fermentation profile
 --------------------
   Profile: Ale
   - Primary: 29 °C for 3 days
-  - crasb: 2 °C for 3 days
+  - crash: 2 °C for 3 days
 
 Water profile
 --------------------
   Profile: Cape Aqua
-  Ca 63.25, Mg 0.2, Na 0.3, Cl 77.16, SO4 55.92, HCO3 0
+  Ca 51.61, Mg 0.2, Na 0.3, Cl 64.04, SO4 45.81, HCO3 0
   SO4/Cl ratio: 0.72
-  Target mash pH: 5.41
+  Target mash pH: 5.47
 
