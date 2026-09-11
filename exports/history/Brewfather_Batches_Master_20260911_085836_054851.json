@@ -7,12 +7,12 @@
     },
     "_id": "ObBbFbR3SLHV2wXMLooOGtSBjdQPui",
     "_init": true,
-    "_rev": "BbGHLIe4DdKCmQZ9o3XhX94aym6IfU",
+    "_rev": "AC8RbVxlobdyyFZvjJbMUjcXWh8oMM",
     "_timestamp": {
-      "_nanoseconds": 252000000,
-      "_seconds": 1789034612
+      "_nanoseconds": 716000000,
+      "_seconds": 1788795767
     },
-    "_timestamp_ms": 1789034612252,
+    "_timestamp_ms": 1788795767716,
     "_type": "batch",
     "_version": "3.0.1",
     "batchFermentables": [
@@ -650,10 +650,10 @@
     },
     "estimatedBuGuRatio": 0.46,
     "estimatedColor": 3.7,
-    "estimatedFg": 1.007,
+    "estimatedFg": 1.006,
     "estimatedIbu": 22,
     "estimatedOg": 1.048,
-    "estimatedRbRatio": 0.5,
+    "estimatedRbRatio": 0.51,
     "estimatedTotalGravity": 1.048,
     "events": [
       {
@@ -714,14 +714,12 @@
     "hidden": false,
     "hideBatchEvents": true,
     "mashStepsCount": 3,
-    "measuredAbv": 5.4,
-    "measuredAttenuation": 84.9,
+    "measuredAbv": 5.5,
+    "measuredAttenuation": 87,
     "measuredBatchSize": 13,
     "measuredBoilSize": 18.6,
-    "measuredBottlingSize": 10,
     "measuredConversionEfficiency": null,
     "measuredEfficiency": 65.62,
-    "measuredFg": 1.007,
     "measuredKettleEfficiency": 60.57,
     "measuredMashEfficiency": 71.89,
     "measuredMashPh": 5.34,
@@ -731,11 +729,6 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
-      {
-        "note": "Started cold crash. Fg stable and did extended d rest.",
-        "status": "Fermenting",
-        "timestamp": 1789034588583
-      },
       {
         "note": "Might have reached fg but will let it go for 48 hours. Then crash.",
         "status": "Fermenting",

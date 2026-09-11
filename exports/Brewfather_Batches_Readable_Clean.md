@@ -1,4 +1,4 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-09-10 08:58
+# Brewfather Batches - Clean Readable Master - updated 2026-09-11 08:58
 
 Total batches: 43
 
@@ -17,8 +17,8 @@ Total batches: 43
 | Item | Target | Actual |
 |---|---:|---:|
 | OG | 1.046 | 1.048 |
-| FG | 1.007 |  |
-| ABV % | 5.12 | 5.5 |
+| FG | 1.007 | 1.007 |
+| ABV % | 5.12 | 5.4 |
 | IBU | 22 | 22 |
 | Colour EBC | 3.7 | 3.7 |
 | Pre-boil gravity | 1.037 | 1.038 |
@@ -26,10 +26,10 @@ Total batches: 43
 | Mash pH | 5.34 | 5.34 |
 | Batch size L | 12 | 13 |
 | Boil size L | 18.6 | 18.6 |
-| Kegged / bottling volume L | 10 |  |
+| Kegged / bottling volume L | 10 | 10 |
 | Brewhouse efficiency % | 57.9 | 65.62 |
 | Mash efficiency % | 70 | 71.89 |
-| Measured attenuation % |  | 87 |
+| Measured attenuation % |  | 84.9 |
 
 ### Equipment / volumes
 - Equipment profile: 12 liter setup (clear transfer)
@@ -96,6 +96,7 @@ First time using ISY Enhance.
   - 2026-09-03 19:00 Fermenting: Started d rest at 16 then 17 tomorrow. 
 Started to sound to 12 psi.
   - 2026-09-07 17:42 Fermenting: Might have reached fg but will let it go for 48 hours. Then crash.
+  - 2026-09-10 12:03 Fermenting: Started cold crash. Fg stable and did extended d rest.
 
 
 ## Batch #47 - Smash Mosaic
