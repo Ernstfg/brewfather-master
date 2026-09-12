@@ -1,7 +1,7 @@
-Brewfather Recipes - Clean Readable Master - updated 2026-09-11 08:58
+Brewfather Recipes - Clean Readable Master - updated 2026-09-12 08:49
 ======================================================================
 
-Total recipes: 24
+Total recipes: 25
 
 ==========================================================================================
 Lager Idea 1 pseudo 
@@ -1278,27 +1278,28 @@ Created: 2026-04-23
 
 Targets
 --------------------
-OG: 1.049
-FG: 1.009
-ABV: 5.25%
-IBU: 33.1
-Color EBC: 5.4
+OG: 1.048
+FG: 1.010
+ABV: 4.99%
+IBU: 30.3
+Color EBC: 5.6
 Batch size L: 12
 Boil size L: 18
 
 Fermentables
 --------------------
-  - 2.8 kg Swaen Pilsner (87.23%, The Swaen, 1.9 EBC)
-  - 0.35 kg Swaen Munich Light (10.9%, The Swaen, 6.6 EBC)
-  - 0.06 kg GoldSwaen Classic (1.87%, The Swaen, 61 EBC)
+  - 2.3 kg Swaen Pilsner (73.02%, The Swaen, 1.9 EBC)
+  - 0.45 kg Swaen Vienna (14.29%, The Swaen, 5.1 EBC)
+  - 0.35 kg Swaen Munich Light (11.11%, The Swaen, 6.6 EBC)
+  - 0.05 kg GoldSwaen Classic (1.59%, The Swaen, 61 EBC)
 
 Hops
 --------------------
-  - 14 g Hallertau Perle - Boil, 60 min, 6.3% AA, 15.1 IBU
-  - 30 g Cascade - Boil, 0 min, 5.5% AA, 2.6 IBU
-  - 25 g Centennial - Boil, 0 min, 10% AA, 4 IBU
-  - 55 g Centennial - Aroma, 20 min, 76 °C, 10% AA, 8.8 IBU
-  - 30 g Cascade - Aroma, 20 min, 76 °C, 5.5% AA, 2.6 IBU
+  - 14 g Hallertau Perle - Boil, 60 min, 6.3% AA, 15.3 IBU
+  - 30 g Cascade - Boil, 0 min, 5.5% AA, 2.7 IBU
+  - 20 g Centennial - Boil, 0 min, 10% AA, 3.2 IBU
+  - 45 g Centennial - Aroma, 20 min, 76 °C, 10% AA, 7.3 IBU
+  - 20 g Cascade - Aroma, 20 min, 76 °C, 5.5% AA, 1.8 IBU
 
 Yeast
 --------------------
@@ -1327,9 +1328,9 @@ Fermentation profile
 Water profile
 --------------------
   Profile: pnp centre h20 bar
-  Ca 100.84, Mg 0, Na 0, Cl 85.04, SO4 126.43, HCO3 0
+  Ca 101.1, Mg 0, Na 0, Cl 85.25, SO4 126.75, HCO3 0
   SO4/Cl ratio: 1.49
-  Target mash pH: 5.29
+  Target mash pH: 5.27
 
 Notes
 --------------------
@@ -1342,8 +1343,7 @@ Used American Pale Ale water profile
 
 V2 with lax came out more like a blonde.
 
-For v3
-less malty (drop vienna) and even more whirlpool hops.
+Future: less malty (drop vienna) and even more whirlpool hops.
 
 
 ==========================================================================================
@@ -1722,29 +1722,29 @@ Created: 2026-08-25
 
 Targets
 --------------------
-OG: 1.047
-FG: 1.008
-ABV: 5.12%
-IBU: 22.2
-Color EBC: 4.1
+OG: 1.045
+FG: 1.007
+ABV: 4.99%
+IBU: 22.3
+Color EBC: 4
 Batch size L: 16
 Boil size L: 22.77
 
 Fermentables
 --------------------
-  - 3.1 kg Swaen Pilsner (77.5%, The Swaen, 1.9 EBC)
-  - 0.64 kg Swaen Vienna (16%, The Swaen, 5.1 EBC)
-  - 0.26 kg Torrefied Wheat (6.5%, Crisp, 2.538 EBC)
+  - 3.3 kg Swaen Pilsner (84.4%, The Swaen, 1.9 EBC)
+  - 0.35 kg Swaen Munich Light (8.95%, The Swaen, 6.6 EBC)
+  - 0.26 kg Torrefied Wheat (6.65%, Crisp, 2.538 EBC)
 
 Hops
 --------------------
-  - 18 g Hallertau Perle - Boil, 60 min, 6.3% AA, 15.6 IBU
+  - 18 g Hallertau Perle - Boil, 60 min, 6.3% AA, 15.7 IBU
   - 27 g Hallertauer Mittelfrueh - Boil, 10 min, 3.2% AA, 5.1 IBU
   - 27 g Hallertauer Mittelfrueh - Aroma, 20 min, 80 °C, 3.2% AA, 1.5 IBU
 
 Yeast
 --------------------
-  - 1 pkg WHC Lab Electrifyingly Clean Thermotolerant (High Voltage) - 31–35 °C; 80% attenuation
+  - 1 pkg WHC Lab Electrifyingly Clean Thermotolerant (High Voltage) - 31–35 °C; 80% attenuation; Notes: Use 7 or 8 grams.
 
 Miscellaneous
 --------------------
@@ -1769,7 +1769,81 @@ Fermentation profile
 Water profile
 --------------------
   Profile: Cape Aqua
-  Ca 51.61, Mg 0.2, Na 0.3, Cl 64.04, SO4 45.81, HCO3 0
+  Ca 51.76, Mg 0.2, Na 0.3, Cl 64.2, SO4 45.93, HCO3 0
   SO4/Cl ratio: 0.72
   Target mash pH: 5.47
+
+
+==========================================================================================
+Old English Summer Stout
+==========================================================================================
+
+Overview
+--------------------
+Recipe ID: 3IHDxeB1SX3QaLERATIxYhFsnmvLZZ
+Style: English Porter
+Type: All Grain
+Author: Ernst Gouws
+Created: 2026-09-12
+
+Targets
+--------------------
+OG: 1.048
+FG: 1.008
+ABV: 5.25%
+IBU: 22.9
+Color EBC: 21.2
+Batch size L: 12
+Boil size L: 18.6
+
+Fermentables
+--------------------
+  - 2.4 kg Finest Maris Otter® Ale Malt (75%, Crisp, 3.299 EBC)
+  - 0.4 kg Torrefied Wheat (12.5%, Crisp, 2.538 EBC)
+  - 0.12 kg GoldSwaen Classic (3.75%, The Swaen, 61 EBC)
+  - 0.1 kg BlackSwaen Coffee (3.13%, The Swaen, 329.949 EBC)
+  - 0.1 kg Swaen Pilsner (3.13%, The Swaen, 1.9 EBC)
+  - 0.08 kg Chocolate Malt (2.5%, Crisp, 529.442 EBC)
+
+Hops
+--------------------
+  - 30 g Southern Aroma - Boil, 60 min, 4% AA, 21.1 IBU
+  - 20 g Southern Aroma - Aroma, 20 min, 80 °C, 4% AA, 1.8 IBU
+
+Yeast
+--------------------
+  - 1 pkg WHC Lab WHC Old English (Old English) - 18–22 °C; 85% attenuation
+
+Miscellaneous
+--------------------
+  - 2 g Baking Soda (NaHCO3) - Mash, Water Agent
+  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 1.5 ml Lactic Acid - Mash, Water Agent
+  - 2 ml Biofine Clear - Boil, Fining, 15 days
+  - 2 g Yeast Nutrients - Boil, Other, 15 min
+  - 1 g ISY Enhabce - Boil, Other, 10 min
+
+Mash profile
+--------------------
+  Profile: Max fermentability with highest yield
+  - Temperature: 66 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+Fermentation profile
+--------------------
+  Profile: Ale
+  - Primary: 19 °C for 6 days
+  - crash : 2 °C for 4 days
+
+Water profile
+--------------------
+  Profile: sunday 2 novstout
+  Ca 73.78, Mg 8.8, Na 50.61, Cl 106.35, SO4 63.02, HCO3 120.59
+  SO4/Cl ratio: 0.59
+  Target mash pH: 5.43
+
+Notes
+--------------------
+Dryer summer stout with whc heritage yeast.
 
