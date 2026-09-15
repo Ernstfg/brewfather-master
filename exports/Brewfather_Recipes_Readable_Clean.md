@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-09-14 09:32
+# Brewfather Recipes - Clean Readable Master - updated 2026-09-15 09:09
 
 Total recipes: 25
 
@@ -946,34 +946,35 @@ No dry hops
 - Created: 2024-11-29
 
 ### Targets
-- OG: 1.047
-- FG: 1.010
+- OG: 1.048
+- FG: 1.011
 - ABV: 4.86%
-- IBU: 28.3
-- Color EBC: 22.6
+- IBU: 26.5
+- Color EBC: 23.7
 - Batch size L: 12
 - Boil size L: 18
 
 ### Fermentables
-  - 2 kg Swaen Pilsner (64.1%, The Swaen, 1.9 EBC)
-  - 0.62 kg Swaen Vienna (19.87%, The Swaen, 5.1 EBC)
-  - 0.3 kg Swaen Munich Light (9.62%, The Swaen, 6.6 EBC)
-  - 0.2 kg Carafa Special II (6.41%, Weyermann, 558.376 EBC)
+  - 2 kg Swaen Pilsner (62.5%, The Swaen, 1.9 EBC)
+  - 0.6 kg Swaen Munich Light (18.75%, The Swaen, 6.6 EBC)
+  - 0.3 kg Swaen Vienna (9.37%, The Swaen, 5.1 EBC)
+  - 0.2 kg Carafa Special II (6.25%, Weyermann, 558.376 EBC)
+  - 0.1 kg GoldSwaen Classic (3.13%, The Swaen, 61 EBC)
 
 ### Hops
-  - 26 g Perle - Boil, 60 min, 5% AA, 22.3 IBU
-  - 30 g Hallertauer Mittelfrueh - Boil, 10 min, 3.2% AA, 6 IBU
+  - 20 g Hallertau Perle - Boil, 60 min, 6.3% AA, 21.9 IBU
+  - 10 g Hallertauer Mittelfrueh - Boil, 10 min, 3.2% AA, 2.5 IBU
+  - 30 g Hallertauer Mittelfrueh - Aroma, 20 min, 80 °C, 3.2% AA, 2.1 IBU
 
 ### Yeast
-  - 1 pkg Lallemand (LalBrew) Diamond Lager - 10–15 °C; 80% attenuation; Notes: Yeast cake from prior batch. Not more than 300ml.
+  - 200 ml WHC Lab Crispy lager (Apres Ski) - 8–16 °C; 80% attenuation
 
 ### Miscellaneous
   - 2.5 g Calcium Chloride (CaCl2) - Mash, Water Agent
   - 2 g Gypsum (CaSO4) - Mash, Water Agent
   - 1.5 ml Lactic Acid - Mash, Water Agent
   - 1 g Yeast Nutrients - Boil, Other, 15 min
-  - 0.1 g Zync tablet  - Boil, Other, 15 min
-  - 3 ml Biofine Clear - Secondary, Fining
+  - 1 g ISY Enhabce - Boil, Other, 0 min
 
 ### Mash profile
 - Profile: High fermentability plus mash out
@@ -982,18 +983,15 @@ No dry hops
 
 ### Fermentation profile
 - Profile: Lager (Standard)
-  - Primary: 12 °C for 8 days
-  - Primary: 16 °C for 2 days
-  - Crash : 2 °C for 3 days
+  - Primary: 14 °C for 8 days
+  - Primary: 17 °C for 4 days
+  - Crash : 2 °C for 5 days
 
 ### Water profile
 - Profile: spar spring
 - Ca 60.77, Mg 0.2, Na 3.3, Cl 69.76, SO4 62.1, HCO3 3.4
 - SO4/Cl ratio: 0.89
-- Target mash pH: 5.33
-
-### Notes
-Don't use modern blitz yeasts on this.
+- Target mash pH: 5.3
 
 
 ## Karoo Ale
@@ -1266,21 +1264,21 @@ Easy drink beer with tropical notes
 - OG: 1.048
 - FG: 1.005
 - ABV: 5.64%
-- IBU: 24.5
-- Color EBC: 4
+- IBU: 25.6
+- Color EBC: 5.4
 - Batch size L: 12
 - Boil size L: 18.6
 
 ### Fermentables
-  - 2.4 kg Swaen Pilsner (78.43%, The Swaen, 1.9 EBC)
-  - 0.34 kg Swaen Vienna (11.11%, The Swaen, 5.1 EBC)
-  - 0.21 kg Sugar, Table (Sucrose) (6.86%, 1 EBC)
-  - 0.11 kg Swaen Munich Light (3.59%, The Swaen, 6.6 EBC)
+  - 2.4 kg Swaen Pilsner (78.18%, The Swaen, 1.9 EBC)
+  - 0.34 kg Swaen Vienna (11.07%, The Swaen, 5.1 EBC)
+  - 0.21 kg Sugar, Table (Sucrose) (6.84%, 1 EBC)
+  - 0.11 kg Swaen Munich Light (3.58%, The Swaen, 6.6 EBC)
+  - 0.01 kg Carafa Special II (0.33%, Weyermann, 558.376 EBC)
 
 ### Hops
-  - 25 g Hallertauer Mittelfrueh - Boil, 60 min, 3.2% AA, 14.5 IBU
-  - 5 g Hallertau Perle - Boil, 60 min, 6.3% AA, 5.7 IBU
-  - 10 g Kazbek - Boil, 15 min, 5% AA, 4.3 IBU
+  - 15 g Hallertau Perle - Boil, 60 min, 6.3% AA, 17.1 IBU
+  - 20 g Kazbek - Boil, 15 min, 5% AA, 8.5 IBU
   - 20 g Kazbek - Boil, 0 min, 5% AA, 0 IBU
 
 ### Yeast
@@ -1436,7 +1434,7 @@ Spund after 4 days
 Not sure of the app's fg of 1.006 is realistic
 
 
-## Kalahari blond 16 liter
+## Kalahari blond
 
 ### Overview
 - Recipe ID: TtkyFZuS1krih6K7d2BW7nY3qFmYPZ
@@ -1446,33 +1444,33 @@ Not sure of the app's fg of 1.006 is realistic
 - Created: 2026-08-25
 
 ### Targets
-- OG: 1.045
-- FG: 1.007
-- ABV: 4.99%
-- IBU: 22.3
-- Color EBC: 4
-- Batch size L: 16
-- Boil size L: 22.77
+- OG: 1.047
+- FG: 1.008
+- ABV: 5.12%
+- IBU: 22.9
+- Color EBC: 4.3
+- Batch size L: 12
+- Boil size L: 18.6
 
 ### Fermentables
-  - 3.3 kg Swaen Pilsner (84.4%, The Swaen, 1.9 EBC)
-  - 0.35 kg Swaen Munich Light (8.95%, The Swaen, 6.6 EBC)
-  - 0.26 kg Torrefied Wheat (6.65%, Crisp, 2.538 EBC)
+  - 2.5 kg Swaen Pilsner (79.37%, The Swaen, 1.9 EBC)
+  - 0.45 kg Swaen Munich Light (14.29%, The Swaen, 6.6 EBC)
+  - 0.2 kg Torrefied Wheat (6.35%, Crisp, 2.538 EBC)
 
 ### Hops
-  - 18 g Hallertau Perle - Boil, 60 min, 6.3% AA, 15.7 IBU
-  - 27 g Hallertauer Mittelfrueh - Boil, 10 min, 3.2% AA, 5.1 IBU
-  - 27 g Hallertauer Mittelfrueh - Aroma, 20 min, 80 °C, 3.2% AA, 1.5 IBU
+  - 15 g Hallertau Perle - Boil, 60 min, 6.3% AA, 16.7 IBU
+  - 20 g Hallertauer Mittelfrueh - Boil, 10 min, 3.2% AA, 4.8 IBU
+  - 20 g Hallertauer Mittelfrueh - Aroma, 20 min, 80 °C, 3.2% AA, 1.4 IBU
 
 ### Yeast
-  - 1 pkg WHC Lab Electrifyingly Clean Thermotolerant (High Voltage) - 31–35 °C; 80% attenuation; Notes: Use 7 or 8 grams.
+  - 1 pkg WHC Lab Electrifyingly Clean Thermotolerant (High Voltage) - 31–35 °C; 80% attenuation
 
 ### Miscellaneous
-  - 4 g Calcium Chloride (CaCl2) - Mash, Water Agent
-  - 2.667 g Gypsum (CaSO4) - Mash, Water Agent
-  - 2.667 ml Lactic Acid - Mash, Water Agent
-  - 6.667 g Irish Moss - Boil, Fining, 10 min
-  - 1.013 g Yeast Nutrient (WLN1000) - Boil, Other, 10 min
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2 ml Lactic Acid - Mash, Water Agent
+  - 5 g Irish Moss - Boil, Fining, 10 min
+  - 0.76 g Yeast Nutrient (WLN1000) - Boil, Other, 10 min
 
 ### Mash profile
 - Profile: High fermentability plus mash out
@@ -1482,13 +1480,16 @@ Not sure of the app's fg of 1.006 is realistic
 ### Fermentation profile
 - Profile: Ale
   - Primary: 29 °C for 3 days
-  - crash: 2 °C for 3 days
+  - crasb: 2 °C for 3 days
 
 ### Water profile
 - Profile: Cape Aqua
-- Ca 51.76, Mg 0.2, Na 0.3, Cl 64.2, SO4 45.93, HCO3 0
+- Ca 63.37, Mg 0.2, Na 0.3, Cl 77.3, SO4 56.03, HCO3 0
 - SO4/Cl ratio: 0.72
-- Target mash pH: 5.47
+- Target mash pH: 5.4
+
+### Notes
+7-8 grams of the yeast.
 
 
 ## Old English Summer Stout

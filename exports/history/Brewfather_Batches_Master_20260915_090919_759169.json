@@ -7,12 +7,12 @@
     },
     "_id": "ObBbFbR3SLHV2wXMLooOGtSBjdQPui",
     "_init": true,
-    "_rev": "jhFqsLQ1NZG7OHntLsE42ktvAQZ6mU",
+    "_rev": "BbGHLIe4DdKCmQZ9o3XhX94aym6IfU",
     "_timestamp": {
-      "_nanoseconds": 980000000,
-      "_seconds": 1789414732
+      "_nanoseconds": 252000000,
+      "_seconds": 1789034612
     },
-    "_timestamp_ms": 1789414732980,
+    "_timestamp_ms": 1789034612252,
     "_type": "batch",
     "_version": "3.0.1",
     "batchFermentables": [
@@ -575,8 +575,7 @@
       }
     ],
     "boilStepsCount": 3,
-    "bottlingDate": 1789399788477,
-    "bottlingDateSet": true,
+    "bottlingDate": 1789077600000,
     "brewControllerEnabled": false,
     "brewDate": 1788040800000,
     "brewer": "Ernst Gouws",
@@ -681,6 +680,16 @@
       },
       {
         "active": true,
+        "dayEvent": true,
+        "description": "Bottling Day (Kalahari lager)",
+        "descriptionHTML": "Bottling Day (Kalahari lager)",
+        "eventText": "Bottling Day",
+        "eventType": "event-batch-bottling-day",
+        "time": 1789113600000,
+        "title": "Bottling Day - Batch #48 (Kalahari lager)"
+      },
+      {
+        "active": true,
         "dayEvent": false,
         "description": "Fermentation Profile Step: Primary (Fermentation) @ 17 °C",
         "descriptionHTML": "Fermentation Profile Step:<br>Primary (Fermentation) @ 17 °C",
@@ -698,26 +707,6 @@
         "eventType": "event-batch-ferm-step",
         "time": 1788768000000,
         "title": "Fermentation Step - Batch #48 (Kalahari lager)"
-      },
-      {
-        "active": true,
-        "dayEvent": true,
-        "description": "Bottling Day (Kalahari lager)",
-        "descriptionHTML": "Bottling Day (Kalahari lager)",
-        "eventText": "Bottling Day",
-        "eventType": "event-batch-bottling-day",
-        "time": 1789372800000,
-        "title": "Bottling Day - Batch #48 (Kalahari lager)"
-      },
-      {
-        "active": true,
-        "dayEvent": false,
-        "description": "Fermentation Profile Step: Completed - crash @ 2 °C",
-        "descriptionHTML": "Fermentation Profile Step:<br>Completed - crash @ 2 °C",
-        "eventText": "Completed - crash @ 2 °C",
-        "eventType": "event-batch-ferm-completed",
-        "time": 1789113600000,
-        "title": "Completed - Batch #48 (Kalahari lager)"
       }
     ],
     "fermentationControllerEnabled": false,
@@ -742,12 +731,6 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
-      {
-        "note": "",
-        "status": "Conditioning",
-        "timestamp": 1789399788110,
-        "type": "statusChanged"
-      },
       {
         "note": "Started cold crash. Fg stable and did extended d rest.",
         "status": "Fermenting",
@@ -2014,7 +1997,7 @@
         }
       ]
     },
-    "status": "Conditioning",
+    "status": "Fermenting",
     "tasteRating": 0,
     "updatedBy": "user"
   },

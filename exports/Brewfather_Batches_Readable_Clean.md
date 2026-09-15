@@ -1,17 +1,17 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-09-14 09:32
+# Brewfather Batches - Clean Readable Master - updated 2026-09-15 09:09
 
 Total batches: 43
 
 ## Batch #48 - Kalahari lager
 
 ### Overview
-- Status: Fermenting
+- Status: Conditioning
 - Style: International Pale Lager
 - Type: All Grain
 - Brewer: Ernst Gouws
 - Brew date: 2026-08-30
 - Fermentation start: 2026-08-30
-- Kegging / bottling date: 2026-09-11
+- Kegging / bottling date: 2026-09-14
 
 ### Targets vs actuals
 | Item | Target | Actual |
@@ -97,6 +97,7 @@ First time using ISY Enhance.
 Started to sound to 12 psi.
   - 2026-09-07 17:42 Fermenting: Might have reached fg but will let it go for 48 hours. Then crash.
   - 2026-09-10 12:03 Fermenting: Started cold crash. Fg stable and did extended d rest.
+  - 2026-09-14 17:29 Conditioning (statusChanged)
 
 
 ## Batch #47 - Smash Mosaic
