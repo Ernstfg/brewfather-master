@@ -26943,15 +26943,15 @@
     "_id": "TtkyFZuS1krih6K7d2BW7nY3qFmYPZ",
     "_init": true,
     "_ref": "4vaE2k2LzjJTF1i4pesr5dPN9mWxMm",
-    "_rev": "zBu1JHh2iR0C5VDJW2llkFQe5cj0wg",
+    "_rev": "1ORVTAdLvUI8tq4QvCRl84od0kfLUV",
     "_timestamp": {
-      "_nanoseconds": 201000000,
-      "_seconds": 1789895032
+      "_nanoseconds": 878000000,
+      "_seconds": 1789397206
     },
-    "_timestamp_ms": 1789895032201,
+    "_timestamp_ms": 1789397206878,
     "_type": "recipe",
     "_uid": "iPD6GM7QMGbK1uTM33gRwN6czDG3",
-    "_version": "3.1.0",
+    "_version": "3.0.1",
     "_versionId": "5JZ28hW40eveZeDGimNn2aueVr3QeY",
     "_versionNumber": 1,
     "abv": 5.12,
@@ -26976,7 +26976,7 @@
       "batchSpargeWaterAmount3": null,
       "batchSpargeWaterAmount4": null,
       "hltWaterAmount": 0,
-      "hopsAmount": 58,
+      "hopsAmount": 55,
       "mashFermentables": [
         {
           "_created": {
@@ -27104,7 +27104,6 @@
         }
       ],
       "mashFermentablesAmount": 3.15,
-      "mashInfusionWaterAmount": null,
       "mashVolume": 22.490499999999997,
       "mashVolumeSurplus": 0,
       "mashWaterAmount": 20.38,
@@ -27112,7 +27111,6 @@
       "otherFermentablesAmount": 0,
       "spargeWaterAmount": 0,
       "strikeTemp": 68.5,
-      "strikeWaterAmount": 20.38,
       "topUpWater": 0,
       "totalDiastaticPower": 8.19,
       "totalWaterAmount": 20.38
@@ -27367,8 +27365,8 @@
         "_timestamp_ms": 1785061184381,
         "_version": "3.0.1",
         "actualTime": null,
-        "alpha": 5.2,
-        "amount": 18,
+        "alpha": 6.3,
+        "amount": 15,
         "bestBeforeDate": null,
         "beta": 3.5,
         "caryophyllene": null,
@@ -27377,7 +27375,7 @@
         "hidden": false,
         "hsi": 30,
         "humulene": null,
-        "ibu": 16.6,
+        "ibu": 16.7,
         "inventory": 156,
         "manufacturingDate": null,
         "myrcene": null,
@@ -27483,8 +27481,8 @@
         "year": null
       }
     ],
-    "hopsTotalAmount": 58,
-    "ibu": 22.8,
+    "hopsTotalAmount": 55,
+    "ibu": 22.9,
     "ibuFormula": "tinseth",
     "mash": {
       "_created": {

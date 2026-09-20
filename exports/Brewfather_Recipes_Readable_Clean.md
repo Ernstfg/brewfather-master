@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-09-20 09:25
+# Brewfather Recipes - Clean Readable Master - updated 2026-09-20 19:08
 
 Total recipes: 25
 
@@ -1447,7 +1447,7 @@ Not sure of the app's fg of 1.006 is realistic
 - OG: 1.047
 - FG: 1.008
 - ABV: 5.12%
-- IBU: 22.9
+- IBU: 22.8
 - Color EBC: 4.3
 - Batch size L: 12
 - Boil size L: 18.6
@@ -1458,7 +1458,7 @@ Not sure of the app's fg of 1.006 is realistic
   - 0.2 kg Torrefied Wheat (6.35%, Crisp, 2.538 EBC)
 
 ### Hops
-  - 15 g Hallertau Perle - Boil, 60 min, 6.3% AA, 16.7 IBU
+  - 18 g Hallertau Perle - Boil, 60 min, 5.2% AA, 16.6 IBU
   - 20 g Hallertauer Mittelfrueh - Boil, 10 min, 3.2% AA, 4.8 IBU
   - 20 g Hallertauer Mittelfrueh - Aroma, 20 min, 80 °C, 3.2% AA, 1.4 IBU
 
