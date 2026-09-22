@@ -1,4 +1,4 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-09-21 09:36
+# Brewfather Batches - Clean Readable Master - updated 2026-09-22 09:16
 
 Total batches: 44
 
@@ -85,6 +85,7 @@ Total batches: 44
   - 2026-09-20 17:54 Fermenting (statusChanged)
   - 2026-09-20 17:54 Fermenting: Pitched 8 grams yeast at 28dC.
   - 2026-09-20 19:01 Fermenting: First bubbles going...
+  - 2026-09-21 16:53 Fermenting: Started to collect CO2 in keg. Spunding lightly around 2 psi just for positive pressure.
 
 
 ## Batch #48 - Kalahari lager

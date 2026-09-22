@@ -7,12 +7,12 @@
     },
     "_id": "taTspfM9pXIzsk2cOfeqU4RnqKrjd8",
     "_init": true,
-    "_rev": "ldlc5DpJTdBzyizu4PoaLMJBLcjRIV",
+    "_rev": "V83NVpICwO9qlxJ9TaJBjyJHXqTrcQ",
     "_timestamp": {
-      "_nanoseconds": 989000000,
-      "_seconds": 1790015807
+      "_nanoseconds": 653000000,
+      "_seconds": 1789923889
     },
-    "_timestamp_ms": 1790015807989,
+    "_timestamp_ms": 1789923889653,
     "_type": "batch",
     "_version": "3.1.0",
     "batchFermentables": [
@@ -685,11 +685,6 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
-      {
-        "note": "Started to collect CO2 in keg. Spunding lightly around 2 psi just for positive pressure.",
-        "status": "Fermenting",
-        "timestamp": 1790002385592
-      },
       {
         "note": "First bubbles going...",
         "status": "Fermenting",
