@@ -20292,16 +20292,15 @@
     "_id": "yiPSN3Y6mmATMzlZ26e4uWlmbGRxaD",
     "_init": true,
     "_ref": "hdHIQnNxmpolMGOoR6wD6Tfg5kGoaz",
-    "_rev": "hfCvmsRe3LhWXvaweIi43T3Qy7eBV9",
-    "_share": "xm5B9xQXTrQLrS",
+    "_rev": "UNEdlurZeI3lVf0jo9GKcYddiABbWU",
     "_timestamp": {
-      "_nanoseconds": 747000000,
-      "_seconds": 1790133231
+      "_nanoseconds": 742000000,
+      "_seconds": 1787579692
     },
-    "_timestamp_ms": 1790133231747,
+    "_timestamp_ms": 1787579692742,
     "_type": "recipe",
     "_uid": "iPD6GM7QMGbK1uTM33gRwN6czDG3",
-    "_version": "3.1.0",
+    "_version": "3.0.1",
     "_versionId": "cmjZ3kBjHcVgnZ21OrkhUGzyjCS16y",
     "_versionNumber": 2,
     "abv": 4.99,
@@ -21192,7 +21191,6 @@
     "postBoilGravity": 1.047685263,
     "preBoilGravity": 1.04,
     "primaryTemp": 19,
-    "public": true,
     "rbRatio": 0.65,
     "searchTags": [],
     "style": {

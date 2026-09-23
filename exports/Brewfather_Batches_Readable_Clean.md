@@ -1,4 +1,4 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-09-22 09:16
+# Brewfather Batches - Clean Readable Master - updated 2026-09-23 09:19
 
 Total batches: 44
 
@@ -17,7 +17,7 @@ Total batches: 44
 | Item | Target | Actual |
 |---|---:|---:|
 | OG | 1.047 | 1.044 |
-| FG | 1.008 |  |
+| FG | 1.008 | 1.007 |
 | ABV % | 5.12 | 4.9 |
 | IBU | 22.8 | 24 |
 | Colour EBC | 4.3 | 4.3 |
@@ -86,6 +86,7 @@ Total batches: 44
   - 2026-09-20 17:54 Fermenting: Pitched 8 grams yeast at 28dC.
   - 2026-09-20 19:01 Fermenting: First bubbles going...
   - 2026-09-21 16:53 Fermenting: Started to collect CO2 in keg. Spunding lightly around 2 psi just for positive pressure.
+  - 2026-09-23 06:28 Fermenting: FG hit.
 
 
 ## Batch #48 - Kalahari lager
