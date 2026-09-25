@@ -1,4 +1,4 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-09-24 09:09
+# Brewfather Batches - Clean Readable Master - updated 2026-09-25 09:05
 
 Total batches: 44
 
@@ -26,7 +26,7 @@ Total batches: 44
 | Mash pH | 5.4 | 5.4 |
 | Batch size L | 12 | 13 |
 | Boil size L | 18.6 | 18.6 |
-| Kegged / bottling volume L | 10 |  |
+| Kegged / bottling volume L | 10 | 10 |
 | Brewhouse efficiency % | 57.9 | 59.31 |
 | Mash efficiency % | 70 | 66.32 |
 | Measured attenuation % |  | 83.6 |
@@ -87,6 +87,7 @@ Total batches: 44
   - 2026-09-20 19:01 Fermenting: First bubbles going...
   - 2026-09-21 16:53 Fermenting: Started to collect CO2 in keg. Spunding lightly around 2 psi just for positive pressure.
   - 2026-09-23 06:28 Fermenting: FG hit.
+  - 2026-09-25 07:58 Fermenting: Started cold crash
 
 
 ## Batch #48 - Kalahari lager

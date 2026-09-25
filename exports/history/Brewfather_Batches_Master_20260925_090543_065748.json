@@ -7,12 +7,12 @@
     },
     "_id": "taTspfM9pXIzsk2cOfeqU4RnqKrjd8",
     "_init": true,
-    "_rev": "KS3VBL3ByXz44dOBFY1vtJ5xcccgDF",
+    "_rev": "6RQtyGe3hEhcUALOQLJz2FZyzNgDHh",
     "_timestamp": {
-      "_nanoseconds": 103000000,
-      "_seconds": 1790316040
+      "_nanoseconds": 704000000,
+      "_seconds": 1790137712
     },
-    "_timestamp_ms": 1790316040103,
+    "_timestamp_ms": 1790137712704,
     "_type": "batch",
     "_version": "3.1.0",
     "batchFermentables": [
@@ -672,7 +672,6 @@
     "measuredAttenuation": 83.6,
     "measuredBatchSize": 13,
     "measuredBoilSize": 18.6,
-    "measuredBottlingSize": 10,
     "measuredConversionEfficiency": null,
     "measuredEfficiency": 59.31,
     "measuredFermenterTopUp": 0,
@@ -687,11 +686,6 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
-      {
-        "note": "Started cold crash",
-        "status": "Fermenting",
-        "timestamp": 1790315935910
-      },
       {
         "note": "FG hit.",
         "status": "Fermenting",
