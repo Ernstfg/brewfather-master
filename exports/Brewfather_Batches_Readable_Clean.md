@@ -1,17 +1,17 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-09-27 09:33
+# Brewfather Batches - Clean Readable Master - updated 2026-09-28 10:11
 
 Total batches: 44
 
 ## Batch #49 - Kalahari blond
 
 ### Overview
-- Status: Fermenting
+- Status: Conditioning
 - Style: Blonde Ale
 - Type: All Grain
 - Brewer: Ernst Gouws
 - Brew date: 2026-09-20
 - Fermentation start: 2026-09-20
-- Kegging / bottling date: 2026-09-26
+- Kegging / bottling date: 2026-09-27
 
 ### Targets vs actuals
 | Item | Target | Actual |
@@ -88,6 +88,7 @@ Total batches: 44
   - 2026-09-21 16:53 Fermenting: Started to collect CO2 in keg. Spunding lightly around 2 psi just for positive pressure.
   - 2026-09-23 06:28 Fermenting: FG hit.
   - 2026-09-25 07:58 Fermenting: Started cold crash
+  - 2026-09-27 17:21 Conditioning (statusChanged)
 
 
 ## Batch #48 - Kalahari lager

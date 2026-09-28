@@ -7,12 +7,12 @@
     },
     "_id": "taTspfM9pXIzsk2cOfeqU4RnqKrjd8",
     "_init": true,
-    "_rev": "XM81jKQXVA7OjyKyqLKxRYDXCoDAbG",
+    "_rev": "KS3VBL3ByXz44dOBFY1vtJ5xcccgDF",
     "_timestamp": {
-      "_nanoseconds": 53000000,
-      "_seconds": 1790522510
+      "_nanoseconds": 103000000,
+      "_seconds": 1790316040
     },
-    "_timestamp_ms": 1790522510053,
+    "_timestamp_ms": 1790316040103,
     "_type": "batch",
     "_version": "3.1.0",
     "batchFermentables": [
@@ -531,8 +531,8 @@
       }
     ],
     "boilStepsCount": 2,
-    "bottlingDate": 1790522507747,
-    "bottlingDateSet": true,
+    "bottlingDate": 1790373600000,
+    "bottlingDateSet": false,
     "brewControllerEnabled": false,
     "brewDate": 1789855200000,
     "brewer": "Ernst Gouws",
@@ -637,6 +637,16 @@
       },
       {
         "active": true,
+        "dayEvent": true,
+        "description": "Bottling Day (Kalahari blond)",
+        "descriptionHTML": "Bottling Day (Kalahari blond)",
+        "eventText": "Bottling Day",
+        "eventType": "event-batch-bottling-day",
+        "time": 1790409600000,
+        "title": "Bottling Day - Batch #49 (Kalahari blond)"
+      },
+      {
+        "active": true,
         "dayEvent": false,
         "description": "Fermentation Profile Step: crasb @ 2 °C",
         "descriptionHTML": "Fermentation Profile Step:<br>crasb @ 2 °C",
@@ -644,26 +654,6 @@
         "eventType": "event-batch-ferm-step",
         "time": 1790150400000,
         "title": "Fermentation Step - Batch #49 (Kalahari blond)"
-      },
-      {
-        "active": true,
-        "dayEvent": true,
-        "description": "Bottling Day (Kalahari blond)",
-        "descriptionHTML": "Bottling Day (Kalahari blond)",
-        "eventText": "Bottling Day",
-        "eventType": "event-batch-bottling-day",
-        "time": 1790496000000,
-        "title": "Bottling Day - Batch #49 (Kalahari blond)"
-      },
-      {
-        "active": true,
-        "dayEvent": false,
-        "description": "Fermentation Profile Step: Completed - crasb @ 2 °C",
-        "descriptionHTML": "Fermentation Profile Step:<br>Completed - crasb @ 2 °C",
-        "eventText": "Completed - crasb @ 2 °C",
-        "eventType": "event-batch-ferm-completed",
-        "time": 1790409600000,
-        "title": "Completed - Batch #49 (Kalahari blond)"
       }
     ],
     "featureContracts": {
@@ -697,12 +687,6 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
-      {
-        "note": "",
-        "status": "Conditioning",
-        "timestamp": 1790522507379,
-        "type": "statusChanged"
-      },
       {
         "note": "Started cold crash",
         "status": "Fermenting",
@@ -1866,7 +1850,7 @@
         }
       ]
     },
-    "status": "Conditioning",
+    "status": "Fermenting",
     "tasteRating": 0,
     "updatedBy": "user"
   },
