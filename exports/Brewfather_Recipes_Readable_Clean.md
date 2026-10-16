@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-10-15 08:55
+# Brewfather Recipes - Clean Readable Master - updated 2026-10-16 08:42
 
 Total recipes: 25
 
@@ -193,7 +193,7 @@ Pressure ferment from day 2.
 - OG: 1.047
 - FG: 1.008
 - ABV: 5.12%
-- IBU: 22.8
+- IBU: 21.2
 - Color EBC: 4.2
 - Batch size L: 12
 - Boil size L: 18.6
@@ -204,12 +204,11 @@ Pressure ferment from day 2.
   - 0.2 kg Swaen Vienna (6.35%, The Swaen, 5.1 EBC)
 
 ### Hops
-  - 18 g Hallertau Perle - Boil, 60 min, 5.2% AA, 16.6 IBU
-  - 20 g Hallertauer Mittelfrueh - Boil, 10 min, 3.2% AA, 4.8 IBU
-  - 20 g Hallertauer Mittelfrueh - Aroma, 20 min, 80 °C, 3.2% AA, 1.4 IBU
+  - 18 g Hallertau Perle - Boil, 60 min, 5.2% AA, 16.4 IBU
+  - 25 g Hallertauer Mittelfrueh - Boil, 10 min, 3.2% AA, 4.8 IBU
 
 ### Yeast
-  - 200 ml WHC Lab Crispy lager (Apres Ski) - 8–16 °C; 80% attenuation; Notes: First repitch
+  - 2 pkg WHC Lab Einstein - 9–16 °C; 80% attenuation
 
 ### Miscellaneous
   - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
@@ -217,12 +216,11 @@ Pressure ferment from day 2.
   - 2.5 ml Lactic Acid - Mash, Water Agent
   - 1 g Irish Moss - Boil, Fining, 5 min
   - 1 g Yeast Nutrients - Boil, Other, 5 min
-  - 2.6 g ISY Enhabce - Boil, Other, 0 min
+  - 2 g ISY Enhabce - Boil, Other, 0 min
 
 ### Mash profile
 - Profile: High fermentability plus mash out
-  - Temperature: 66 °C for 40 min
-  - Temperature: 72 °C for 20 min
+  - Temperature: 66 °C for 60 min
   - mash out: 78 °C for 10 min
 
 ### Fermentation profile
@@ -238,8 +236,6 @@ Pressure ferment from day 2.
 - Target mash pH: 5.33
 
 ### Notes
-Gonna leave this at d rest temp while on holiday. 
-
 Spund later in fermentation up to 12 psi
 Pitch 22 grams yeast
 No gelatine
@@ -965,7 +961,7 @@ No dry hops
   - 30 g Hallertauer Mittelfrueh - Aroma, 20 min, 80 °C, 3.2% AA, 2.1 IBU
 
 ### Yeast
-  - 200 ml WHC Lab Crispy lager (Apres Ski) - 8–16 °C; 80% attenuation
+  - 2 pkg WHC Lab Einstein - 9–16 °C; 80% attenuation
 
 ### Miscellaneous
   - 2.5 g Calcium Chloride (CaCl2) - Mash, Water Agent

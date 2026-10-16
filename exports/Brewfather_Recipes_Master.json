@@ -3468,26 +3468,26 @@
     "_init": true,
     "_origin": null,
     "_public": false,
-    "_rev": "EvSE0GZrCCrYtOOPz9i0FqOGEGRhRo",
+    "_rev": "3g3UWAMcUcPSFQadzDvFXDx8vrCbX3",
     "_share": null,
     "_timestamp": {
-      "_nanoseconds": 486000000,
-      "_seconds": 1789933890
+      "_nanoseconds": 613000000,
+      "_seconds": 1792124698
     },
-    "_timestamp_ms": 1789933890486,
+    "_timestamp_ms": 1792124698613,
     "_type": "recipe",
     "_uid": "iPD6GM7QMGbK1uTM33gRwN6czDG3",
-    "_version": "3.1.0",
+    "_version": "3.1.1",
     "_versionId": "wjsmLFAI78ByflCSo8W7hur5gX8gOY",
     "_versionNumber": 3,
     "abv": 5.12,
     "attenuation": 0.824,
     "author": "Ernst Gouws",
-    "avgWeightedHopstandTemp": 80,
+    "avgWeightedHopstandTemp": 0,
     "batchSize": 12,
     "boilSize": 18.6,
     "boilTime": 60,
-    "buGuRatio": 0.49,
+    "buGuRatio": 0.46,
     "carbonation": 2.4,
     "carbonationStyle": {
       "carbMax": 3.2,
@@ -3502,7 +3502,7 @@
       "batchSpargeWaterAmount3": null,
       "batchSpargeWaterAmount4": null,
       "hltWaterAmount": 0,
-      "hopsAmount": 58,
+      "hopsAmount": 43,
       "mashFermentables": [
         {
           "_id": "default-c3ff8bb88f9",
@@ -3887,7 +3887,7 @@
       "pFFxWftZP5Ket8Gy2QtAMOD2TVRkLI"
     ],
     "hidden": false,
-    "hopStandMinutes": 20,
+    "hopStandMinutes": 0,
     "hops": [
       {
         "_created": {
@@ -3913,7 +3913,7 @@
         "hidden": false,
         "hsi": 30,
         "humulene": null,
-        "ibu": 16.6,
+        "ibu": 16.4,
         "inventory": 138,
         "manufacturingDate": null,
         "myrcene": null,
@@ -3946,7 +3946,7 @@
         "_version": "3.1.0",
         "actualTime": null,
         "alpha": 3.2,
-        "amount": 20,
+        "amount": 25,
         "bestBeforeDate": null,
         "beta": null,
         "caryophyllene": null,
@@ -3973,54 +3973,10 @@
         "usedIn": "",
         "userNotes": "",
         "year": null
-      },
-      {
-        "_created": {
-          "_nanoseconds": 85000000,
-          "_seconds": 1714216059
-        },
-        "_id": "default-b73163ee",
-        "_rev": "4uNBveCLExwfvW2GLeBzkjAPZFK1uw",
-        "_timestamp": {
-          "_nanoseconds": 227000000,
-          "_seconds": 1789895043
-        },
-        "_timestamp_ms": 1789895043227,
-        "_version": "3.1.0",
-        "actualTime": null,
-        "alpha": 3.2,
-        "amount": 20,
-        "bestBeforeDate": null,
-        "beta": null,
-        "caryophyllene": null,
-        "cohumulone": null,
-        "farnesene": null,
-        "hidden": false,
-        "hsi": null,
-        "humulene": null,
-        "ibu": 1.4,
-        "inventory": 65,
-        "loss": 45,
-        "manufacturingDate": null,
-        "myrcene": null,
-        "name": "Hallertauer Mittelfrueh",
-        "notes": "",
-        "oil": null,
-        "origin": "Germany",
-        "substitutes": "",
-        "temp": 80,
-        "time": 20,
-        "timeUnit": null,
-        "type": "Pellet",
-        "usage": "Aroma",
-        "use": "Aroma",
-        "usedIn": "",
-        "userNotes": "",
-        "year": null
       }
     ],
-    "hopsTotalAmount": 58,
-    "ibu": 22.8,
+    "hopsTotalAmount": 43,
+    "ibu": 21.2,
     "ibuFormula": "tinseth",
     "img": null,
     "manualFg": false,
@@ -4054,22 +4010,7 @@
           "name": "",
           "rampTime": null,
           "stepTemp": 66,
-          "stepTime": 40,
-          "type": "Temperature"
-        },
-        {
-          "decoctionAmount": null,
-          "decoctionAmountMode": "calculated",
-          "decoctionRestTemp": null,
-          "decoctionRestTime": null,
-          "decoctionThickness": null,
-          "displayDecoctionRestTemp": null,
-          "displayInfuseTemp": null,
-          "displayStepTemp": 72,
-          "infuseTemp": null,
-          "rampTime": null,
-          "stepTemp": 72,
-          "stepTime": 20,
+          "stepTime": 60,
           "type": "Temperature"
         },
         {
@@ -4247,7 +4188,7 @@
         },
         "_timestamp_ms": 1787845020320,
         "_version": "3.0.1",
-        "amount": 2.6,
+        "amount": 2,
         "amountPerL": null,
         "bestBeforeDate": null,
         "hidden": false,
@@ -4265,7 +4206,7 @@
       }
     ],
     "name": "Kalahari lager",
-    "notes": "Gonna leave this at d rest temp while on holiday. \n\nSpund later in fermentation up to 12 psi\nPitch 22 grams yeast\nNo gelatine\n",
+    "notes": "\nSpund later in fermentation up to 12 psi\nPitch 22 grams yeast\nNo gelatine\n",
     "nutrition": {
       "calories": {
         "alcohol": 28.28574419366162,
@@ -4284,7 +4225,7 @@
     "preBoilGravity": 1.038,
     "primaryTemp": 14,
     "public": false,
-    "rbRatio": 0.52,
+    "rbRatio": 0.49,
     "searchTags": [],
     "style": {
       "_id": "default-5",
@@ -4322,7 +4263,7 @@
     "styleIbu": true,
     "styleOg": true,
     "styleRbr": true,
-    "sumAromaHopPerLiter": 1.6666666666666667,
+    "sumAromaHopPerLiter": 0,
     "sumDryHopPerLiter": 0,
     "tags": null,
     "thumb": null,
@@ -4611,27 +4552,39 @@
     "yeastToleranceExceededBy": null,
     "yeasts": [
       {
-        "_id": "default-exgZZZ2LIu3saBJpvYyCkGXMi18wxD",
-        "amount": 200,
+        "_created": {
+          "_nanoseconds": 640000000,
+          "_seconds": 1775809389
+        },
+        "_id": "default-CXQrkdu4oQc6aNLKctrnvpf05s3aKZ",
+        "_rev": "sygWkeOaDxyFuhHuYUsFOB95taxbvR",
+        "_timestamp": {
+          "_nanoseconds": 640000000,
+          "_seconds": 1775809389
+        },
+        "_timestamp_ms": 1775809389640,
+        "_version": "3.0.0",
+        "amount": 2,
         "attenuation": 80,
-        "bestBeforeDate": null,
-        "description": "pres Ski is prized for its ability to produce exceptionally clean and refreshing lagers. Your beers will exhibit a delightful and subtle interplay of floral and fruity notes, imparting a unique character that’s bound to captivate palates. With low ester production and crispness at higher fermentation temps it represents an ideal house lager strain option, ensuring consistent and predictable results with each batch.",
+        "bestBeforeDate": 1835301600000,
+        "description": "A German Lager yeast that has it characterized by a clean profile, low ester formation during\nfermentation and medium sulphur production. A good bottom fermenting yeast strain for cold\nfermentation A great choice for all lager styles.",
         "fermentsAll": false,
-        "flocculation": "Medium-Low",
-        "form": "Slurry",
+        "flocculation": "Low",
+        "form": "Dry",
         "hidden": false,
+        "inventory": 2,
         "laboratory": "WHC Lab",
         "manufacturingDate": null,
         "maxAbv": 12,
         "maxAttenuation": 80,
         "maxTemp": 16,
-        "minAttenuation": 73,
-        "minTemp": 8,
-        "name": "Crispy lager",
-        "productId": "Apres Ski",
+        "minAttenuation": 76,
+        "minTemp": 9,
+        "name": "Einstein",
+        "productId": "",
         "type": "Lager",
-        "unit": "ml",
-        "userNotes": "First repitch"
+        "unit": "pkg",
+        "userNotes": ""
       }
     ]
   },
@@ -17705,16 +17658,16 @@
     "_init": true,
     "_origin": null,
     "_public": false,
-    "_rev": "F6CuEkcla2AXpT2QbgPfPNxCI3LFfn",
+    "_rev": "3jNhBSad41esUX0IEFWEDZEfLdkgqQ",
     "_share": null,
     "_timestamp": {
-      "_nanoseconds": 76000000,
-      "_seconds": 1789415455
+      "_nanoseconds": 15000000,
+      "_seconds": 1792069128
     },
-    "_timestamp_ms": 1789415455076,
+    "_timestamp_ms": 1792069128015,
     "_type": "recipe",
     "_uid": "iPD6GM7QMGbK1uTM33gRwN6czDG3",
-    "_version": "3.0.1",
+    "_version": "3.1.1",
     "_versionId": "rYn0HkjvzwdZHzcKBmiD7THHFUzLXM",
     "_versionNumber": 2,
     "abv": 4.86,
@@ -18896,37 +18849,37 @@
     "yeasts": [
       {
         "_created": {
-          "_nanoseconds": 925000000,
-          "_seconds": 1775809360
+          "_nanoseconds": 640000000,
+          "_seconds": 1775809389
         },
-        "_id": "default-exgZZZ2LIu3saBJpvYyCkGXMi18wxD",
-        "_rev": "B0SCb2UaZONU861NICuknzc19bWGGa",
+        "_id": "default-CXQrkdu4oQc6aNLKctrnvpf05s3aKZ",
+        "_rev": "sygWkeOaDxyFuhHuYUsFOB95taxbvR",
         "_timestamp": {
-          "_nanoseconds": 572000000,
-          "_seconds": 1788087138
+          "_nanoseconds": 640000000,
+          "_seconds": 1775809389
         },
-        "_timestamp_ms": 1788087138572,
-        "_version": "3.0.1",
-        "amount": 200,
+        "_timestamp_ms": 1775809389640,
+        "_version": "3.0.0",
+        "amount": 2,
         "attenuation": 80,
-        "bestBeforeDate": 1827525600000,
-        "description": "pres Ski is prized for its ability to produce exceptionally clean and refreshing lagers. Your beers will exhibit a delightful and subtle interplay of floral and fruity notes, imparting a unique character that’s bound to captivate palates. With low ester production and crispness at higher fermentation temps it represents an ideal house lager strain option, ensuring consistent and predictable results with each batch.",
+        "bestBeforeDate": 1835301600000,
+        "description": "A German Lager yeast that has it characterized by a clean profile, low ester formation during\nfermentation and medium sulphur production. A good bottom fermenting yeast strain for cold\nfermentation A great choice for all lager styles.",
         "fermentsAll": false,
-        "flocculation": "Medium-Low",
+        "flocculation": "Low",
         "form": "Dry",
         "hidden": false,
-        "inventory": 0,
+        "inventory": 2,
         "laboratory": "WHC Lab",
         "manufacturingDate": null,
         "maxAbv": 12,
         "maxAttenuation": 80,
         "maxTemp": 16,
-        "minAttenuation": 73,
-        "minTemp": 8,
-        "name": "Crispy lager",
-        "productId": "Apres Ski",
+        "minAttenuation": 76,
+        "minTemp": 9,
+        "name": "Einstein",
+        "productId": "",
         "type": "Lager",
-        "unit": "ml",
+        "unit": "pkg",
         "userNotes": ""
       }
     ]
@@ -26900,15 +26853,15 @@
     "_id": "TtkyFZuS1krih6K7d2BW7nY3qFmYPZ",
     "_init": true,
     "_ref": "4vaE2k2LzjJTF1i4pesr5dPN9mWxMm",
-    "_rev": "zBu1JHh2iR0C5VDJW2llkFQe5cj0wg",
+    "_rev": "BdmoOSQmDOg9lkKVAJZy2zlJoyd8p6",
     "_timestamp": {
-      "_nanoseconds": 201000000,
-      "_seconds": 1789895032
+      "_nanoseconds": 628000000,
+      "_seconds": 1792068643
     },
-    "_timestamp_ms": 1789895032201,
+    "_timestamp_ms": 1792068643628,
     "_type": "recipe",
     "_uid": "iPD6GM7QMGbK1uTM33gRwN6czDG3",
-    "_version": "3.1.0",
+    "_version": "3.1.1",
     "_versionId": "5JZ28hW40eveZeDGimNn2aueVr3QeY",
     "_versionNumber": 1,
     "abv": 5.12,
@@ -27305,7 +27258,7 @@
     "fgFormula": "adv",
     "firstWortGravity": null,
     "folderRefs": [
-      "recipe_root_folder"
+      "kors8GaFlVYPa1Q0ztwZZNetfFY2mG"
     ],
     "hidden": false,
     "hopStandMinutes": 20,
@@ -27650,7 +27603,7 @@
     },
     "og": 1.046537305,
     "ogPlato": 11.6,
-    "path": "/",
+    "path": "/APA/",
     "postBoilGravity": 1.046537305,
     "preBoilGravity": 1.038,
     "primaryTemp": 29,
