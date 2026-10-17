@@ -26853,12 +26853,12 @@
     "_id": "TtkyFZuS1krih6K7d2BW7nY3qFmYPZ",
     "_init": true,
     "_ref": "4vaE2k2LzjJTF1i4pesr5dPN9mWxMm",
-    "_rev": "BdmoOSQmDOg9lkKVAJZy2zlJoyd8p6",
+    "_rev": "i6uuMVopWKwdbfPn3PoP4Oozcv2nwL",
     "_timestamp": {
-      "_nanoseconds": 628000000,
-      "_seconds": 1792068643
+      "_nanoseconds": 798000000,
+      "_seconds": 1792146785
     },
-    "_timestamp_ms": 1792068643628,
+    "_timestamp_ms": 1792146785798,
     "_type": "recipe",
     "_uid": "iPD6GM7QMGbK1uTM33gRwN6czDG3",
     "_version": "3.1.1",
@@ -27589,7 +27589,7 @@
       }
     ],
     "name": "Kalahari blond",
-    "notes": "7-8 grams of the yeast. ",
+    "notes": "7-8 grams of the yeast. \n\nNot more than 2% wheat. 6 was too high. ",
     "nutrition": {
       "calories": {
         "alcohol": 28.267652050745042,

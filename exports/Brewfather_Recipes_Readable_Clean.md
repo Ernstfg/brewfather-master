@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-10-16 08:42
+# Brewfather Recipes - Clean Readable Master - updated 2026-10-17 08:31
 
 Total recipes: 25
 
@@ -1483,7 +1483,9 @@ Not sure of the app's fg of 1.006 is realistic
 - Target mash pH: 5.4
 
 ### Notes
-7-8 grams of the yeast.
+7-8 grams of the yeast. 
+
+Not more than 2% wheat. 6 was too high.
 
 
 ## Old English Summer Stout
