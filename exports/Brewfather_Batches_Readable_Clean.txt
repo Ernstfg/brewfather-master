@@ -1,4 +1,4 @@
-Brewfather Batches - Clean Readable Master - updated 2026-10-18 08:56
+Brewfather Batches - Clean Readable Master - updated 2026-10-19 09:16
 ======================================================================
 
 Total batches: 44
@@ -9,7 +9,7 @@ Batch #49 - Kalahari blond
 
 Overview
 --------------------
-Status: Conditioning
+Status: Archived
 Style: Blonde Ale
 Type: All Grain
 Brewer: Ernst Gouws
@@ -105,6 +105,8 @@ Batch log / status notes
   - 2026-09-23 06:28 Fermenting: FG hit.
   - 2026-09-25 07:58 Fermenting: Started cold crash
   - 2026-09-27 17:21 Conditioning (statusChanged)
+  - 2026-10-19 05:42 Completed (statusChanged)
+  - 2026-10-19 05:42 Archived (statusChanged)
 
 
 ==========================================================================================
@@ -113,7 +115,7 @@ Batch #48 - Kalahari lager
 
 Overview
 --------------------
-Status: Conditioning
+Status: Archived
 Style: International Pale Lager
 Type: All Grain
 Brewer: Ernst Gouws
@@ -218,6 +220,8 @@ Started to sound to 12 psi.
   - 2026-09-07 17:42 Fermenting: Might have reached fg but will let it go for 48 hours. Then crash.
   - 2026-09-10 12:03 Fermenting: Started cold crash. Fg stable and did extended d rest.
   - 2026-09-14 17:29 Conditioning (statusChanged)
+  - 2026-10-19 05:42 Completed (statusChanged)
+  - 2026-10-19 05:42 Archived (statusChanged)
 
 
 ==========================================================================================

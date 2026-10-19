@@ -1,20 +1,20 @@
 [
   {
-    "_archived": false,
+    "_archived": true,
     "_created": {
       "_nanoseconds": 350000000,
       "_seconds": 1789895041
     },
     "_id": "taTspfM9pXIzsk2cOfeqU4RnqKrjd8",
     "_init": true,
-    "_rev": "xxTyt7u5L1t9VaZ2DcHLKYlGuhqbYf",
+    "_rev": "bhlK8FFV49S16nqLVPol7wQSogAoPa",
     "_timestamp": {
-      "_nanoseconds": 124000000,
-      "_seconds": 1790705919
+      "_nanoseconds": 282000000,
+      "_seconds": 1792381351
     },
-    "_timestamp_ms": 1790705919124,
+    "_timestamp_ms": 1792381351282,
     "_type": "batch",
-    "_version": "3.1.0",
+    "_version": "3.1.1",
     "batchFermentables": [
       {
         "_created": {
@@ -636,7 +636,7 @@
         "title": "Brew Day - Reminder - Batch #49 (Kalahari blond)"
       },
       {
-        "active": true,
+        "active": false,
         "dayEvent": false,
         "description": "Fermentation Profile Step: crasb @ 2 °C",
         "descriptionHTML": "Fermentation Profile Step:<br>crasb @ 2 °C",
@@ -646,7 +646,7 @@
         "title": "Fermentation Step - Batch #49 (Kalahari blond)"
       },
       {
-        "active": true,
+        "active": false,
         "dayEvent": true,
         "description": "Bottling Day (Kalahari blond)",
         "descriptionHTML": "Bottling Day (Kalahari blond)",
@@ -656,7 +656,7 @@
         "title": "Bottling Day - Batch #49 (Kalahari blond)"
       },
       {
-        "active": true,
+        "active": false,
         "dayEvent": false,
         "description": "Fermentation Profile Step: Completed - crasb @ 2 °C",
         "descriptionHTML": "Fermentation Profile Step:<br>Completed - crasb @ 2 °C",
@@ -697,6 +697,18 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
+      {
+        "note": "",
+        "status": "Archived",
+        "timestamp": 1792381350024,
+        "type": "statusChanged"
+      },
+      {
+        "note": "",
+        "status": "Completed",
+        "timestamp": 1792381348362,
+        "type": "statusChanged"
+      },
       {
         "note": "",
         "status": "Conditioning",
@@ -1866,26 +1878,26 @@
         }
       ]
     },
-    "status": "Conditioning",
+    "status": "Archived",
     "tasteRating": 0,
     "updatedBy": "user"
   },
   {
-    "_archived": false,
+    "_archived": true,
     "_created": {
       "_nanoseconds": 2000000,
       "_seconds": 1788086448
     },
     "_id": "ObBbFbR3SLHV2wXMLooOGtSBjdQPui",
     "_init": true,
-    "_rev": "vFr2S0jVRJsfHr2bB7KqMQqQpulhmi",
+    "_rev": "mzbOUQ4R72OoN14bV3jaipAP6eg2xj",
     "_timestamp": {
-      "_nanoseconds": 561000000,
-      "_seconds": 1789933354
+      "_nanoseconds": 352000000,
+      "_seconds": 1792381341
     },
-    "_timestamp_ms": 1789933354561,
+    "_timestamp_ms": 1792381341352,
     "_type": "batch",
-    "_version": "3.1.0",
+    "_version": "3.1.1",
     "batchFermentables": [
       {
         "_created": {
@@ -2551,7 +2563,7 @@
         "title": "Brew Day - Reminder - Batch #48 (Kalahari lager)"
       },
       {
-        "active": true,
+        "active": false,
         "dayEvent": false,
         "description": "Fermentation Profile Step: Primary (Fermentation) @ 17 °C",
         "descriptionHTML": "Fermentation Profile Step:<br>Primary (Fermentation) @ 17 °C",
@@ -2561,7 +2573,7 @@
         "title": "Fermentation Step - Batch #48 (Kalahari lager)"
       },
       {
-        "active": true,
+        "active": false,
         "dayEvent": false,
         "description": "Fermentation Profile Step: crash @ 2 °C",
         "descriptionHTML": "Fermentation Profile Step:<br>crash @ 2 °C",
@@ -2571,7 +2583,7 @@
         "title": "Fermentation Step - Batch #48 (Kalahari lager)"
       },
       {
-        "active": true,
+        "active": false,
         "dayEvent": true,
         "description": "Bottling Day (Kalahari lager)",
         "descriptionHTML": "Bottling Day (Kalahari lager)",
@@ -2581,7 +2593,7 @@
         "title": "Bottling Day - Batch #48 (Kalahari lager)"
       },
       {
-        "active": true,
+        "active": false,
         "dayEvent": false,
         "description": "Fermentation Profile Step: Completed - crash @ 2 °C",
         "descriptionHTML": "Fermentation Profile Step:<br>Completed - crash @ 2 °C",
@@ -2613,6 +2625,18 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
+      {
+        "note": "",
+        "status": "Archived",
+        "timestamp": 1792381340093,
+        "type": "statusChanged"
+      },
+      {
+        "note": "",
+        "status": "Completed",
+        "timestamp": 1792381338295,
+        "type": "statusChanged"
+      },
       {
         "note": "",
         "status": "Conditioning",
@@ -3887,7 +3911,7 @@
         }
       ]
     },
-    "status": "Conditioning",
+    "status": "Archived",
     "tasteRating": 0,
     "updatedBy": "user"
   },
