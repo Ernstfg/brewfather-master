@@ -20916,14 +20916,14 @@
     },
     "_id": "Qk2ugt84q4hXwxgB982gzbueJdxFqQ",
     "_init": true,
-    "_rev": "0yXd3JMi3kloSJe9VAr22hWF5OMLlE",
+    "_rev": "nUwBAimc4RoA86GE0EJkRNy3jbmfrK",
     "_timestamp": {
-      "_nanoseconds": 623000000,
-      "_seconds": 1778686333
+      "_nanoseconds": 505000000,
+      "_seconds": 1792556234
     },
-    "_timestamp_ms": 1778686333623,
+    "_timestamp_ms": 1792556234505,
     "_type": "batch",
-    "_version": "3.0.1",
+    "_version": "3.1.5",
     "batchFermentables": [
       {
         "_id": "default-c3ff8bb88f9",
@@ -21576,6 +21576,7 @@
           }
         ],
         "mashFermentablesAmount": 3.093,
+        "mashInfusionWaterAmount": null,
         "mashVolume": 21.342309999999998,
         "mashVolumeSurplus": 0,
         "mashWaterAmount": 19.27,
@@ -21583,6 +21584,7 @@
         "otherFermentablesAmount": 0,
         "spargeWaterAmount": 0,
         "strikeTemp": 68.6,
+        "strikeWaterAmount": 19.27,
         "topUpWater": 0,
         "totalDiastaticPower": 0,
         "totalWaterAmount": 19.27

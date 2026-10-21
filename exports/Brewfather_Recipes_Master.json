@@ -9286,6 +9286,13 @@
     ]
   },
   {
+    "_app": {
+      "timestamp": {
+        "_nanoseconds": 198000000,
+        "_seconds": 1792555956
+      },
+      "version": "1.0.0"
+    },
     "_created": {
       "_nanoseconds": 680000000,
       "_seconds": 1769110156
@@ -9293,19 +9300,19 @@
     "_ev": 2,
     "_id": "MU06X8V9zEP11cbAQnGEm5fUIZajPn",
     "_init": true,
-    "_rev": "Qij61JBXJcSO9llHrhHaTYi3V0xlCF",
+    "_rev": "gcXcmOsS0jbLeNiMvJZ3rVC89ftDN1",
     "_timestamp": {
-      "_nanoseconds": 461000000,
-      "_seconds": 1774273046
+      "_nanoseconds": 89000000,
+      "_seconds": 1792556160
     },
-    "_timestamp_ms": 1774273046461,
+    "_timestamp_ms": 1792556160089,
     "_type": "recipe",
     "_uid": "iPD6GM7QMGbK1uTM33gRwN6czDG3",
-    "_version": "2.20.2",
-    "_versionId": "PucNOYH2zFW5RZ3kJDiahVrzuBWaXw",
-    "_versionNumber": 1,
-    "abv": 5.12,
-    "attenuation": 0.806,
+    "_version": "3.1.5",
+    "_versionId": "R853TnLnbXYktSNEcGsLEEwCxLY36Z",
+    "_versionNumber": 2,
+    "abv": 5.51,
+    "attenuation": 0.87,
     "author": "Ernst Gouws",
     "avgWeightedHopstandTemp": 0,
     "batchSize": 12,
@@ -9364,6 +9371,7 @@
         }
       ],
       "mashFermentablesAmount": 3,
+      "mashInfusionWaterAmount": null,
       "mashVolume": 21.21,
       "mashVolumeSurplus": 0,
       "mashWaterAmount": 19.2,
@@ -9371,6 +9379,7 @@
       "otherFermentablesAmount": 0,
       "spargeWaterAmount": 0,
       "strikeTemp": 67.5,
+      "strikeWaterAmount": 19.2,
       "topUpWater": 0,
       "totalDiastaticPower": 0,
       "totalWaterAmount": 19.2
@@ -9519,7 +9528,7 @@
         }
       ]
     },
-    "fg": 1.009,
+    "fg": 1.006,
     "fgEstimated": 1.006,
     "fgFormula": "adv",
     "firstWortGravity": null,
@@ -9607,7 +9616,7 @@
     "ibuFormula": "tinseth",
     "img": "users/iPD6GM7QMGbK1uTM33gRwN6czDG3/images/recipes/MU06X8V9zEP11cbAQnGEm5fUIZajPn/MU06X8V9zEP11cbAQnGEm5fUIZajPn.png",
     "img_url": "https://firebasestorage.googleapis.com/v0/b/brewfather-app.appspot.com/o/users%2FiPD6GM7QMGbK1uTM33gRwN6czDG3%2Fimages%2Frecipes%2FMU06X8V9zEP11cbAQnGEm5fUIZajPn%2FMU06X8V9zEP11cbAQnGEm5fUIZajPn.png?alt=media",
-    "manualFg": true,
+    "manualFg": false,
     "mash": {
       "_created": {
         "_nanoseconds": 895000000,
@@ -9734,31 +9743,30 @@
       },
       {
         "_created": {
-          "_nanoseconds": 538000000,
-          "_seconds": 1697269076
+          "_nanoseconds": 320000000,
+          "_seconds": 1787845020
         },
-        "_id": "default-90c63c",
-        "_rev": "UuCzoDs2igKSNb78ZPk2m6iGVQT4Eo",
+        "_id": "FxymQbqWfYaVaT8ypqgApwGcTjOAXm",
+        "_rev": "8ohTm584SLfO1z9IbILXf1d0nQqtl4",
         "_timestamp": {
-          "_nanoseconds": 76000000,
-          "_seconds": 1723974355
+          "_nanoseconds": 14000000,
+          "_seconds": 1788116824
         },
-        "_timestamp_ms": 1723974355076,
-        "_version": "2.10.6",
+        "_timestamp_ms": 1788116824014,
+        "_version": "3.0.1",
         "amount": 1,
         "amountPerL": null,
         "bestBeforeDate": null,
         "hidden": false,
-        "inventory": -15,
+        "inventory": 47.4,
         "manufacturingDate": null,
-        "name": "Gelatin",
+        "name": "ISY Enhabce",
         "notes": "",
         "substitutes": "",
-        "time": null,
-        "timeIsDays": true,
-        "type": "Fining",
-        "unit": "ml",
-        "use": "Secondary",
+        "time": 0,
+        "type": "Other",
+        "unit": "g",
+        "use": "Boil",
         "useFor": "",
         "userNotes": ""
       }
@@ -9767,13 +9775,13 @@
     "notes": "Changes for second batch affected in recipe - \n\nDrop melanoiden. \n\nDrop IBUs to 24\n\nReduce saaz late hops. \n\nMash at 65. \n\nLowered PH. \n\nLowered chloride. But lean malty. ",
     "nutrition": {
       "calories": {
-        "alcohol": 28.342646678687984,
-        "carbs": 15.714758401685378,
-        "kJ": 184.33618285628216,
-        "total": 44.057405080373364
+        "alcohol": 30.45760336194851,
+        "carbs": 13.194869447320798,
+        "kJ": 182.64194623398282,
+        "total": 43.65247280926931
       },
       "carbs": {
-        "total": 3.961688331193586
+        "total": 3.3194896481680525
       }
     },
     "og": 1.047547709,
@@ -9782,7 +9790,7 @@
     "postBoilGravity": 1.047547709,
     "preBoilGravity": 1.04,
     "primaryTemp": 12,
-    "rbRatio": 0.53,
+    "rbRatio": 0.56,
     "searchTags": [],
     "style": {
       "_id": "default-5",
@@ -9815,17 +9823,18 @@
     "styleBuGu": true,
     "styleCarb": false,
     "styleColor": true,
-    "styleConformity": true,
-    "styleFg": true,
+    "styleConformity": false,
+    "styleFg": false,
     "styleIbu": true,
     "styleOg": true,
-    "styleRbr": true,
+    "styleRbr": false,
     "sumAromaHopPerLiter": 0,
     "sumDryHopPerLiter": 0,
     "tags": null,
     "thumb": "data:image/jpeg;base64,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",
     "totalGravity": 1.047547709,
     "type": "All Grain",
+    "updatedBy": "user",
     "water": {
       "acidPhAdjustment": -0.1811,
       "diluted": null,
@@ -10097,34 +10106,34 @@
     "yeasts": [
       {
         "_created": {
-          "_nanoseconds": 592000000,
-          "_seconds": 1714216069
+          "_nanoseconds": 640000000,
+          "_seconds": 1775809389
         },
-        "_id": "default-51d6d6",
-        "_rev": "EQoOb275xeGHoJJIjjGsUWYLSjWwRD",
+        "_id": "default-CXQrkdu4oQc6aNLKctrnvpf05s3aKZ",
+        "_rev": "sygWkeOaDxyFuhHuYUsFOB95taxbvR",
         "_timestamp": {
-          "_nanoseconds": 986000000,
-          "_seconds": 1723974355
+          "_nanoseconds": 640000000,
+          "_seconds": 1775809389
         },
-        "_timestamp_ms": 1723974355986,
-        "_version": "2.10.6",
+        "_timestamp_ms": 1775809389640,
+        "_version": "3.0.0",
         "amount": 2,
         "attenuation": 80,
-        "bestBeforeDate": null,
-        "description": "",
+        "bestBeforeDate": 1835301600000,
+        "description": "A German Lager yeast that has it characterized by a clean profile, low ester formation during\nfermentation and medium sulphur production. A good bottom fermenting yeast strain for cold\nfermentation A great choice for all lager styles.",
         "fermentsAll": false,
-        "flocculation": "High",
+        "flocculation": "Low",
         "form": "Dry",
         "hidden": false,
-        "inventory": -6,
-        "laboratory": "Lallemand (LalBrew)",
+        "inventory": 2,
+        "laboratory": "WHC Lab",
         "manufacturingDate": null,
-        "maxAbv": 13,
-        "maxAttenuation": null,
-        "maxTemp": 15,
-        "minAttenuation": null,
-        "minTemp": 10,
-        "name": "Diamond Lager",
+        "maxAbv": 12,
+        "maxAttenuation": 80,
+        "maxTemp": 16,
+        "minAttenuation": 76,
+        "minTemp": 9,
+        "name": "Einstein",
         "productId": "",
         "type": "Lager",
         "unit": "pkg",

@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-10-20 09:08
+# Brewfather Recipes - Clean Readable Master - updated 2026-10-21 09:01
 
 Total recipes: 25
 
@@ -491,8 +491,8 @@ Add 200 grams extra base malt to hit the mumbers. Was at its best at 30 days in 
 
 ### Targets
 - OG: 1.048
-- FG: 1.009
-- ABV: 5.12%
+- FG: 1.006
+- ABV: 5.51%
 - IBU: 24.4
 - Color EBC: 3.5
 - Batch size L: 12
@@ -506,13 +506,13 @@ Add 200 grams extra base malt to hit the mumbers. Was at its best at 30 days in 
   - 20 g Hallertauer Mittelfrueh - Boil, 15 min, 4% AA, 7.1 IBU
 
 ### Yeast
-  - 2 pkg Lallemand (LalBrew) Diamond Lager - 10–15 °C; 80% attenuation
+  - 2 pkg WHC Lab Einstein - 9–16 °C; 80% attenuation
 
 ### Miscellaneous
   - 2.5 g Calcium Chloride (CaCl2) - Mash, Water Agent
   - 2 g Gypsum (CaSO4) - Mash, Water Agent
   - 2 ml Lactic Acid - Mash, Water Agent
-  - 1 ml Gelatin - Secondary, Fining
+  - 1 g ISY Enhabce - Boil, Other, 0 min
 
 ### Mash profile
 - Profile: High fermentability plus mash out
