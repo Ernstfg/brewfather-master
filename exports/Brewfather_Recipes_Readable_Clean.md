@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-10-22 09:03
+# Brewfather Recipes - Clean Readable Master - updated 2026-10-23 08:55
 
 Total recipes: 25
 
@@ -490,19 +490,20 @@ Add 200 grams extra base malt to hit the mumbers. Was at its best at 30 days in 
 - Created: 2026-01-22
 
 ### Targets
-- OG: 1.048
-- FG: 1.006
-- ABV: 5.51%
-- IBU: 24.4
-- Color EBC: 3.5
+- OG: 1.047
+- FG: 1.007
+- ABV: 5.25%
+- IBU: 24.6
+- Color EBC: 4.1
 - Batch size L: 12
 - Boil size L: 17.5
 
 ### Fermentables
-  - 3 kg Swaen Pilsner (100%, The Swaen, 1.9 EBC)
+  - 2.5 kg Swaen Pilsner (83.33%, The Swaen, 1.9 EBC)
+  - 0.5 kg Swaen Vienna (16.67%, The Swaen, 5.1 EBC)
 
 ### Hops
-  - 15 g Hallertau Perle - Boil, 60 min, 6.5% AA, 17.3 IBU
+  - 15 g Hallertau Perle - Boil, 60 min, 6.5% AA, 17.5 IBU
   - 20 g Hallertauer Mittelfrueh - Boil, 15 min, 4% AA, 7.1 IBU
 
 ### Yeast
@@ -529,7 +530,7 @@ Add 200 grams extra base malt to hit the mumbers. Was at its best at 30 days in 
 - Profile: Cape Aqua
 - Ca 60.15, Mg 0.2, Na 0.3, Cl 69.1, SO4 59.39, HCO3 0
 - SO4/Cl ratio: 0.86
-- Target mash pH: 5.4
+- Target mash pH: 5.38
 
 ### Notes
 Changes for second batch affected in recipe - 
