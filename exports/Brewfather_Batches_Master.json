@@ -7,14 +7,14 @@
     },
     "_id": "taTspfM9pXIzsk2cOfeqU4RnqKrjd8",
     "_init": true,
-    "_rev": "bhlK8FFV49S16nqLVPol7wQSogAoPa",
+    "_rev": "3wOw5ODZ92fSeRcGpsTfQmoRLXL76V",
     "_timestamp": {
-      "_nanoseconds": 282000000,
-      "_seconds": 1792381351
+      "_nanoseconds": 864000000,
+      "_seconds": 1792755413
     },
-    "_timestamp_ms": 1792381351282,
+    "_timestamp_ms": 1792755413864,
     "_type": "batch",
-    "_version": "3.1.1",
+    "_version": "3.1.5",
     "batchFermentables": [
       {
         "_created": {
@@ -1890,14 +1890,14 @@
     },
     "_id": "ObBbFbR3SLHV2wXMLooOGtSBjdQPui",
     "_init": true,
-    "_rev": "mzbOUQ4R72OoN14bV3jaipAP6eg2xj",
+    "_rev": "zNQZY8VVc4ANY3NjESO4CXUZzhiW12",
     "_timestamp": {
-      "_nanoseconds": 352000000,
-      "_seconds": 1792381341
+      "_nanoseconds": 890000000,
+      "_seconds": 1792755422
     },
-    "_timestamp_ms": 1792381341352,
+    "_timestamp_ms": 1792755422890,
     "_type": "batch",
-    "_version": "3.1.1",
+    "_version": "3.1.5",
     "batchFermentables": [
       {
         "_created": {
