@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-10-28 09:53
+# Brewfather Recipes - Clean Readable Master - updated 2026-10-29 09:59
 
 Total recipes: 26
 
@@ -510,9 +510,9 @@ Add 200 grams extra base malt to hit the mumbers. Was at its best at 30 days in 
   - 2 pkg WHC Lab Einstein - 9–16 °C; 80% attenuation
 
 ### Miscellaneous
-  - 2.5 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
   - 2 g Gypsum (CaSO4) - Mash, Water Agent
-  - 2 ml Lactic Acid - Mash, Water Agent
+  - 2.5 ml Lactic Acid - Mash, Water Agent
   - 1 g ISY Enhabce - Boil, Other, 0 min
 
 ### Mash profile
@@ -522,15 +522,15 @@ Add 200 grams extra base malt to hit the mumbers. Was at its best at 30 days in 
 
 ### Fermentation profile
 - Profile: Lager (Quick Method)
-  - Primary: 12 °C for 6 days
+  - Primary: 10 °C for 8 days
   - Primary: 16 °C for 6 days
-  - Cold Crash: 5 °C for 5 days
+  - Cold Crash: 2 °C for 3 days
 
 ### Water profile
 - Profile: Cape Aqua
-- Ca 60.15, Mg 0.2, Na 0.3, Cl 69.1, SO4 59.39, HCO3 0
-- SO4/Cl ratio: 0.86
-- Target mash pH: 5.38
+- Ca 67.24, Mg 0.2, Na 0.3, Cl 81.66, SO4 59.39, HCO3 0
+- SO4/Cl ratio: 0.73
+- Target mash pH: 5.32
 
 ### Notes
 Changes for second batch affected in recipe - 

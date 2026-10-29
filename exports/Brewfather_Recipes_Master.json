@@ -9288,8 +9288,8 @@
   {
     "_app": {
       "timestamp": {
-        "_nanoseconds": 198000000,
-        "_seconds": 1792555956
+        "_nanoseconds": 199000000,
+        "_seconds": 1793247348
       },
       "version": "1.0.0"
     },
@@ -9300,15 +9300,16 @@
     "_ev": 2,
     "_id": "MU06X8V9zEP11cbAQnGEm5fUIZajPn",
     "_init": true,
-    "_rev": "tNzx8hAT5OfMkgh4k0fYmUsrH8hNxl",
+    "_ref": "tNzx8hAT5OfMkgh4k0fYmUsrH8hNxl",
+    "_rev": "C9xvpZ2JKDL7v8ywaDufYMNJHithwc",
     "_timestamp": {
-      "_nanoseconds": 100000000,
-      "_seconds": 1792697949
+      "_nanoseconds": 724000000,
+      "_seconds": 1793247673
     },
-    "_timestamp_ms": 1792697949100,
+    "_timestamp_ms": 1793247673724,
     "_type": "recipe",
     "_uid": "iPD6GM7QMGbK1uTM33gRwN6czDG3",
-    "_version": "3.1.5",
+    "_version": "3.1.6",
     "_versionId": "R853TnLnbXYktSNEcGsLEEwCxLY36Z",
     "_versionNumber": 2,
     "abv": 5.25,
@@ -9593,11 +9594,11 @@
       "steps": [
         {
           "displayPressure": null,
-          "displayStepTemp": 12,
+          "displayStepTemp": 10,
           "pressure": null,
           "ramp": null,
-          "stepTemp": 12,
-          "stepTime": 6,
+          "stepTemp": 10,
+          "stepTime": 8,
           "type": "Primary"
         },
         {
@@ -9611,11 +9612,11 @@
         },
         {
           "displayPressure": null,
-          "displayStepTemp": 5,
+          "displayStepTemp": 2,
           "pressure": null,
           "ramp": null,
-          "stepTemp": 5,
-          "stepTime": 5,
+          "stepTemp": 2,
+          "stepTime": 3,
           "type": "Cold Crash"
         }
       ]
@@ -9751,23 +9752,30 @@
           "_seconds": 1699176797
         },
         "_id": "default-3b1827",
-        "_rev": "tRIJHPH0GJDvX68lIylAwbxCHqdx60",
+        "_rev": "xD9x1qmhYt1snySGFEG5hYH8K6gljD",
         "_timestamp": {
-          "_nanoseconds": 930000000,
-          "_seconds": 1704369575
+          "_nanoseconds": 647000000,
+          "_seconds": 1789895044
         },
-        "_timestamp_ms": 1704369575930,
-        "_version": "2.10.4",
-        "amount": 2.5,
+        "_timestamp_ms": 1789895044647,
+        "_version": "3.1.0",
+        "amount": 3,
+        "amountPerL": null,
+        "bestBeforeDate": null,
         "concentration": null,
         "hidden": false,
-        "inventory": 0,
+        "inventory": 32.5,
+        "manufacturingDate": null,
         "name": "Calcium Chloride (CaCl2)",
+        "notes": "",
+        "substitutes": "",
         "time": null,
         "timeIsDays": false,
         "type": "Water Agent",
         "unit": "g",
         "use": "Mash",
+        "useFor": "",
+        "userNotes": "",
         "waterAdjustment": true
       },
       {
@@ -9776,18 +9784,18 @@
           "_seconds": 1699176796
         },
         "_id": "default-1f88df",
-        "_rev": "lcvTqdMfO6NPRj6JBJoHMhZuaJN2Fj",
+        "_rev": "gPQRHI0XC908S70pJd3aPLDlxNrL00",
         "_timestamp": {
-          "_nanoseconds": 428000000,
-          "_seconds": 1772634485
+          "_nanoseconds": 309000000,
+          "_seconds": 1789895044
         },
-        "_timestamp_ms": 1772634485428,
-        "_version": "2.20.2",
+        "_timestamp_ms": 1789895044309,
+        "_version": "3.1.0",
         "amount": 2,
         "amountPerL": null,
         "bestBeforeDate": null,
         "hidden": false,
-        "inventory": 0,
+        "inventory": 929.5,
         "manufacturingDate": null,
         "name": "Gypsum (CaSO4)",
         "notes": "",
@@ -9807,19 +9815,19 @@
           "_seconds": 1706434207
         },
         "_id": "default-07adb1",
-        "_rev": "eIuDGEasVf2TMzwhyNhxT2RGDDKeIc",
+        "_rev": "1f3RTpuz73jj4GfdSrqo9SZDV92mBR",
         "_timestamp": {
-          "_nanoseconds": 497000000,
-          "_seconds": 1772634487
+          "_nanoseconds": 34000000,
+          "_seconds": 1789895045
         },
-        "_timestamp_ms": 1772634487497,
-        "_version": "2.20.2",
-        "amount": 2,
+        "_timestamp_ms": 1789895045034,
+        "_version": "3.1.0",
+        "amount": 2.5,
         "amountPerL": null,
         "bestBeforeDate": null,
         "concentration": 80,
         "hidden": false,
-        "inventory": 0,
+        "inventory": 334,
         "manufacturingDate": null,
         "name": "Lactic Acid",
         "notes": "",
@@ -9881,7 +9889,7 @@
     "path": "/International Pale Lager/",
     "postBoilGravity": 1.047349593,
     "preBoilGravity": 1.039,
-    "primaryTemp": 12,
+    "primaryTemp": 10,
     "rbRatio": 0.56,
     "searchTags": [],
     "style": {
@@ -9928,7 +9936,7 @@
     "type": "All Grain",
     "updatedBy": "user",
     "water": {
-      "acidPhAdjustment": -0.1811,
+      "acidPhAdjustment": -0.22638,
       "diluted": null,
       "dilutionAmount": 0,
       "dilutionPercentage": null,
@@ -9949,22 +9957,22 @@
         "_timestamp_ms": 1750062124062,
         "_version": "2.11.6",
         "alkalinity": 0,
-        "anions": 3.186,
+        "anions": 3.54,
         "bicarbonate": 0,
         "bicarbonateMeqL": 0,
-        "calcium": 60.145,
-        "cations": 3.031,
-        "chloride": 69.099,
-        "hardness": 151,
+        "calcium": 67.244,
+        "cations": 3.385,
+        "chloride": 81.659,
+        "hardness": 169,
         "hidden": false,
         "ionBalance": -1,
         "ionBalanceOff": true,
         "magnesium": 0.2,
         "name": "Cape Aqua",
         "ph": 5.25,
-        "residualAlkalinity": -43.07915,
-        "residualAlkalinityMeqLCalc": -1.07487,
-        "soClRatio": 0.86,
+        "residualAlkalinity": -48.14997,
+        "residualAlkalinityMeqLCalc": -1.20139,
+        "soClRatio": 0.73,
         "sodium": 0.3,
         "sulfate": 59.394,
         "type": "source"
@@ -9972,9 +9980,9 @@
       "mashAdjustments": {
         "acids": [
           {
-            "alkalinityMeqL": -1.4304954304954305,
-            "amount": 2,
-            "bicarbonate": -87.28310918710919,
+            "alkalinityMeqL": -1.7881192881192882,
+            "amount": 2.5,
+            "bicarbonate": -109.10388648388648,
             "chloride": 0,
             "concentration": 80,
             "sulfate": 0,
@@ -9983,12 +9991,12 @@
           }
         ],
         "bicarbonate": 0,
-        "calcium": 59.745,
+        "calcium": 66.844,
         "calciumCarbonate": 0,
-        "calciumChloride": 2.5,
+        "calciumChloride": 3,
         "calciumHydroxide": 0,
         "calciumSulfate": 2,
-        "chloride": 62.799,
+        "chloride": 75.359,
         "ltAMS": 0,
         "ltDWB": 0,
         "magnesium": 0,
@@ -10003,7 +10011,7 @@
         "sulfate": 58.094,
         "volume": 19.2
       },
-      "mashPh": 5.38,
+      "mashPh": 5.32,
       "mashPhDistilled": 5.7,
       "mashTargetDiff": null,
       "mashWaterAmount": null,
@@ -10149,22 +10157,22 @@
         "_timestamp_ms": 1750062124062,
         "_version": "2.11.6",
         "alkalinity": 0,
-        "anions": 3.186,
+        "anions": 3.54,
         "bicarbonate": 0,
         "bicarbonateMeqL": 0,
-        "calcium": 60.145,
-        "cations": 3.031,
-        "chloride": 69.099,
-        "hardness": 151,
+        "calcium": 67.244,
+        "cations": 3.385,
+        "chloride": 81.659,
+        "hardness": 169,
         "hidden": false,
         "ionBalance": -1,
         "ionBalanceOff": true,
         "magnesium": 0.2,
         "name": "Cape Aqua",
         "ph": 5.25,
-        "residualAlkalinity": -43.07915,
-        "residualAlkalinityMeqLCalc": -1.07487,
-        "soClRatio": 0.86,
+        "residualAlkalinity": -48.14997,
+        "residualAlkalinityMeqLCalc": -1.20139,
+        "soClRatio": 0.73,
         "sodium": 0.3,
         "sulfate": 59.394,
         "type": "source"
@@ -10172,9 +10180,9 @@
       "totalAdjustments": {
         "acids": [
           {
-            "alkalinityMeqL": -1.4013016461996053,
-            "amount": 2,
-            "bicarbonate": -85.50182124451511,
+            "alkalinityMeqL": -1.7881192881192882,
+            "amount": 2.5,
+            "bicarbonate": -109.10388648388648,
             "chloride": 0,
             "concentration": 80,
             "sulfate": 0,
@@ -10183,12 +10191,12 @@
           }
         ],
         "bicarbonate": 0,
-        "calcium": 59.745,
+        "calcium": 66.844,
         "calciumCarbonate": 0,
-        "calciumChloride": 2.5,
+        "calciumChloride": 3,
         "calciumHydroxide": 0,
         "calciumSulfate": 2,
-        "chloride": 62.799,
+        "chloride": 75.359,
         "ltAMS": 0,
         "ltDWB": 0,
         "magnesium": 0,
