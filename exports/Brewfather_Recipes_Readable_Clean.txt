@@ -1,4 +1,4 @@
-Brewfather Recipes - Clean Readable Master - updated 2026-11-01 10:40
+Brewfather Recipes - Clean Readable Master - updated 2026-11-02 10:51
 ======================================================================
 
 Total recipes: 26
@@ -1122,27 +1122,26 @@ Created: 2024-11-29
 
 Targets
 --------------------
-OG: 1.048
-FG: 1.011
+OG: 1.049
+FG: 1.012
 ABV: 4.86%
-IBU: 26.5
-Color EBC: 23.7
+IBU: 23.3
+Color EBC: 23.9
 Batch size L: 12
 Boil size L: 18
 
 Fermentables
 --------------------
-  - 2 kg Swaen Pilsner (62.5%, The Swaen, 1.9 EBC)
-  - 0.6 kg Swaen Munich Light (18.75%, The Swaen, 6.6 EBC)
-  - 0.3 kg Swaen Vienna (9.37%, The Swaen, 5.1 EBC)
-  - 0.2 kg Carafa Special II (6.25%, Weyermann, 558.376 EBC)
-  - 0.1 kg GoldSwaen Classic (3.13%, The Swaen, 61 EBC)
+  - 2 kg Swaen Pilsner (60.61%, The Swaen, 1.9 EBC)
+  - 1 kg Swaen Munich Light (30.3%, The Swaen, 6.6 EBC)
+  - 0.2 kg Carafa Special II (6.06%, Weyermann, 558.376 EBC)
+  - 0.1 kg GoldSwaen Classic (3.03%, The Swaen, 61 EBC)
 
 Hops
 --------------------
-  - 20 g Hallertau Perle - Boil, 60 min, 6.3% AA, 21.9 IBU
-  - 10 g Hallertauer Mittelfrueh - Boil, 10 min, 3.2% AA, 2.5 IBU
-  - 30 g Hallertauer Mittelfrueh - Aroma, 20 min, 80 °C, 3.2% AA, 2.1 IBU
+  - 15 g Hallertau Perle - Boil, 60 min, 6.3% AA, 16.4 IBU
+  - 15 g Hallertauer Mittelfrueh - Boil, 10 min, 3.2% AA, 4 IBU
+  - 30 g Hallertauer Mittelfrueh - Aroma, 5 min, 99 °C, 3.2% AA, 2.9 IBU
 
 Yeast
 --------------------
@@ -1150,7 +1149,7 @@ Yeast
 
 Miscellaneous
 --------------------
-  - 2.5 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
   - 2 g Gypsum (CaSO4) - Mash, Water Agent
   - 1.5 ml Lactic Acid - Mash, Water Agent
   - 1 g Yeast Nutrients - Boil, Other, 15 min
@@ -1172,9 +1171,9 @@ Fermentation profile
 Water profile
 --------------------
   Profile: spar spring
-  Ca 60.77, Mg 0.2, Na 3.3, Cl 69.76, SO4 62.1, HCO3 3.4
-  SO4/Cl ratio: 0.89
-  Target mash pH: 5.3
+  Ca 67.95, Mg 0.2, Na 3.3, Cl 82.45, SO4 62.1, HCO3 3.4
+  SO4/Cl ratio: 0.75
+  Target mash pH: 5.29
 
 
 ==========================================================================================
