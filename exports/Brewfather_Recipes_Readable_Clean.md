@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-11-03 10:58
+# Brewfather Recipes - Clean Readable Master - updated 2026-11-04 10:35
 
 Total recipes: 26
 
