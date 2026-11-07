@@ -1,4 +1,4 @@
-Brewfather Recipes - Clean Readable Master - updated 2026-11-06 10:54
+Brewfather Recipes - Clean Readable Master - updated 2026-11-07 10:17
 ======================================================================
 
 Total recipes: 26
@@ -1714,24 +1714,26 @@ Created: 2026-08-25
 Targets
 --------------------
 OG: 1.047
-FG: 1.007
-ABV: 5.25%
-IBU: 19.7
+FG: 1.008
+ABV: 5.12%
+IBU: 19.8
 Color EBC: 4.8
 Batch size L: 12
 Boil size L: 18.6
 
 Fermentables
 --------------------
-  - 3 kg Swaen Pilsner (94.94%, The Swaen, 1.9 EBC)
+  - 2.7 kg Swaen Pilsner (85.44%, The Swaen, 1.9 EBC)
+  - 0.3 kg Dextrin Malt (9.49%, Crisp, 1.523 EBC)
   - 0.1 kg Torrefied Wheat (3.16%, Crisp, 2.538 EBC)
   - 0.06 kg GoldSwaen Classic (1.9%, The Swaen, 61 EBC)
 
 Hops
 --------------------
-  - 10 g Hallertau Perle - Boil, 60 min, 6.3% AA, 11.2 IBU
-  - 20 g Kazbek - Boil, 5 min, 5% AA, 5.1 IBU
-  - 30 g Kazbek - Aroma, 20 min, 80 °C, 5% AA, 3.4 IBU
+  - 10 g Hallertau Perle - Boil, 60 min, 6.3% AA, 11.1 IBU
+  - 5 g Hallertau Perle - Boil, 30 min, 6.3% AA, 4.3 IBU
+  - 20 g Kazbek - Aroma, 25 min, 80 °C, 5% AA, 2.6 IBU
+  - 30 g Kazbek - Aroma, 20 min, 72 °C, 5% AA, 1.8 IBU
 
 Yeast
 --------------------
@@ -1748,9 +1750,8 @@ Miscellaneous
 
 Mash profile
 --------------------
-  Profile: High fermentability plus mash out
-  - Temperature: 66 °C for 60 min
-  - Mash Out: 78 °C for 10 min
+  Profile: Medium fermentability
+  - Temperature: 68 °C for 60 min
 
 Fermentation profile
 --------------------
