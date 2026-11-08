@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-11-07 10:17
+# Brewfather Recipes - Clean Readable Master - updated 2026-11-08 10:33
 
 Total recipes: 26
 
@@ -1442,15 +1442,15 @@ Not sure of the app's fg of 1.006 is realistic
 - FG: 1.008
 - ABV: 5.12%
 - IBU: 19.8
-- Color EBC: 4.8
+- Color EBC: 5.2
 - Batch size L: 12
 - Boil size L: 18.6
 
 ### Fermentables
-  - 2.7 kg Swaen Pilsner (85.44%, The Swaen, 1.9 EBC)
-  - 0.3 kg Dextrin Malt (9.49%, Crisp, 1.523 EBC)
-  - 0.1 kg Torrefied Wheat (3.16%, Crisp, 2.538 EBC)
-  - 0.06 kg GoldSwaen Classic (1.9%, The Swaen, 61 EBC)
+  - 2.7 kg Swaen Pilsner (84.91%, The Swaen, 1.9 EBC)
+  - 0.3 kg Dextrin Malt (9.43%, Crisp, 1.523 EBC)
+  - 0.1 kg Torrefied Wheat (3.14%, Crisp, 2.538 EBC)
+  - 0.08 kg GoldSwaen Classic (2.52%, The Swaen, 61 EBC)
 
 ### Hops
   - 10 g Hallertau Perle - Boil, 60 min, 6.3% AA, 11.1 IBU
@@ -1462,7 +1462,7 @@ Not sure of the app's fg of 1.006 is realistic
   - 1 pkg WHC Lab Electrifyingly Clean Thermotolerant (High Voltage) - 31–35 °C; 80% attenuation; Notes: Use 9 grams.
 
 ### Miscellaneous
-  - 2 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 1.5 g Calcium Chloride (CaCl2) - Mash, Water Agent
   - 2.5 g Gypsum (CaSO4) - Mash, Water Agent
   - 2.5 ml Lactic Acid - Mash, Water Agent
   - 2 g ISY Enhabce - Boil, Other, 10 min
@@ -1479,10 +1479,10 @@ Not sure of the app's fg of 1.006 is realistic
   - crash: 2 °C for 3 days
 
 ### Water profile
-- Profile: Cape Aqua
-- Ca 55.71, Mg 0.2, Na 0.3, Cl 53.63, SO4 69.71, HCO3 0
-- SO4/Cl ratio: 1.3
-- Target mash pH: 5.37
+- Profile: checkers blend
+- Ca 67.87, Mg 7.4, Na 21.4, Cl 70.41, SO4 77.35, HCO3 54.96
+- SO4/Cl ratio: 1.1
+- Target mash pH: 5.44
 
 
 ## Old English Summer Stout
