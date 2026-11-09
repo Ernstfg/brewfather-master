@@ -1,6 +1,94 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-11-08 10:33
+# Brewfather Batches - Clean Readable Master - updated 2026-11-09 11:03
 
-Total batches: 44
+Total batches: 45
+
+## Batch #50 - Kalahari blond
+
+### Overview
+- Status: Fermenting
+- Style: Blonde Ale
+- Type: All Grain
+- Brewer: Ernst Gouws
+- Brew date: 2026-11-08
+- Fermentation start: 2026-11-08
+- Kegging / bottling date: 2026-11-14
+
+### Targets vs actuals
+| Item | Target | Actual |
+|---|---:|---:|
+| OG | 1.049 | 1.044 |
+| FG | 1.008 |  |
+| ABV % | 5.38 | 4.9 |
+| IBU | 19.3 | 20 |
+| Colour EBC | 5.3 | 5.4 |
+| Pre-boil gravity | 1.040 | 1.040 |
+| Post-boil gravity | 1.049 |  |
+| Mash pH | 5.44 | 5.5 |
+| Batch size L | 12 | 13 |
+| Boil size L | 18.6 | 19 |
+| Kegged / bottling volume L | 10 |  |
+| Brewhouse efficiency % | 57.9 | 56.64 |
+| Mash efficiency % | 70 | 71.51 |
+| Measured attenuation % |  | 83.6 |
+
+### Equipment / volumes
+- Equipment profile: 12 liter setup (clear transfer)
+- Sparge formula: 0
+- Boil-off per hour L: 3.5
+- Fermenter loss L: 2
+- Trub/chiller loss L: 2.5
+
+### Fermentables
+  - 2.8 kg Swaen Pilsner (85.37%, The Swaen, 1.9 EBC)
+  - 0.3 kg Dextrin Malt (9.15%, Crisp, 1.523 EBC)
+  - 0.1 kg Torrefied Wheat (3.05%, Crisp, 2.538 EBC)
+  - 0.08 kg GoldSwaen Classic (2.44%, The Swaen, 61 EBC)
+
+### Hops
+  - 10 g Hallertau Perle - Boil, 60 min, 6.3% AA, 10.9 IBU
+  - 5 g Hallertau Perle - Boil, 30 min, 6.3% AA, 4.2 IBU
+  - 20 g Kazbek - Aroma, 25 min, 80 °C, 5% AA, 2.5 IBU
+  - 30 g Kazbek - Aroma, 20 min, 72 °C, 5% AA, 1.7 IBU
+
+### Yeast
+  - 1 pkg WHC Lab Electrifyingly Clean Thermotolerant (High Voltage) - 31–35 °C; 80% attenuation; Notes: Use 9 grams.
+
+### Miscellaneous / water agents / finings
+  - 1.5 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2.5 g Gypsum (CaSO4) - Mash, Water Agent
+  - 2.5 ml Lactic Acid - Mash, Water Agent
+  - 2 g ISY Enhabce - Boil, Other, 10 min
+  - 5 g Irish Moss - Boil, Fining, 10 min
+  - 2 g Yeast Nutrient (WLN1000) - Boil, Other, 10 min
+
+### Mash profile
+- Profile: Medium fermentability
+  - Temperature: 67 °C for 60 min
+
+### Fermentation profile
+- Profile: Ale
+  - Primary: 32 °C for 3 days
+  - crash: 2 °C for 3 days
+
+### Water profile
+- Profile: checkers blend
+- Ca 67.68, Mg 7.4, Na 21.4, Cl 70.28, SO4 77.08, HCO3 54.96
+- SO4/Cl ratio: 1.1
+- Target mash pH: 5.44
+
+### Batch notes
+First time using maltpipe / digimash. Overshot preboil gravity with 3-4 points. Did do a finer mash. Not sure if the maltpipe had an effect. 
+
+Added 1 liter water to get preboil gravity of 19 liter. 
+Looking at the actuals u think somewhere a reading were off.
+
+### Taste
+- Rating: 0
+
+### Batch log / status notes
+  - 2026-11-08 17:00 Planning: Pitched 8grams yeast at 31.2 dc.
+  - 2026-11-08 17:35 Fermenting (statusChanged)
+
 
 ## Batch #49 - Kalahari blond
 

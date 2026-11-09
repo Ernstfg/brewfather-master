@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-11-08 10:33
+# Brewfather Recipes - Clean Readable Master - updated 2026-11-09 11:03
 
 Total recipes: 26
 
@@ -491,16 +491,17 @@ Add 200 grams extra base malt to hit the mumbers. Was at its best at 30 days in 
 
 ### Targets
 - OG: 1.047
-- FG: 1.007
-- ABV: 5.25%
+- FG: 1.008
+- ABV: 5.12%
 - IBU: 24.6
 - Color EBC: 4.1
 - Batch size L: 12
 - Boil size L: 17.5
 
 ### Fermentables
-  - 2.5 kg Swaen Pilsner (83.33%, The Swaen, 1.9 EBC)
+  - 2.4 kg Swaen Pilsner (80%, The Swaen, 1.9 EBC)
   - 0.5 kg Swaen Vienna (16.67%, The Swaen, 5.1 EBC)
+  - 0.1 kg Dextrin Malt (3.33%, Crisp, 1.523 EBC)
 
 ### Hops
   - 15 g Hallertau Perle - Boil, 60 min, 6.5% AA, 17.5 IBU
@@ -517,7 +518,7 @@ Add 200 grams extra base malt to hit the mumbers. Was at its best at 30 days in 
 
 ### Mash profile
 - Profile: High fermentability plus mash out
-  - Temperature: 65 °C for 60 min
+  - Temperature: 66 °C for 60 min
   - Mash Out: 78 °C for 10 min
 
 ### Fermentation profile
