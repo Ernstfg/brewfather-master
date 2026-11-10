@@ -2,17 +2,17 @@
   {
     "_archived": false,
     "_created": {
-      "_nanoseconds": 695000000,
-      "_seconds": 1794144102
+      "_nanoseconds": 561000000,
+      "_seconds": 1794285956
     },
     "_id": "6MctqbomG2ccYOSWiO6NlutsSfXt8S",
     "_init": true,
-    "_rev": "YKTJIkcTcQZAbUbsUZOTTN2NJUcUEh",
+    "_rev": "BzWEgjYHVfvC5ggXGcSNk3dylJvoue",
     "_timestamp": {
-      "_nanoseconds": 810000000,
-      "_seconds": 1794153788
+      "_nanoseconds": 649000000,
+      "_seconds": 1794286054
     },
-    "_timestamp_ms": 1794153788810,
+    "_timestamp_ms": 1794286054649,
     "_type": "batch",
     "_version": "3.1.6",
     "batchFermentables": [
@@ -556,7 +556,7 @@
     ],
     "batchMiscsLocal": [],
     "batchNo": 50,
-    "batchNotes": "First time using maltpipe / digimash. Overshot preboil gravity with 3-4 points. Did do a finer mash. Not sure if the maltpipe had an effect. \n\nAdded 1 liter water to get preboil gravity of 19 liter. \nLooking at the actuals u think somewhere a reading were off. ",
+    "batchNotes": "First time using maltpipe / digimash. Overshot preboil gravity with 3-4 points. Did do a finer mash. Not sure if the maltpipe had an effect. \n\nAdded 1 liter water to get preboil gravity of 19 liter. \nLooking at the actuals u think somewhere a reading were off. \n\nSG post boil reading was probably wrong as it appeared way off especially given preboil gravity was 4 points over. Made adjustments to actuals to match recipe. ",
     "batchYeasts": [
       {
         "_created": {
@@ -693,13 +693,13 @@
         "temp": true
       }
     },
-    "estimatedBuGuRatio": 0.46,
+    "estimatedBuGuRatio": 0.41,
     "estimatedColor": 5.4,
     "estimatedFg": 1.007,
     "estimatedIbu": 20,
-    "estimatedOg": 1.044,
-    "estimatedRbRatio": 0.49,
-    "estimatedTotalGravity": 1.044,
+    "estimatedOg": 1.049,
+    "estimatedRbRatio": 0.45,
+    "estimatedTotalGravity": 1.049,
     "events": [
       {
         "active": false,
@@ -755,18 +755,19 @@
     "hidden": false,
     "hideBatchEvents": true,
     "mashStepsCount": 1,
-    "measuredAbv": 4.9,
-    "measuredAttenuation": 83.6,
+    "measuredAbv": 5.5,
+    "measuredAttenuation": 85.2,
     "measuredBatchSize": 13,
     "measuredBoilSize": 19,
     "measuredConversionEfficiency": null,
-    "measuredEfficiency": 56.64,
+    "measuredEfficiency": 63.07,
     "measuredFermenterTopUp": 0,
-    "measuredKettleEfficiency": 55.97,
+    "measuredKettleEfficiency": 56.28,
     "measuredKettleSize": 14.6,
     "measuredMashEfficiency": 71.51,
     "measuredMashPh": 5.5,
-    "measuredOg": 1.044,
+    "measuredOg": 1.049,
+    "measuredPostBoilGravity": 1.049,
     "measuredPreBoilGravity": 1.04,
     "measurements": [],
     "name": "Batch",
@@ -801,12 +802,12 @@
       "_init": true,
       "_public": false,
       "_ref": "rit11BoCdJyLREAZUqzQ1juoOi8wcy",
-      "_rev": "7DD9tfAXp7Kkomgku6CSLhSMJn3NVI",
+      "_rev": "RqlU5nHlycQPtVWvvti10ZIjq9IFch",
       "_timestamp": {
-        "_nanoseconds": 688000000,
-        "_seconds": 1794144102
+        "_nanoseconds": 555000000,
+        "_seconds": 1794285956
       },
-      "_timestamp_ms": 1794144102688,
+      "_timestamp_ms": 1794285956555,
       "_type": "recipe",
       "_uid": "iPD6GM7QMGbK1uTM33gRwN6czDG3",
       "_version": "3.1.6",
@@ -1277,10 +1278,10 @@
           {
             "actualTime": 1794088800000,
             "displayPressure": null,
-            "displayStepTemp": 32,
+            "displayStepTemp": 31.3,
             "pressure": null,
             "ramp": null,
-            "stepTemp": 32,
+            "stepTemp": 31.3,
             "stepTime": 3,
             "type": "Primary"
           },
@@ -1709,7 +1710,7 @@
       "path": "/",
       "postBoilGravity": 1.048730446,
       "preBoilGravity": 1.04,
-      "primaryTemp": 32,
+      "primaryTemp": 31.3,
       "rbRatio": 0.43,
       "searchTags": [],
       "style": {
@@ -1999,9 +2000,9 @@
         "totalAdjustments": {
           "acids": [
             {
-              "alkalinityMeqL": -1.6829358005828596,
+              "alkalinityMeqL": -1.6763618326118328,
               "amount": 2.5,
-              "bicarbonate": -102.68601080836376,
+              "bicarbonate": -102.28489357864359,
               "chloride": 0,
               "concentration": 80,
               "sulfate": 0,
