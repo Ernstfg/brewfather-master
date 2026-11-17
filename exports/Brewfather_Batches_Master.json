@@ -7,12 +7,12 @@
     },
     "_id": "6MctqbomG2ccYOSWiO6NlutsSfXt8S",
     "_init": true,
-    "_rev": "BzWEgjYHVfvC5ggXGcSNk3dylJvoue",
+    "_rev": "sHEQiViUjxApmspzg2AdpKoOzAozsz",
     "_timestamp": {
-      "_nanoseconds": 649000000,
-      "_seconds": 1794286054
+      "_nanoseconds": 128000000,
+      "_seconds": 1794890903
     },
-    "_timestamp_ms": 1794286054649,
+    "_timestamp_ms": 1794890903128,
     "_type": "batch",
     "_version": "3.1.6",
     "batchFermentables": [
@@ -556,7 +556,7 @@
     ],
     "batchMiscsLocal": [],
     "batchNo": 50,
-    "batchNotes": "First time using maltpipe / digimash. Overshot preboil gravity with 3-4 points. Did do a finer mash. Not sure if the maltpipe had an effect. \n\nAdded 1 liter water to get preboil gravity of 19 liter. \nLooking at the actuals u think somewhere a reading were off. \n\nSG post boil reading was probably wrong as it appeared way off especially given preboil gravity was 4 points over. Made adjustments to actuals to match recipe. ",
+    "batchNotes": "First time using maltpipe / digimash. Overshot preboil gravity with 3-4 points. Did do a finer mash. Not sure if the maltpipe had an effect. \n\nAdded 1 liter water to get preboil gravity of 19 liter. \nLooking at the actuals u think somewhere a reading were off. \n\nSG post boil reading was probably wrong as it appeared way off especially given preboil gravity was 4 points over. Made adjustments to actuals to match recipe. \n\n\nOther \n\n\nStill getting that fruity aroma as in the previous high voltage batch although the simpler malt bill doesn't fight with it as much. ",
     "batchYeasts": [
       {
         "_created": {
@@ -620,7 +620,8 @@
       }
     ],
     "boilStepsCount": 3,
-    "bottlingDate": 1794607200000,
+    "bottlingDate": 1794890823769,
+    "bottlingDateSet": true,
     "brewControllerEnabled": false,
     "brewDate": 1794088800000,
     "brewer": "Ernst Gouws",
@@ -695,10 +696,10 @@
     },
     "estimatedBuGuRatio": 0.41,
     "estimatedColor": 5.4,
-    "estimatedFg": 1.007,
+    "estimatedFg": 1.009,
     "estimatedIbu": 20,
     "estimatedOg": 1.049,
-    "estimatedRbRatio": 0.45,
+    "estimatedRbRatio": 0.43,
     "estimatedTotalGravity": 1.049,
     "events": [
       {
@@ -725,16 +726,6 @@
       },
       {
         "active": true,
-        "dayEvent": true,
-        "description": "Bottling Day (Kalahari blond)",
-        "descriptionHTML": "Bottling Day (Kalahari blond)",
-        "eventText": "Bottling Day",
-        "eventType": "event-batch-bottling-day",
-        "time": 1794643200000,
-        "title": "Bottling Day - Batch #50 (Kalahari blond)"
-      },
-      {
-        "active": true,
         "dayEvent": false,
         "description": "Fermentation Profile Step: crash @ 2 °C",
         "descriptionHTML": "Fermentation Profile Step:<br>crash @ 2 °C",
@@ -742,6 +733,26 @@
         "eventType": "event-batch-ferm-step",
         "time": 1794384000000,
         "title": "Fermentation Step - Batch #50 (Kalahari blond)"
+      },
+      {
+        "active": true,
+        "dayEvent": true,
+        "description": "Bottling Day (Kalahari blond)",
+        "descriptionHTML": "Bottling Day (Kalahari blond)",
+        "eventText": "Bottling Day",
+        "eventType": "event-batch-bottling-day",
+        "time": 1794902400000,
+        "title": "Bottling Day - Batch #50 (Kalahari blond)"
+      },
+      {
+        "active": true,
+        "dayEvent": false,
+        "description": "Fermentation Profile Step: Completed - crash @ 2 °C",
+        "descriptionHTML": "Fermentation Profile Step:<br>Completed - crash @ 2 °C",
+        "eventText": "Completed - crash @ 2 °C",
+        "eventType": "event-batch-ferm-completed",
+        "time": 1794643200000,
+        "title": "Completed - Batch #50 (Kalahari blond)"
       }
     ],
     "featureContracts": {
@@ -755,13 +766,14 @@
     "hidden": false,
     "hideBatchEvents": true,
     "mashStepsCount": 1,
-    "measuredAbv": 5.5,
-    "measuredAttenuation": 85.2,
+    "measuredAbv": 5.3,
+    "measuredAttenuation": 81,
     "measuredBatchSize": 13,
     "measuredBoilSize": 19,
     "measuredConversionEfficiency": null,
     "measuredEfficiency": 63.07,
     "measuredFermenterTopUp": 0,
+    "measuredFg": 1.009,
     "measuredKettleEfficiency": 56.28,
     "measuredKettleSize": 14.6,
     "measuredMashEfficiency": 71.51,
@@ -772,6 +784,12 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
+      {
+        "note": "",
+        "status": "Conditioning",
+        "timestamp": 1794890823402,
+        "type": "statusChanged"
+      },
       {
         "note": "",
         "status": "Fermenting",
@@ -2061,7 +2079,7 @@
         }
       ]
     },
-    "status": "Fermenting",
+    "status": "Conditioning",
     "tasteRating": 0,
     "updatedBy": "user"
   },
@@ -22982,14 +23000,14 @@
     },
     "_id": "Qk2ugt84q4hXwxgB982gzbueJdxFqQ",
     "_init": true,
-    "_rev": "nUwBAimc4RoA86GE0EJkRNy3jbmfrK",
+    "_rev": "k1AfgAwcuZd8PIAZMwUZTtOhBYsSyc",
     "_timestamp": {
-      "_nanoseconds": 505000000,
-      "_seconds": 1792556234
+      "_nanoseconds": 467000000,
+      "_seconds": 1794891211
     },
-    "_timestamp_ms": 1792556234505,
+    "_timestamp_ms": 1794891211467,
     "_type": "batch",
-    "_version": "3.1.5",
+    "_version": "3.1.6",
     "batchFermentables": [
       {
         "_id": "default-c3ff8bb88f9",
@@ -47207,14 +47225,14 @@
     },
     "_id": "w79kQNvDgloLEZOmq1dEEi86tkOhdL",
     "_init": true,
-    "_rev": "W9LvkzYz2JlpHvOOn1ijnrhzJJNNDb",
+    "_rev": "Q1BQ4VkxKwRxKgCHHMVdoENTGqKzeD",
     "_timestamp": {
-      "_nanoseconds": 916000000,
-      "_seconds": 1772420820
+      "_nanoseconds": 906000000,
+      "_seconds": 1794860540
     },
-    "_timestamp_ms": 1772420820916,
+    "_timestamp_ms": 1794860540906,
     "_type": "batch",
-    "_version": "2.20.2",
+    "_version": "3.1.6",
     "batchFermentables": [
       {
         "_id": "default-d2c0778",
@@ -48222,6 +48240,7 @@
           }
         ],
         "mashFermentablesAmount": 3.06,
+        "mashInfusionWaterAmount": null,
         "mashVolume": 22.3302,
         "mashVolumeSurplus": 0,
         "mashWaterAmount": 20.28,
@@ -48229,6 +48248,7 @@
         "otherFermentablesAmount": 0,
         "spargeWaterAmount": 0,
         "strikeTemp": 67.7,
+        "strikeWaterAmount": 20.28,
         "topUpWater": 0,
         "totalDiastaticPower": 56.37,
         "totalWaterAmount": 20.28
@@ -49298,7 +49318,8 @@
       ]
     },
     "status": "Archived",
-    "tasteNotes": "Was good. Perhaps 1% less roast and a touch more munich. "
+    "tasteNotes": "Was good. Perhaps 1% less roast and a touch more munich. ",
+    "updatedBy": "user"
   },
   {
     "_archived": true,

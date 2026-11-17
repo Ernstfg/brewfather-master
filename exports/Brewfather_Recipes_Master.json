@@ -9301,12 +9301,12 @@
     "_id": "MU06X8V9zEP11cbAQnGEm5fUIZajPn",
     "_init": true,
     "_ref": "tNzx8hAT5OfMkgh4k0fYmUsrH8hNxl",
-    "_rev": "UznyCdmHvsDeAOnzZ8mDaecEZ04l9n",
+    "_rev": "2iJDSx2gr84rZd7JNQA6LFaUabUpFa",
     "_timestamp": {
-      "_nanoseconds": 576000000,
-      "_seconds": 1794156643
+      "_nanoseconds": 407000000,
+      "_seconds": 1794843084
     },
-    "_timestamp_ms": 1794156643576,
+    "_timestamp_ms": 1794843084407,
     "_type": "recipe",
     "_uid": "iPD6GM7QMGbK1uTM33gRwN6czDG3",
     "_version": "3.1.6",
@@ -9684,10 +9684,10 @@
       "steps": [
         {
           "displayPressure": null,
-          "displayStepTemp": 10,
+          "displayStepTemp": 11,
           "pressure": null,
           "ramp": null,
-          "stepTemp": 10,
+          "stepTemp": 11,
           "stepTime": 8,
           "type": "Primary"
         },
@@ -9979,7 +9979,7 @@
       }
     ],
     "name": "Marigold Lager",
-    "notes": "Changes for second batch affected in recipe - \n\nDrop melanoiden. \n\nDrop IBUs to 24\n\nReduce saaz late hops. \n\nMash at 65. \n\nLowered PH. \n\nLowered chloride. But lean malty. ",
+    "notes": "Changes for second batch affected in recipe - \n\nDrop melanoiden. \n\nDrop IBUs to 24\n\nReduce saaz late hops. \n\nMash at 65. (Actual 66) \n\nLowered PH. \n\nLowered chloride. But lean malty. ",
     "nutrition": {
       "calories": {
         "alcohol": 28.89569742532184,
@@ -9996,7 +9996,7 @@
     "path": "/International Pale Lager/",
     "postBoilGravity": 1.047349593,
     "preBoilGravity": 1.039,
-    "primaryTemp": 10,
+    "primaryTemp": 11,
     "rbRatio": 0.55,
     "searchTags": [],
     "style": {

@@ -1,24 +1,24 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-11-16 10:58
+# Brewfather Batches - Clean Readable Master - updated 2026-11-17 12:08
 
 Total batches: 45
 
 ## Batch #50 - Kalahari blond
 
 ### Overview
-- Status: Fermenting
+- Status: Conditioning
 - Style: Blonde Ale
 - Type: All Grain
 - Brewer: Ernst Gouws
 - Brew date: 2026-11-08
 - Fermentation start: 2026-11-08
-- Kegging / bottling date: 2026-11-14
+- Kegging / bottling date: 2026-11-17
 
 ### Targets vs actuals
 | Item | Target | Actual |
 |---|---:|---:|
 | OG | 1.049 | 1.049 |
-| FG | 1.008 |  |
-| ABV % | 5.38 | 5.5 |
+| FG | 1.008 | 1.009 |
+| ABV % | 5.38 | 5.3 |
 | IBU | 19.3 | 20 |
 | Colour EBC | 5.3 | 5.4 |
 | Pre-boil gravity | 1.040 | 1.040 |
@@ -29,7 +29,7 @@ Total batches: 45
 | Kegged / bottling volume L | 10 |  |
 | Brewhouse efficiency % | 57.9 | 63.07 |
 | Mash efficiency % | 70 | 71.51 |
-| Measured attenuation % |  | 85.2 |
+| Measured attenuation % |  | 81 |
 
 ### Equipment / volumes
 - Equipment profile: 12 liter setup (clear transfer)
@@ -82,7 +82,13 @@ First time using maltpipe / digimash. Overshot preboil gravity with 3-4 points. 
 Added 1 liter water to get preboil gravity of 19 liter. 
 Looking at the actuals u think somewhere a reading were off. 
 
-SG post boil reading was probably wrong as it appeared way off especially given preboil gravity was 4 points over. Made adjustments to actuals to match recipe.
+SG post boil reading was probably wrong as it appeared way off especially given preboil gravity was 4 points over. Made adjustments to actuals to match recipe. 
+
+
+Other 
+
+
+Still getting that fruity aroma as in the previous high voltage batch although the simpler malt bill doesn't fight with it as much.
 
 ### Taste
 - Rating: 0
@@ -90,6 +96,7 @@ SG post boil reading was probably wrong as it appeared way off especially given 
 ### Batch log / status notes
   - 2026-11-08 17:00 Planning: Pitched 8grams yeast at 31.2 dc.
   - 2026-11-08 17:35 Fermenting (statusChanged)
+  - 2026-11-17 06:47 Conditioning (statusChanged)
 
 
 ## Batch #49 - Kalahari blond

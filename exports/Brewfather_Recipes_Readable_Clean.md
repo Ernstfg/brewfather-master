@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-11-16 10:58
+# Brewfather Recipes - Clean Readable Master - updated 2026-11-17 12:08
 
 Total recipes: 26
 
@@ -523,7 +523,7 @@ Add 200 grams extra base malt to hit the mumbers. Was at its best at 30 days in 
 
 ### Fermentation profile
 - Profile: Lager (Quick Method)
-  - Primary: 10 °C for 8 days
+  - Primary: 11 °C for 8 days
   - Primary: 16 °C for 6 days
   - Cold Crash: 2 °C for 3 days
 
@@ -542,7 +542,7 @@ Drop IBUs to 24
 
 Reduce saaz late hops. 
 
-Mash at 65. 
+Mash at 65. (Actual 66) 
 
 Lowered PH. 
 
