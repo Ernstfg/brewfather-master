@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-11-17 12:08
+# Brewfather Recipes - Clean Readable Master - updated 2026-11-18 11:42
 
 Total recipes: 26
 
@@ -493,7 +493,7 @@ Add 200 grams extra base malt to hit the mumbers. Was at its best at 30 days in 
 - OG: 1.047
 - FG: 1.008
 - ABV: 5.12%
-- IBU: 24.6
+- IBU: 24.3
 - Color EBC: 4.1
 - Batch size L: 12
 - Boil size L: 17.5
@@ -504,8 +504,8 @@ Add 200 grams extra base malt to hit the mumbers. Was at its best at 30 days in 
   - 0.1 kg Dextrin Malt (3.33%, Crisp, 1.523 EBC)
 
 ### Hops
-  - 15 g Hallertau Perle - Boil, 60 min, 6.5% AA, 17.5 IBU
-  - 20 g Hallertauer Mittelfrueh - Boil, 15 min, 4% AA, 7.1 IBU
+  - 16 g Hallertau Perle - Boil, 60 min, 5.2% AA, 14.9 IBU
+  - 35 g Hallertauer Mittelfrueh - Boil, 15 min, 3% AA, 9.4 IBU
 
 ### Yeast
   - 2 pkg WHC Lab Einstein - 9–16 °C; 80% attenuation
@@ -513,7 +513,7 @@ Add 200 grams extra base malt to hit the mumbers. Was at its best at 30 days in 
 ### Miscellaneous
   - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
   - 2 g Gypsum (CaSO4) - Mash, Water Agent
-  - 2.5 ml Lactic Acid - Mash, Water Agent
+  - 3 ml Lactic Acid - Mash, Water Agent
   - 1 g ISY Enhabce - Boil, Other, 0 min
 
 ### Mash profile
@@ -531,7 +531,7 @@ Add 200 grams extra base malt to hit the mumbers. Was at its best at 30 days in 
 - Profile: Cape Aqua
 - Ca 67.24, Mg 0.2, Na 0.3, Cl 81.66, SO4 59.39, HCO3 0
 - SO4/Cl ratio: 0.73
-- Target mash pH: 5.32
+- Target mash pH: 5.28
 
 ### Notes
 Changes for second batch affected in recipe - 

@@ -1,6 +1,106 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-11-17 12:08
+# Brewfather Batches - Clean Readable Master - updated 2026-11-18 11:42
 
-Total batches: 45
+Total batches: 46
+
+## Batch #51 - Marigold Lager
+
+### Overview
+- Status: Fermenting
+- Style: International Pale Lager
+- Type: All Grain
+- Brewer: Ernst Gouws
+- Brew date: 2026-11-17
+- Fermentation start: 2026-11-18
+- Kegging / bottling date: 2026-12-05
+
+### Targets vs actuals
+| Item | Target | Actual |
+|---|---:|---:|
+| OG | 1.047 | 1.046 |
+| FG | 1.008 |  |
+| ABV % | 5.12 | 5 |
+| IBU | 24.3 | 24 |
+| Colour EBC | 4.1 | 4.1 |
+| Pre-boil gravity | 1.039 | 1.040 |
+| Post-boil gravity | 1.047 | 1.046 |
+| Mash pH | 5.28 | 5.1 |
+| Batch size L | 12 | 12.2 |
+| Boil size L | 17.5 | 17.5 |
+| Kegged / bottling volume L | 10 |  |
+| Brewhouse efficiency % | 61.7 | 60.94 |
+| Mash efficiency % | 72 | 73.85 |
+| Measured attenuation % |  | 82 |
+
+### Equipment / volumes
+- Equipment profile: 12 liter setup
+- Sparge formula: 0
+- Boil-off per hour L: 2.9
+- Fermenter loss L: 2
+- Trub/chiller loss L: 2
+
+### Fermentables
+  - 2.4 kg Swaen Pilsner (80%, The Swaen, 1.9 EBC)
+  - 0.5 kg Swaen Vienna (16.67%, The Swaen, 5.1 EBC)
+  - 0.1 kg Dextrin Malt (3.33%, Crisp, 1.523 EBC)
+
+### Hops
+  - 16 g Hallertau Perle - Boil, 60 min, 5.2% AA, 14.9 IBU
+  - 35 g Hallertauer Mittelfrueh - Boil, 15 min, 3% AA, 9.4 IBU
+
+### Yeast
+  - 2 pkg WHC Lab Einstein - 9–16 °C; 80% attenuation
+
+### Miscellaneous / water agents / finings
+  - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
+  - 2 g Gypsum (CaSO4) - Mash, Water Agent
+  - 3 ml Lactic Acid - Mash, Water Agent
+  - 1 g ISY Enhabce - Boil, Other, 0 min
+
+### Mash profile
+- Profile: High fermentability plus mash out
+  - Temperature: 66 °C for 60 min
+  - Mash Out: 78 °C for 10 min
+
+### Fermentation profile
+- Profile: Lager (Quick Method)
+  - Primary: 11 °C for 8 days
+  - Primary: 16 °C for 6 days
+  - Cold Crash: 2 °C for 3 days
+
+### Water profile
+- Profile: Cape Aqua
+- Ca 67.24, Mg 0.2, Na 0.3, Cl 81.66, SO4 59.39, HCO3 0
+- SO4/Cl ratio: 0.73
+- Target mash pH: 5.28
+
+### Recipe notes
+Changes for second batch affected in recipe - 
+
+Drop melanoiden. 
+
+Drop IBUs to 24
+
+Reduce saaz late hops. 
+
+Mash at 65. (Actual 66) 
+
+Lowered PH. 
+
+Lowered chloride. But lean malty.
+
+### Batch notes
+Battled to get ph right. Added too much lactic. 
+Mash temp was fairly consistent at 66. 
+Rest of brewday was standard.
+
+### Taste
+- Rating: 0
+
+### Batch log / status notes
+  - 2026-11-17 16:53 Brewing (statusChanged)
+  - 2026-11-18 08:45 Fermenting (statusChanged)
+  - 2026-11-18 08:45 Fermenting: Pitched 2 packets Einstein WHC at 12.5.
+
 
 ## Batch #50 - Kalahari blond
 

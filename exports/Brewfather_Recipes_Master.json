@@ -9301,12 +9301,12 @@
     "_id": "MU06X8V9zEP11cbAQnGEm5fUIZajPn",
     "_init": true,
     "_ref": "tNzx8hAT5OfMkgh4k0fYmUsrH8hNxl",
-    "_rev": "2iJDSx2gr84rZd7JNQA6LFaUabUpFa",
+    "_rev": "PuKYsRnrxBNMQ1cTcrEwdiLDGKQNi3",
     "_timestamp": {
-      "_nanoseconds": 407000000,
-      "_seconds": 1794843084
+      "_nanoseconds": 15000000,
+      "_seconds": 1794927213
     },
-    "_timestamp_ms": 1794843084407,
+    "_timestamp_ms": 1794927213015,
     "_type": "recipe",
     "_uid": "iPD6GM7QMGbK1uTM33gRwN6czDG3",
     "_version": "3.1.6",
@@ -9319,7 +9319,7 @@
     "batchSize": 12,
     "boilSize": 17.5,
     "boilTime": 60,
-    "buGuRatio": 0.52,
+    "buGuRatio": 0.51,
     "carbonation": 2.4,
     "carbonationStyle": {
       "carbMax": 3.2,
@@ -9334,7 +9334,7 @@
       "batchSpargeWaterAmount3": null,
       "batchSpargeWaterAmount4": null,
       "hltWaterAmount": 0,
-      "hopsAmount": 35,
+      "hopsAmount": 51,
       "mashFermentables": [
         {
           "_id": "default-c3ff8bb88f9",
@@ -9724,8 +9724,8 @@
       {
         "_id": "default-J80zzFn0TQEAwwaQuzMQsRYzrIvBOC",
         "actualTime": null,
-        "alpha": 6.5,
-        "amount": 15,
+        "alpha": 5.2,
+        "amount": 16,
         "bestBeforeDate": null,
         "beta": 3.5,
         "caryophyllene": null,
@@ -9734,7 +9734,7 @@
         "hidden": false,
         "hsi": 30,
         "humulene": null,
-        "ibu": 17.5,
+        "ibu": 14.9,
         "manufacturingDate": null,
         "myrcene": null,
         "name": "Hallertau Perle",
@@ -9765,8 +9765,8 @@
         "_timestamp_ms": 1723974350500,
         "_version": "2.10.6",
         "actualTime": null,
-        "alpha": 4,
-        "amount": 20,
+        "alpha": 3,
+        "amount": 35,
         "bestBeforeDate": null,
         "beta": null,
         "caryophyllene": null,
@@ -9775,7 +9775,7 @@
         "hidden": false,
         "hsi": null,
         "humulene": null,
-        "ibu": 7.1,
+        "ibu": 9.4,
         "inventory": -100,
         "manufacturingDate": null,
         "myrcene": null,
@@ -9794,8 +9794,8 @@
         "year": null
       }
     ],
-    "hopsTotalAmount": 35,
-    "ibu": 24.6,
+    "hopsTotalAmount": 51,
+    "ibu": 24.3,
     "ibuFormula": "tinseth",
     "img": "users/iPD6GM7QMGbK1uTM33gRwN6czDG3/images/recipes/MU06X8V9zEP11cbAQnGEm5fUIZajPn/MU06X8V9zEP11cbAQnGEm5fUIZajPn.png",
     "img_url": "https://firebasestorage.googleapis.com/v0/b/brewfather-app.appspot.com/o/users%2FiPD6GM7QMGbK1uTM33gRwN6czDG3%2Fimages%2Frecipes%2FMU06X8V9zEP11cbAQnGEm5fUIZajPn%2FMU06X8V9zEP11cbAQnGEm5fUIZajPn.png?alt=media",
@@ -9859,19 +9859,19 @@
           "_seconds": 1699176797
         },
         "_id": "default-3b1827",
-        "_rev": "xD9x1qmhYt1snySGFEG5hYH8K6gljD",
+        "_rev": "uIPz9gBrzZPbjYjKbpNGDdqa8TUYE8",
         "_timestamp": {
-          "_nanoseconds": 647000000,
-          "_seconds": 1789895044
+          "_nanoseconds": 815000000,
+          "_seconds": 1794130856
         },
-        "_timestamp_ms": 1789895044647,
-        "_version": "3.1.0",
+        "_timestamp_ms": 1794130856815,
+        "_version": "3.1.6",
         "amount": 3,
         "amountPerL": null,
         "bestBeforeDate": null,
         "concentration": null,
         "hidden": false,
-        "inventory": 32.5,
+        "inventory": 31,
         "manufacturingDate": null,
         "name": "Calcium Chloride (CaCl2)",
         "notes": "",
@@ -9922,19 +9922,19 @@
           "_seconds": 1706434207
         },
         "_id": "default-07adb1",
-        "_rev": "1f3RTpuz73jj4GfdSrqo9SZDV92mBR",
+        "_rev": "QhOBNeSbIJwrVyicngepfYNP26YaHg",
         "_timestamp": {
-          "_nanoseconds": 34000000,
-          "_seconds": 1789895045
+          "_nanoseconds": 292000000,
+          "_seconds": 1794130857
         },
-        "_timestamp_ms": 1789895045034,
-        "_version": "3.1.0",
-        "amount": 2.5,
+        "_timestamp_ms": 1794130857292,
+        "_version": "3.1.6",
+        "amount": 3,
         "amountPerL": null,
         "bestBeforeDate": null,
         "concentration": 80,
         "hidden": false,
-        "inventory": 334,
+        "inventory": 331.5,
         "manufacturingDate": null,
         "name": "Lactic Acid",
         "notes": "",
@@ -9997,7 +9997,7 @@
     "postBoilGravity": 1.047349593,
     "preBoilGravity": 1.039,
     "primaryTemp": 11,
-    "rbRatio": 0.55,
+    "rbRatio": 0.54,
     "searchTags": [],
     "style": {
       "_id": "default-5",
@@ -10043,7 +10043,7 @@
     "type": "All Grain",
     "updatedBy": "user",
     "water": {
-      "acidPhAdjustment": -0.22638,
+      "acidPhAdjustment": -0.27165,
       "diluted": null,
       "dilutionAmount": 0,
       "dilutionPercentage": null,
@@ -10087,9 +10087,9 @@
       "mashAdjustments": {
         "acids": [
           {
-            "alkalinityMeqL": -1.7881192881192882,
-            "amount": 2.5,
-            "bicarbonate": -109.10388648388648,
+            "alkalinityMeqL": -2.145743145743146,
+            "amount": 3,
+            "bicarbonate": -130.9246637806638,
             "chloride": 0,
             "concentration": 80,
             "sulfate": 0,
@@ -10118,7 +10118,7 @@
         "sulfate": 58.094,
         "volume": 19.2
       },
-      "mashPh": 5.32,
+      "mashPh": 5.28,
       "mashPhDistilled": 5.7,
       "mashTargetDiff": null,
       "mashWaterAmount": null,
@@ -10287,9 +10287,9 @@
       "totalAdjustments": {
         "acids": [
           {
-            "alkalinityMeqL": -1.7881192881192882,
-            "amount": 2.5,
-            "bicarbonate": -109.10388648388648,
+            "alkalinityMeqL": -2.145743145743146,
+            "amount": 3,
+            "bicarbonate": -130.9246637806638,
             "chloride": 0,
             "concentration": 80,
             "sulfate": 0,
