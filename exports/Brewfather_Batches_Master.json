@@ -7,12 +7,12 @@
     },
     "_id": "tD72WtcnJU0K47FkSXIrIVVUyXhsqo",
     "_init": true,
-    "_rev": "3cBg06zsw9VGNw0SlhKxpPn47Szssd",
+    "_rev": "AEVuCkl2B7IbRvMwT3nHijKN1ue9ZN",
     "_timestamp": {
-      "_nanoseconds": 554000000,
-      "_seconds": 1794984327
+      "_nanoseconds": 543000000,
+      "_seconds": 1794997193
     },
-    "_timestamp_ms": 1794984327554,
+    "_timestamp_ms": 1794997193543,
     "_type": "batch",
     "_version": "3.1.6",
     "batchFermentables": [
@@ -670,6 +670,11 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
+      {
+        "note": "Over day 1 slowly lowered the fermentation temp to 11. I want a cold ferment.",
+        "status": "Fermenting",
+        "timestamp": 1794997157671
+      },
       {
         "note": "Pitched 2 packets Einstein WHC at 12.5.",
         "status": "Fermenting",

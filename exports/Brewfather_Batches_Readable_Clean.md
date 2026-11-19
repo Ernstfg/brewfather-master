@@ -1,4 +1,4 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-11-18 11:42
+# Brewfather Batches - Clean Readable Master - updated 2026-11-19 11:51
 
 Total batches: 46
 
@@ -100,6 +100,7 @@ Rest of brewday was standard.
   - 2026-11-17 16:53 Brewing (statusChanged)
   - 2026-11-18 08:45 Fermenting (statusChanged)
   - 2026-11-18 08:45 Fermenting: Pitched 2 packets Einstein WHC at 12.5.
+  - 2026-11-18 12:19 Fermenting: Over day 1 slowly lowered the fermentation temp to 11. I want a cold ferment.
 
 
 ## Batch #50 - Kalahari blond
