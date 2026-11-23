@@ -7,12 +7,12 @@
     },
     "_id": "tD72WtcnJU0K47FkSXIrIVVUyXhsqo",
     "_init": true,
-    "_rev": "AEVuCkl2B7IbRvMwT3nHijKN1ue9ZN",
+    "_rev": "1NhgNVJMRWrlDVfkoZTvhPureHgeqC",
     "_timestamp": {
-      "_nanoseconds": 543000000,
-      "_seconds": 1794997193
+      "_nanoseconds": 10000000,
+      "_seconds": 1795422386
     },
-    "_timestamp_ms": 1794997193543,
+    "_timestamp_ms": 1795422386010,
     "_type": "batch",
     "_version": "3.1.6",
     "batchFermentables": [
@@ -496,7 +496,7 @@
       }
     ],
     "boilStepsCount": 3,
-    "bottlingDate": 1796453102534,
+    "bottlingDate": 1796107502534,
     "bottlingDateSet": false,
     "brewControllerEnabled": false,
     "brewDate": 1794866400000,
@@ -602,16 +602,6 @@
       },
       {
         "active": true,
-        "dayEvent": true,
-        "description": "Bottling Day (Marigold Lager)",
-        "descriptionHTML": "Bottling Day (Marigold Lager)",
-        "eventText": "Bottling Day",
-        "eventType": "event-batch-bottling-day",
-        "time": 1796457600000,
-        "title": "Bottling Day - Batch #51 (Marigold Lager)"
-      },
-      {
-        "active": true,
         "dayEvent": false,
         "description": "Fermentation Profile Step: Primary (Fermentation) @ 11 °C",
         "descriptionHTML": "Fermentation Profile Step:<br>Primary (Fermentation) @ 11 °C",
@@ -623,11 +613,11 @@
       {
         "active": true,
         "dayEvent": false,
-        "description": "Fermentation Profile Step: Primary (Fermentation) @ 16 °C",
-        "descriptionHTML": "Fermentation Profile Step:<br>Primary (Fermentation) @ 16 °C",
-        "eventText": "Primary (Fermentation) @ 16 °C",
+        "description": "Fermentation Profile Step: Primary (Fermentation) @ 14 °C",
+        "descriptionHTML": "Fermentation Profile Step:<br>Primary (Fermentation) @ 14 °C",
+        "eventText": "Primary (Fermentation) @ 14 °C",
         "eventType": "event-batch-ferm-step",
-        "time": 1795680000000,
+        "time": 1795507200000,
         "title": "Fermentation Step - Batch #51 (Marigold Lager)"
       },
       {
@@ -637,8 +627,18 @@
         "descriptionHTML": "Fermentation Profile Step:<br>Cold Crash (Fermentation) @ 2 °C",
         "eventText": "Cold Crash (Fermentation) @ 2 °C",
         "eventType": "event-batch-ferm-step",
-        "time": 1796198400000,
+        "time": 1795766400000,
         "title": "Fermentation Step - Batch #51 (Marigold Lager)"
+      },
+      {
+        "active": true,
+        "dayEvent": true,
+        "description": "Bottling Day (Marigold Lager)",
+        "descriptionHTML": "Bottling Day (Marigold Lager)",
+        "eventText": "Bottling Day",
+        "eventType": "event-batch-bottling-day",
+        "time": 1796112000000,
+        "title": "Bottling Day - Batch #51 (Marigold Lager)"
       }
     ],
     "featureContracts": {
@@ -649,7 +649,7 @@
     },
     "fermentationControllerEnabled": false,
     "fermentationStartDate": 1794984302534,
-    "fermentationStartDateSet": true,
+    "fermentationStartDateSet": false,
     "hidden": false,
     "hideBatchEvents": true,
     "mashStepsCount": 2,
@@ -670,6 +670,11 @@
     "measurements": [],
     "name": "Batch",
     "notes": [
+      {
+        "note": "Started d rest at 14dc. \n\nIncreased spunding valve to 3 psi.",
+        "status": "Fermenting",
+        "timestamp": 1795422263058
+      },
       {
         "note": "Over day 1 slowly lowered the fermentation temp to 11. I want a cold ferment.",
         "status": "Fermenting",
@@ -1099,27 +1104,27 @@
             "pressure": null,
             "ramp": null,
             "stepTemp": 11,
-            "stepTime": 8,
-            "type": "Primary"
-          },
-          {
-            "actualTime": 1795644000000,
-            "displayPressure": null,
-            "displayStepTemp": 16,
-            "pressure": null,
-            "ramp": null,
-            "stepTemp": 16,
             "stepTime": 6,
             "type": "Primary"
           },
           {
-            "actualTime": 1796162400000,
+            "actualTime": 1795471200000,
+            "displayPressure": null,
+            "displayStepTemp": 14,
+            "pressure": null,
+            "ramp": null,
+            "stepTemp": 14,
+            "stepTime": 3,
+            "type": "Primary"
+          },
+          {
+            "actualTime": 1795730400000,
             "displayPressure": null,
             "displayStepTemp": 2,
             "pressure": null,
             "ramp": null,
             "stepTemp": 2,
-            "stepTime": 3,
+            "stepTime": 4,
             "type": "Cold Crash"
           }
         ]
@@ -1785,12 +1790,12 @@
     },
     "_id": "6MctqbomG2ccYOSWiO6NlutsSfXt8S",
     "_init": true,
-    "_rev": "sHEQiViUjxApmspzg2AdpKoOzAozsz",
+    "_rev": "yAzfOqpdyYHcm6rVmMNWNNfxeCEe8h",
     "_timestamp": {
-      "_nanoseconds": 128000000,
-      "_seconds": 1794890903
+      "_nanoseconds": 273000000,
+      "_seconds": 1795341393
     },
-    "_timestamp_ms": 1794890903128,
+    "_timestamp_ms": 1795341393273,
     "_type": "batch",
     "_version": "3.1.6",
     "batchFermentables": [
@@ -1875,7 +1880,7 @@
         "grainCategory": "Base (Pilsner)",
         "hidden": false,
         "ibuPerAmount": null,
-        "inventory": 5.5,
+        "inventory": 3.1,
         "manufacturingDate": null,
         "maxInBatch": null,
         "moisture": null,
@@ -1976,7 +1981,7 @@
         "grainCategory": "Base",
         "hidden": false,
         "ibuPerAmount": 0,
-        "inventory": 0.6,
+        "inventory": 0.5,
         "manufacturingDate": null,
         "maxInBatch": 15,
         "moisture": 7,
@@ -2075,7 +2080,7 @@
         "hsi": 30,
         "humulene": null,
         "ibu": 0,
-        "inventory": 123,
+        "inventory": 107,
         "manufacturingDate": null,
         "myrcene": null,
         "name": "Hallertau Perle",
@@ -2118,7 +2123,7 @@
         "costPerAmount": 0,
         "displayAmount": 2.5,
         "hidden": false,
-        "inventory": 929.5,
+        "inventory": 927.5,
         "inventoryUnit": "g",
         "manufacturingDate": null,
         "name": "Gypsum (CaSO4)",
@@ -2155,7 +2160,7 @@
         "costPerAmount": 0,
         "displayAmount": 0,
         "hidden": false,
-        "inventory": 31,
+        "inventory": 28,
         "inventoryUnit": "g",
         "manufacturingDate": null,
         "name": "Calcium Chloride (CaCl2)",
@@ -2195,7 +2200,7 @@
         "costPerAmount": 0,
         "displayAmount": 0,
         "hidden": false,
-        "inventory": 331.5,
+        "inventory": 328.5,
         "inventoryUnit": "ml",
         "manufacturingDate": null,
         "name": "Lactic Acid",
@@ -2313,7 +2318,7 @@
         "costPerAmount": 0,
         "displayAmount": 0,
         "hidden": false,
-        "inventory": 45.4,
+        "inventory": 44.4,
         "inventoryUnit": "g",
         "manufacturingDate": null,
         "name": "ISY Enhabce",

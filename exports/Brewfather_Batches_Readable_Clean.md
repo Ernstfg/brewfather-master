@@ -1,4 +1,4 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-11-22 11:19
+# Brewfather Batches - Clean Readable Master - updated 2026-11-23 12:15
 
 Total batches: 46
 
@@ -11,7 +11,7 @@ Total batches: 46
 - Brewer: Ernst Gouws
 - Brew date: 2026-11-17
 - Fermentation start: 2026-11-18
-- Kegging / bottling date: 2026-12-05
+- Kegging / bottling date: 2026-12-01
 
 ### Targets vs actuals
 | Item | Target | Actual |
@@ -63,9 +63,9 @@ Total batches: 46
 
 ### Fermentation profile
 - Profile: Lager (Quick Method)
-  - Primary: 11 °C for 8 days
-  - Primary: 16 °C for 6 days
-  - Cold Crash: 2 °C for 3 days
+  - Primary: 11 °C for 6 days
+  - Primary: 14 °C for 3 days
+  - Cold Crash: 2 °C for 4 days
 
 ### Water profile
 - Profile: Cape Aqua
@@ -101,6 +101,9 @@ Rest of brewday was standard.
   - 2026-11-18 08:45 Fermenting (statusChanged)
   - 2026-11-18 08:45 Fermenting: Pitched 2 packets Einstein WHC at 12.5.
   - 2026-11-18 12:19 Fermenting: Over day 1 slowly lowered the fermentation temp to 11. I want a cold ferment.
+  - 2026-11-23 10:24 Fermenting: Started d rest at 14dc. 
+
+Increased spunding valve to 3 psi.
 
 
 ## Batch #50 - Kalahari blond
