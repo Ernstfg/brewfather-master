@@ -17885,13 +17885,13 @@
     "_init": true,
     "_origin": null,
     "_public": false,
-    "_rev": "fvtWAkXtzXXXxoI1YDjRbn0UNgonX8",
+    "_rev": "ZA9FighZXBRbXKJWY3lMtKeF4v4i4y",
     "_share": null,
     "_timestamp": {
-      "_nanoseconds": 184000000,
-      "_seconds": 1793592303
+      "_nanoseconds": 20000000,
+      "_seconds": 1795430165
     },
-    "_timestamp_ms": 1793592303184,
+    "_timestamp_ms": 1795430165020,
     "_type": "recipe",
     "_uid": "iPD6GM7QMGbK1uTM33gRwN6czDG3",
     "_version": "3.1.6",
@@ -18315,20 +18315,20 @@
       "steps": [
         {
           "displayPressure": null,
-          "displayStepTemp": 14,
+          "displayStepTemp": 11,
           "pressure": null,
           "ramp": null,
-          "stepTemp": 14,
-          "stepTime": 8,
+          "stepTemp": 11,
+          "stepTime": 6,
           "type": "Primary"
         },
         {
           "displayPressure": null,
-          "displayStepTemp": 17,
+          "displayStepTemp": 14,
           "pressure": null,
           "ramp": null,
-          "stepTemp": 17,
-          "stepTime": 4,
+          "stepTemp": 14,
+          "stepTime": 3,
           "type": "Primary"
         },
         {
@@ -18698,7 +18698,7 @@
     "path": "/Schwarzbier/",
     "postBoilGravity": 1.049439412,
     "preBoilGravity": 1.041,
-    "primaryTemp": 14,
+    "primaryTemp": 11,
     "public": false,
     "rbRatio": 0.46,
     "searchTags": [],
@@ -19039,13 +19039,13 @@
         },
         "_timestamp_ms": 1775809389640,
         "_version": "3.0.0",
-        "amount": 2,
+        "amount": 250,
         "attenuation": 80,
         "bestBeforeDate": 1835301600000,
         "description": "A German Lager yeast that has it characterized by a clean profile, low ester formation during\nfermentation and medium sulphur production. A good bottom fermenting yeast strain for cold\nfermentation A great choice for all lager styles.",
         "fermentsAll": false,
         "flocculation": "Low",
-        "form": "Dry",
+        "form": "Slurry",
         "hidden": false,
         "inventory": 2,
         "laboratory": "WHC Lab",
@@ -19058,7 +19058,7 @@
         "name": "Einstein",
         "productId": "",
         "type": "Lager",
-        "unit": "pkg",
+        "unit": "ml",
         "userNotes": ""
       }
     ]

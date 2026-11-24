@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-11-23 12:15
+# Brewfather Recipes - Clean Readable Master - updated 2026-11-24 13:58
 
 Total recipes: 26
 
@@ -962,7 +962,7 @@ No dry hops
   - 30 g Hallertauer Mittelfrueh - Aroma, 5 min, 99 °C, 3.2% AA, 2.9 IBU
 
 ### Yeast
-  - 2 pkg WHC Lab Einstein - 9–16 °C; 80% attenuation
+  - 250 ml WHC Lab Einstein - 9–16 °C; 80% attenuation
 
 ### Miscellaneous
   - 3 g Calcium Chloride (CaCl2) - Mash, Water Agent
@@ -978,8 +978,8 @@ No dry hops
 
 ### Fermentation profile
 - Profile: Lager (Standard)
-  - Primary: 14 °C for 8 days
-  - Primary: 17 °C for 4 days
+  - Primary: 11 °C for 6 days
+  - Primary: 14 °C for 3 days
   - Crash : 2 °C for 5 days
 
 ### Water profile
