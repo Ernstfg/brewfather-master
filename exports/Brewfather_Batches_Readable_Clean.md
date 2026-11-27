@@ -1,4 +1,4 @@
-# Brewfather Batches - Clean Readable Master - updated 2026-11-26 12:25
+# Brewfather Batches - Clean Readable Master - updated 2026-11-27 12:30
 
 Total batches: 46
 
@@ -64,7 +64,7 @@ Total batches: 46
 ### Fermentation profile
 - Profile: Lager (Quick Method)
   - Primary: 11 °C for 6 days
-  - Primary: 14 °C for 3 days
+  - Primary: 14 °C for 5 days
   - Cold Crash: 2 °C for 4 days
 
 ### Water profile

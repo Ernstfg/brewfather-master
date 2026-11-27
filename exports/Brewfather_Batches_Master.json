@@ -2,17 +2,17 @@
   {
     "_archived": false,
     "_created": {
-      "_nanoseconds": 103000000,
-      "_seconds": 1794927225
+      "_nanoseconds": 127000000,
+      "_seconds": 1795766786
     },
     "_id": "tD72WtcnJU0K47FkSXIrIVVUyXhsqo",
     "_init": true,
-    "_rev": "1NhgNVJMRWrlDVfkoZTvhPureHgeqC",
+    "_rev": "EXFUPE14a8sDtw0s3SeNHTKQCiF8Ud",
     "_timestamp": {
-      "_nanoseconds": 10000000,
-      "_seconds": 1795422386
+      "_nanoseconds": 127000000,
+      "_seconds": 1795766786
     },
-    "_timestamp_ms": 1795422386010,
+    "_timestamp_ms": 1795766786127,
     "_type": "batch",
     "_version": "3.1.6",
     "batchFermentables": [
@@ -622,16 +622,6 @@
       },
       {
         "active": true,
-        "dayEvent": false,
-        "description": "Fermentation Profile Step: Cold Crash (Fermentation) @ 2 °C",
-        "descriptionHTML": "Fermentation Profile Step:<br>Cold Crash (Fermentation) @ 2 °C",
-        "eventText": "Cold Crash (Fermentation) @ 2 °C",
-        "eventType": "event-batch-ferm-step",
-        "time": 1795766400000,
-        "title": "Fermentation Step - Batch #51 (Marigold Lager)"
-      },
-      {
-        "active": true,
         "dayEvent": true,
         "description": "Bottling Day (Marigold Lager)",
         "descriptionHTML": "Bottling Day (Marigold Lager)",
@@ -639,6 +629,26 @@
         "eventType": "event-batch-bottling-day",
         "time": 1796112000000,
         "title": "Bottling Day - Batch #51 (Marigold Lager)"
+      },
+      {
+        "active": true,
+        "dayEvent": false,
+        "description": "Fermentation Profile Step: Cold Crash (Fermentation) @ 2 °C",
+        "descriptionHTML": "Fermentation Profile Step:<br>Cold Crash (Fermentation) @ 2 °C",
+        "eventText": "Cold Crash (Fermentation) @ 2 °C",
+        "eventType": "event-batch-ferm-step",
+        "time": 1795939200000,
+        "title": "Fermentation Step - Batch #51 (Marigold Lager)"
+      },
+      {
+        "active": true,
+        "dayEvent": false,
+        "description": "Fermentation Profile Step: Completed - Cold Crash (Fermentation) @ 2 °C",
+        "descriptionHTML": "Fermentation Profile Step:<br>Completed - Cold Crash (Fermentation) @ 2 °C",
+        "eventText": "Completed - Cold Crash (Fermentation) @ 2 °C",
+        "eventType": "event-batch-ferm-completed",
+        "time": 1796284800000,
+        "title": "Completed - Batch #51 (Marigold Lager)"
       }
     ],
     "featureContracts": {
@@ -716,12 +726,12 @@
       "_init": true,
       "_public": false,
       "_ref": "tNzx8hAT5OfMkgh4k0fYmUsrH8hNxl",
-      "_rev": "PuKYsRnrxBNMQ1cTcrEwdiLDGKQNi3",
+      "_rev": "83REpEuMxnloGdGaM1AMS52EZQiRtZ",
       "_timestamp": {
-        "_nanoseconds": 15000000,
-        "_seconds": 1794927213
+        "_nanoseconds": 121000000,
+        "_seconds": 1795766786
       },
-      "_timestamp_ms": 1794927213015,
+      "_timestamp_ms": 1795766786121,
       "_type": "recipe",
       "_uid": "iPD6GM7QMGbK1uTM33gRwN6czDG3",
       "_version": "3.1.6",
@@ -1114,11 +1124,11 @@
             "pressure": null,
             "ramp": null,
             "stepTemp": 14,
-            "stepTime": 3,
+            "stepTime": 5,
             "type": "Primary"
           },
           {
-            "actualTime": 1795730400000,
+            "actualTime": 1795903200000,
             "displayPressure": null,
             "displayStepTemp": 2,
             "pressure": null,
@@ -1415,7 +1425,6 @@
       "postBoilGravity": 1.047349593,
       "preBoilGravity": 1.039,
       "primaryTemp": 11,
-      "public": false,
       "rbRatio": 0.54,
       "searchTags": [],
       "style": {

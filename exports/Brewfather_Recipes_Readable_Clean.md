@@ -1,4 +1,4 @@
-# Brewfather Recipes - Clean Readable Master - updated 2026-11-26 12:25
+# Brewfather Recipes - Clean Readable Master - updated 2026-11-27 12:30
 
 Total recipes: 26
 
@@ -942,24 +942,24 @@ No dry hops
 - Created: 2024-11-29
 
 ### Targets
-- OG: 1.049
+- OG: 1.050
 - FG: 1.012
-- ABV: 4.86%
-- IBU: 23.3
-- Color EBC: 23.9
+- ABV: 4.99%
+- IBU: 24.7
+- Color EBC: 24.4
 - Batch size L: 12
 - Boil size L: 18
 
 ### Fermentables
-  - 2 kg Swaen Pilsner (60.61%, The Swaen, 1.9 EBC)
-  - 1 kg Swaen Munich Light (30.3%, The Swaen, 6.6 EBC)
-  - 0.2 kg Carafa Special II (6.06%, Weyermann, 558.376 EBC)
-  - 0.1 kg GoldSwaen Classic (3.03%, The Swaen, 61 EBC)
+  - 2 kg Swaen Pilsner (59.7%, The Swaen, 1.9 EBC)
+  - 1 kg Swaen Munich Light (29.85%, The Swaen, 6.6 EBC)
+  - 0.2 kg Carafa Special II (5.97%, Weyermann, 558.376 EBC)
+  - 0.15 kg GoldSwaen Classic (4.48%, The Swaen, 61 EBC)
 
 ### Hops
-  - 15 g Hallertau Perle - Boil, 60 min, 6.3% AA, 16.4 IBU
-  - 15 g Hallertauer Mittelfrueh - Boil, 10 min, 3.2% AA, 4 IBU
-  - 30 g Hallertauer Mittelfrueh - Aroma, 5 min, 99 °C, 3.2% AA, 2.9 IBU
+  - 15 g Hallertau Perle - Boil, 60 min, 6.3% AA, 16.2 IBU
+  - 25 g Hallertauer Mittelfrueh - Boil, 10 min, 3.2% AA, 6.6 IBU
+  - 20 g Hallertauer Mittelfrueh - Aroma, 5 min, 99 °C, 3.2% AA, 1.9 IBU
 
 ### Yeast
   - 250 ml WHC Lab Einstein - 9–16 °C; 80% attenuation
@@ -979,14 +979,14 @@ No dry hops
 ### Fermentation profile
 - Profile: Lager (Standard)
   - Primary: 11 °C for 6 days
-  - Primary: 14 °C for 3 days
+  - Primary: 14 °C for 4 days
   - Crash : 2 °C for 5 days
 
 ### Water profile
 - Profile: spar spring
 - Ca 67.95, Mg 0.2, Na 3.3, Cl 82.45, SO4 62.1, HCO3 3.4
 - SO4/Cl ratio: 0.75
-- Target mash pH: 5.29
+- Target mash pH: 5.28
 
 
 ## Karoo Ale
